@@ -13,12 +13,11 @@
 
 # # Setup
 
-# In[1]:
+# In[ ]:
 
 
 import pandas as pd
 import requests
-# from splinter import Browser
 from bs4 import BeautifulSoup as bs
 # from googleapiclient import discovery
 from pathlib import Path
@@ -29,7 +28,7 @@ from bgo import login_data
 
 # Ideally, a connection using Google API could be made to reference GameIDs as logged in spreadsheet. Short of achieveing this, see below for list of Game IDs.
 
-# In[2]:
+# In[ ]:
 
 
 game_id_list = pd.read_csv('game_id_list.csv')
@@ -40,7 +39,7 @@ game_id_list = game_id_list['Game_ID'].to_list()
 
 # Set up session with login credentials from bgo.py
 
-# In[3]:
+# In[ ]:
 
 
 site = 'http://boardgaming-online.com'
@@ -51,7 +50,7 @@ session.post(site, data=login_data)
 
 # ### Functions
 
-# In[4]:
+# In[ ]:
 
 
 def get_logs(session, game_id):
@@ -74,8 +73,8 @@ def get_logs(session, game_id):
         """
         helper function to identify game journal content from html response, convert to dataframe, and clean columns
         """
-        tables = pd.read_html(response.text)
-        page = tables[-1]
+        tables = pd.read_html(response.text.replace('<', ' <')) # replace separate lines formatted by HTML in text 
+        page = tables[-1] # known that a few tables are present on webpage. last one is always the game journal
         page.rename(inplace=True,
             columns={0:'time',
                      1:'player',
@@ -85,7 +84,7 @@ def get_logs(session, game_id):
         return page
 
     url_template = 'http://www.boardgaming-online.com/index.php?cnt=52&pl={game_id}&pg={page_num}'
-    page_num = 1
+    page_num = 1 # default first page
     
     response = session.get(url_template.format(game_id=game_id, page_num=page_num))
     if response.status_code == 200:
