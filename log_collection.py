@@ -27,43 +27,13 @@ from bgo import login_data
 
 # ## Google API
 
-# In[ ]:
-
-
-credentials = None
-service = discovery.build('sheets','v4', credentials=credentials)
-
-
-# In[ ]:
-
-
-# copied from google api doc example:
-# The ID of the spreadsheet to retrieve data from.
-spreadsheet_id = '1195389494'  # TODO: Update placeholder value.
-
-# The A1 notation of the values to retrieve.
-range_ = 'A1:A100'  # TODO: Update placeholder value.
-
-# How values should be represented in the output.
-# The default render option is ValueRenderOption.FORMATTED_VALUE.
-value_render_option = ''  # TODO: Update placeholder value.
-
-# How dates, times, and durations should be represented in the output.
-# This is ignored if value_render_option is
-# FORMATTED_VALUE.
-# The default dateTime render option is [DateTimeRenderOption.SERIAL_NUMBER].
-date_time_render_option = ''  # TODO: Update placeholder value.
-
-request = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range=range_, valueRenderOption=value_render_option, dateTimeRenderOption=date_time_render_option)
-response = request.execute()
-
-
 # Ideally, a connection using Google API could be made to reference GameIDs as logged in spreadsheet. Short of achieveing this, see below for list of Game IDs.
 
 # In[2]:
 
 
 game_id_list = pd.read_csv('game_id_list.csv')
+game_id_list = game_id_list['Game_ID'].to_list()
 
 
 # ## Boardgaming-Online
@@ -81,7 +51,7 @@ session.post(site, data=login_data)
 
 # ### Functions
 
-# In[14]:
+# In[4]:
 
 
 def get_logs(session, game_id):
@@ -120,15 +90,12 @@ def get_logs(session, game_id):
     response = session.get(url_template.format(game_id=game_id, page_num=page_num))
     if response.status_code == 200:
         page_max = get_page_max(response)
-        print(f'max_pages: {page_max}')
         logs_paged = [get_journal_page(response)]
         if page_max > page_num:
             for page in range(page_num, page_max):
-                print(f'retrieving page: {page+1} of {page_max} \nurl: {url_template.format(game_id=game_id, page_num=page+1)}')
                 response = session.get(url_template.format(game_id=game_id, page_num=page+1))
                 logs_paged.append(get_journal_page(response))
             logs = pd.concat(logs_paged, ignore_index=True)
-            print(logs_paged)
         else:
             logs = logs_paged[0]
     else:
@@ -138,62 +105,15 @@ def get_logs(session, game_id):
     return logs
 
 
-# In[ ]:
-
-
-response = session.get(url_template.format(game_id=game_id))
-soup = bs(response.text, 'html.parser')
-
-
-# In[ ]:
-
-
-soup.find_all('a', {'class': 'numPageLien'})
-
-
-# In[ ]:
-
-
-max([int(link.get_text()) for link in soup.find_all('a', {'class': 'numPageLien'})])
-
-
-# In[ ]:
-
-
-tables = pd.read_html(response.text)
-log = tables[-1]
-
-# clean log
-log.rename(inplace=True,
-    columns={0:'time',
-             1:'player',
-             2:'age',
-             3:'round',
-             4:'text'})
-
-
-# In[ ]:
-
-
-log['text'][0]
-
-
 # # Data Collection
 
-# In[15]:
-
-
-result = get_logs(session, '7493350')
-
-
-# In[16]:
-
-
-result
-
-
 # In[ ]:
 
 
+journal_path = Path('gamejournals')
 
+for game in game_id_list:
+    output_file = journal_path.joinpath(f'{game}.csv')
+    print(f'Collecting game data for {game}, saving to {output_file}')
+    get_logs(session, game).to_csv(output_file)
 
