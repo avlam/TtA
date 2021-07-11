@@ -13,7 +13,7 @@
 
 # # Setup
 
-# In[ ]:
+# In[1]:
 
 
 import pandas as pd
@@ -28,7 +28,7 @@ from bgo import login_data
 
 # Ideally, a connection using Google API could be made to reference GameIDs as logged in spreadsheet. Short of achieveing this, see below for list of Game IDs.
 
-# In[ ]:
+# In[2]:
 
 
 game_id_list = pd.read_csv('game_id_list.csv')
@@ -39,7 +39,7 @@ game_id_list = game_id_list['Game_ID'].to_list()
 
 # Set up session with login credentials from bgo.py
 
-# In[ ]:
+# In[3]:
 
 
 site = 'http://boardgaming-online.com'
@@ -50,7 +50,7 @@ session.post(site, data=login_data)
 
 # ### Functions
 
-# In[ ]:
+# In[4]:
 
 
 def get_logs(session, game_id):
@@ -73,7 +73,7 @@ def get_logs(session, game_id):
         """
         helper function to identify game journal content from html response, convert to dataframe, and clean columns
         """
-        tables = pd.read_html(response.text.replace('<', ' <')) # replace separate lines formatted by HTML in text 
+        tables = pd.read_html(response.text.replace('<', '  <')) # replace separate lines formatted by HTML in text 
         page = tables[-1] # known that a few tables are present on webpage. last one is always the game journal
         page.rename(inplace=True,
             columns={0:'time',
@@ -106,7 +106,7 @@ def get_logs(session, game_id):
 
 # # Data Collection
 
-# In[ ]:
+# In[5]:
 
 
 journal_path = Path('gamejournals')
