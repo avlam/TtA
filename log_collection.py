@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Context
+# Context
 
 # Objectives: 
 # 1. Retrieve list of Game IDs from https://docs.google.com/spreadsheets/d/1Lvu2dSS43P-FoaHSVLAuLHJvVfyUAtrXrm9xtK-Cc-8/edit?usp=sharing
@@ -11,11 +11,7 @@
 # Stretch Goals:
 # 1. Scrape Civilopedia
 
-# # Setup
-
-# In[1]:
-
-
+# Setup
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup as bs
@@ -24,35 +20,28 @@ from pathlib import Path
 from bgo import login_data
 
 
-# ## Google API
-
+# Google API
 # Ideally, a connection using Google API could be made to reference GameIDs as logged in spreadsheet. Short of achieveing this, see below for list of Game IDs.
-
-# In[2]:
-
 
 game_id_list = pd.read_csv('game_id_list.csv')
 game_id_list = game_id_list['Game_ID'].to_list()
 
 
-# ## Boardgaming-Online
-
+# Boardgaming-Online
 # Set up session with login credentials from bgo.py
-
-# In[3]:
-
-
-site = 'http://boardgaming-online.com'
-
-session = requests.Session()
-session.post(site, data=login_data)
-
-
-# ### Functions
-
-# In[4]:
+def create_BGO_session():
+    """
+    create an authenticated session for HTML scraping of boardgaming-online.com. returns a session object for use with requests.
+    no input arguments needed unless this function is to be generalized in the future for other sites.
+    """
+    site = 'http://boardgaming-online.com'
+    session = requests.Session()
+    session.post(site, data=login_data)
+    # Add error handling of authentication in the future
+    return session
 
 
+# Function(s)
 def get_logs(session, game_id):
     """
     Retrieve game journal from Boardgaming-online.com provided an authenticated session.
@@ -105,14 +94,12 @@ def get_logs(session, game_id):
 
 
 # # Data Collection
-
-# In[5]:
-
-
-journal_path = Path('gamejournals')
-
-for game in game_id_list:
-    output_file = journal_path.joinpath(f'{game}.csv')
-    print(f'Collecting game data for {game}, saving to {output_file}')
-    get_logs(session, game).to_csv(output_file)
+if __name__ == "__main__":
+    # As written log collection will cycle through all ids in game_id_list and recreate .csv files. add arguments to use this same script for single game log collection
+    journal_path = Path('gamejournals')
+    session = create_BGO_session()
+    for game in game_id_list:
+        output_file = journal_path.joinpath(f'{game}.csv')
+        print(f'Collecting game data for {game}, saving to {output_file}')
+        get_logs(session, game).to_csv(output_file)
 
