@@ -67,7 +67,7 @@ def get_logs(session, game_id, save=False):
         """
         helper function to identify game journal content from html response, convert to dataframe, and clean columns
         """
-        tables = pd.read_html(response.text.replace('<', '  <')) # replace separate lines formatted by HTML in text 
+        tables = pd.read_html(response.text.replace('</p>', f'{SPACING_CHAR}</p>')) # mark line separation within text
         page = tables[-1] # known that a few tables are present on webpage. last one is always the game journal
         page.rename(inplace=True,
             columns={0:'time',
@@ -94,6 +94,8 @@ def get_logs(session, game_id, save=False):
     else:
         print('Something went wrong')
         pass
+    
+    logs.iloc[:,:4] = logs.iloc[:,:4].applymap(lambda x: x.replace(SPACING_CHAR, ''))
     
     if save:
         print(f'Saving to {OUTPUT_FILE}')
