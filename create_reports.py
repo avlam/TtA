@@ -1,18 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Setup
-
-# In[1]:
-
-
+# Setup
 import pandas as pd
 from pathlib import Path
 from matplotlib import pyplot as plt
-
-
-# In[2]:
-
 
 locations = {
     'staging':Path.cwd().joinpath('staging'),
@@ -20,33 +12,17 @@ locations = {
     'reports':Path.cwd().joinpath('reports')
 }
 
-
-# # Load Tables
-
-# In[3]:
-
-
+# Load Tables
 games = pd.read_csv(locations['staging'].joinpath('games.csv'), index_col=0)
 views = list(locations['analysis'].glob('*.csv'))
 
 analysis_views={}
 for view in views:
     analysis_views[view.stem] = pd.read_csv(view, index_col=0)
-
-
-# In[4]:
-
-
 analysis_views['game_scores'].head()
 
-
-# # Reports
-
-# ## player performance
-
-# In[5]:
-
-
+# Reports
+## player performance
 data_source = analysis_views['game_scores']
 focus_player = 'david'
 
@@ -57,11 +33,5 @@ place_counts = filtered_data.groupby('seat')['place'].value_counts().unstack().f
 overall.index = pd.CategoricalIndex(overall.index, ['orange','purple','green','grey'])
 overall.sort_index().join(place_counts)
 
-
-# ## seating order randomization
-
-# In[ ]:
-
-
-
+## seating order randomization
 
