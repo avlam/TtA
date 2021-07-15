@@ -1,826 +1,826 @@
 ,time,player,age,round,text
-0,2020-07-21 19:37:24,Orange,IV,19,End of game Check the journal to get the final impacts effects : Impact of Strength Impact of Science Impact of Progress Impact of Architecture Impact of Colonies Impact of Agriculture WINNER IS DAVID LI AS PURPLE (211 PTS) 2nd is teddy yeh as Grey (188 pts) 3rd is Micah Yospe as Green (167 pts) 4th is X L as Orange (151 pts)
-1,2020-07-21 19:37:24,Grey,IV,19,Impact of Agriculture Each civilization scores culture equal to the amount of food its farms produce. Orange scores 6 culture Purple scores 6 culture Green scores 10 culture Grey scores 5 culture
-2,2020-07-21 19:37:24,Grey,IV,19,Impact of Colonies Each civilization scores 4 culture per colony. Orange scores 0 culture Purple scores 12 culture Green scores 16 culture Grey scores 8 culture
-3,2020-07-21 19:37:24,Grey,IV,19,Impact of Architecture Each civilization scores 1 culture per level of its urban buildings. Orange scores 2 culture Purple scores 16 culture Green scores 14 culture Grey scores 11 culture
-4,2020-07-21 19:37:24,Grey,IV,19,Impact of Progress Each civilization scores 2 culture per level of each of its government and special (blue) technologies. Orange scores 12 culture Purple scores 18 culture Green scores 12 culture Grey scores 24 culture
-5,2020-07-21 19:37:24,Grey,IV,19,Impact of Science Score culture according to science rating: 15/10/5/0 for 4-player 14/7/0 for 3-player 10/0 for 2-player Orange scores 0 culture Purple scores 15 culture Green scores 5 culture Grey scores 10 culture
-6,2020-07-21 19:37:24,Grey,IV,19,Impact of Strength Score culture according to strength: 15/10/5/0 for 4-player 14/7/0 for 3-player 10/0 for 2-player Orange scores 10 culture Purple scores 15 culture Green scores 0 culture Grey scores 5 culture
-7,2020-07-21 19:37:24,Grey,IV,19,End turn Grey scores: 2 food - consumption: 3 (now 2) 7 resources (now 7) 19 culture (now 125) 15 science (now 20)
-8,2020-07-21 19:37:17,Grey,IV,18,Grey takes Endowment for the Arts in hand 1 civil action used
-9,2020-07-21 19:37:12,Grey,IV,18,Grey discovers Satellites 8 science spent
-10,2020-07-21 19:37:07,Grey,IV,18,Grey builds Agriculture Grey spends 2 resources
-11,2020-07-21 19:37:02,Grey,IV,18,Grey destroys Iron
-12,2020-07-21 19:36:55,Grey,IV,18,Grey builds Religion Grey spends 3 resources
-13,2020-07-21 19:36:38,Grey,IV,18,Grey increases population Grey spends 5 food
-14,2020-07-21 19:36:31,Grey,IV,18,Grey builds Multimedia Grey spends 7 resources
-15,2020-07-21 19:34:27,Grey,IV,18,No Discard Phase
-16,2020-07-21 19:34:27,Grey,IV,18,Grey plays event Grey scores 3 culture Current event: III / Impact of Industry Each civilization scores culture equal to the amount of resources it produce. Orange scores 4 culture Purple scores 13 culture Green scores 11 culture Grey scores 9 culture
-17,2020-07-21 19:25:32,Green,IV,18,End turn Green scores: 7 food - consumption: 3 (now 8) 11 resources (now 11) 16 culture (now 99) 6 science (now 6)
-18,2020-07-21 19:25:21,Green,IV,18,Green takes Civil Service in hand 1 civil action used
-19,2020-07-21 19:25:18,Green,IV,18,Green takes Tanks in hand 1 civil action used
-20,2020-07-21 19:24:35,Green,IV,18,Green upgrades Irrigation to Mechanized Agriculture Green spends 4 resources
-21,2020-07-21 19:23:30,Green,IV,18,Green upgrades Irrigation to Mechanized Agriculture Green spends 4 resources
-22,2020-07-21 19:22:27,Green,IV,18,Green discovers Mechanized Agriculture 7 science spent
-23,2020-07-21 19:22:21,Green,IV,18,Green plays Mineral Deposits Green produces 4 resources
-24,2020-07-21 19:22:17,Green,IV,18,Green builds Religion Green spends 3 resources
-25,2020-07-21 19:22:04,Green,IV,18,Green upgrades Drama to Movies Green spends 5 resources
-26,2020-07-21 19:21:23,Green,IV,18,No Discard Phase
-27,2020-07-21 19:21:23,Green,IV,18,Green plays event Green scores 3 culture Current event: II / Cold War The two strongest civilizations score 6 science. Purple scores 6 science Orange scores 6 science
-28,2020-07-21 19:20:48,Purple,IV,18,End turn Purple scores: 4 food - consumption: 2 (now 5) 13 resources (now 13) 16 culture (now 116) 15 science (now 16)
-29,2020-07-21 19:17:48,Purple,IV,18,Purple builds Modern Infantry Purple spends 7 resources
-30,2020-07-21 19:17:40,Purple,IV,18,Purple upgrades Alchemy to Computers Purple spends 4 resources
-31,2020-07-21 19:17:31,Purple,IV,18,Purple builds Computers using Ideal Building Site Purple spends 5 resources
-32,2020-07-21 19:17:20,Purple,IV,18,Purple increases population Purple spends 4 food
-33,2020-07-21 19:17:15,Purple,IV,18,Purple increases population Purple spends 4 food
-34,2020-07-21 19:17:11,Purple,IV,18,Purple elects Sid Meier
-35,2020-07-21 19:17:07,Purple,IV,18,Purple discovers Computers 8 science spent
-36,2020-07-21 19:17:00,Purple,IV,18,Purple discovers Modern Infantry 8 science spent
-37,2020-07-21 19:16:48,Purple,IV,18,Action Phase begins
-38,2020-07-21 19:16:48,Purple,IV,18,Purple discards 1 cards
-39,2020-07-21 19:05:02,Purple,IV,18,Discard Phase 1 military card must be discarded
-40,2020-07-21 19:05:02,Green,IV,18,Green colonizes a Inhabited Territory Sacrificed Units: 1 Swordsmen 1 Colonization card +3 1 Colonization card +3 Total force: 8 Green increases population by 2
-41,2020-07-21 19:02:13,Grey,IV,18,Green wins Inhabited Territory Winning bid is 8
-42,2020-07-21 19:02:12,Grey,IV,18,Grey passes
-43,2020-07-21 19:01:46,Green,IV,18,Green bids 8
-44,2020-07-21 18:59:38,Orange,IV,18,Orange passes
-45,2020-07-21 18:47:37,Grey,IV,18,Grey bids 7
-46,2020-07-21 18:46:44,Green,IV,18,Green bids 2
-47,2020-07-21 18:45:57,Purple,IV,18,Purple passes
-48,2020-07-21 18:44:23,Purple,IV,18,Purple plays event Purple scores 3 culture Current event: II / Inhabited Territory 2 population
-49,2020-07-21 18:29:59,Orange,IV,18,End turn Orange scores: 2 food - consumption: 4 (now 4) 4 resources (now 6) 16 culture (now 117) 3 science (now 3)
-50,2020-07-21 18:29:20,Orange,IV,18,Orange takes Fundamentalism in hand 1 civil action used
-51,2020-07-21 18:28:15,Orange,IV,18,Orange builds Warrior Orange spends 2 resources
-52,2020-07-21 18:28:10,Orange,IV,18,Orange builds Riflemen Orange spends 5 resources
-53,2020-07-21 18:27:58,Orange,IV,18,Orange plays Mineral Deposits Orange produces 4 resources
-54,2020-07-21 18:27:07,Orange,IV,18,Orange destroys Bronze
-55,2020-07-21 18:26:46,Orange,IV,18,Orange destroys Philosophy
-56,2020-07-21 18:26:16,Orange,IV,18,Orange builds Air Forces Orange spends 7 resources
-57,2020-07-21 18:26:09,Orange,IV,18,Orange discovers Air Forces 11 science spent
-58,2020-07-21 18:26:02,Orange,IV,18,Orange takes Air Forces in hand 1 civil action used
-59,2020-07-21 18:25:58,Orange,IV,18,Orange plays Revolutionary Idea
-60,2020-07-21 18:25:51,Orange,IV,18,Orange increases population Orange spends 5 food
-61,2020-07-21 18:25:35,Orange,IV,18,No Discard Phase
-62,2020-07-21 18:25:35,Orange,IV,18,Orange passes Political Phase
-63,2020-07-21 18:13:48,Grey,IV,18,Last turn Game ends at the end of the starting round Units may no longer be sacrificed
-64,2020-07-21 18:13:48,Grey,IV,18,End turn Grey scores: 2 food - consumption: 2 (now 5) 9 resources (now 12) Grey draws 3 military cards 16 culture (now 94) 12 science (now 13) Age IV begins. Each player loses 2 yellow tokens John Amos Comenius dies. Promise of Military Protection expires.
-65,2020-07-21 18:13:48,Grey,IV,18,Last turn Game ends at the end of the starting round Units may no longer be sacrificed
-66,2020-07-21 18:13:27,Grey,III,17,Grey increases population Grey spends 4 food
-67,2020-07-21 18:13:11,Grey,III,17,Grey discovers Military Theory 12 science spent
-68,2020-07-21 18:13:06,Grey,III,17,Grey takes Military Theory in hand 1 civil action used
-69,2020-07-21 18:13:01,Grey,III,17,Grey builds Movies Grey spends 9 resources
-70,2020-07-21 18:12:56,Grey,III,17,Grey increases population Grey spends 4 food
-71,2020-07-21 18:12:40,Grey,III,17,Grey discovers Movies 10 science spent
-72,2020-07-21 18:12:33,Grey,III,17,Grey takes Movies in hand 1 civil action used
-73,2020-07-21 18:12:29,Grey,III,17,Action Phase begins
-74,2020-07-21 18:12:29,Grey,III,17,Grey discards 2 cards
-75,2020-07-21 18:08:17,Grey,III,17,Discard Phase 2 military cards must be discarded
-76,2020-07-21 18:08:17,Purple,III,17,Purple colonizes a Fertile Territory Sacrificed Units: 1 Riflemen 1 Riflemen 1 Colonization card +3 Colonization bonus: +3 Total force: 13 Purple produces 5 food
-77,2020-07-21 18:03:41,Green,III,17,Purple wins Fertile Territory Winning bid is 13
-78,2020-07-21 18:03:41,Green,III,17,Green passes
-79,2020-07-21 18:02:33,Purple,III,17,Purple bids 13
-80,2020-07-21 18:00:59,Grey,III,17,Grey passes
-81,2020-07-21 17:44:52,Green,III,17,Green bids 10
-82,2020-07-21 17:44:24,Purple,III,17,Purple bids 9
-83,2020-07-21 17:41:47,Orange,III,17,Orange passes
-84,2020-07-21 17:37:56,Grey,III,17,Grey bids 4
-85,2020-07-21 17:37:31,Grey,III,17,Grey plays event Grey scores 3 culture Future events are now current events. Current event: II / Fertile Territory 5 food
-86,2020-07-21 17:34:15,Green,III,17,End turn Green scores: 1 food - consumption: 3 (now 1) 11 resources (now 12) Green draws 3 military cards 13 culture (now 80) 6 science (now 7)
-87,2020-07-21 17:34:07,Green,III,17,Green takes Mineral Deposits in hand 2 civil actions used
-88,2020-07-21 17:34:03,Green,III,17,Green upgrades Opera to Movies Green spends 2 resources
-89,2020-07-21 17:33:44,Green,III,17,Green builds Movies Green spends 9 resources
-90,2020-07-21 17:33:31,Green,III,17,Green increases population Green spends 5 food
-91,2020-07-21 17:33:25,Green,III,17,Green plays Bountiful Harvest Green produces 4 food
-92,2020-07-21 17:33:21,Green,III,17,Green discovers Movies 10 science spent
-93,2020-07-21 17:33:15,Green,III,17,Green takes Movies in hand 1 civil action used
-94,2020-07-21 17:33:07,Green,III,17,Action Phase begins
-95,2020-07-21 17:33:07,Green,III,17,Green discards 3 cards
-96,2020-07-21 17:32:49,Green,III,17,Discard Phase 3 military cards must be discarded
-97,2020-07-21 17:32:49,Green,III,17,Green passes Political Phase
-98,2020-07-21 17:31:21,Purple,III,17,End turn Purple scores: John Amos Comenius produces 3 culture 3 food - consumption: 3 (now 4) 13 resources (now 16) Purple draws 3 military cards 12 culture (now 97) 10 science (now 17)
-99,2020-07-21 17:29:51,Purple,III,17,Purple builds Riflemen Purple spends 5 resources
-100,2020-07-21 17:29:19,Purple,III,17,Purple takes Modern Infantry in hand 1 civil action used
-101,2020-07-21 17:29:05,Purple,III,17,Purple takes Ideal Building Site in hand 2 civil actions used
-102,2020-07-21 17:29:02,Purple,III,17,Purple increases population Purple spends 5 food
-103,2020-07-21 17:28:53,Purple,III,17,Purple upgrades Iron to Oil using Efficient Upgrade Purple spends 2 resources
-104,2020-07-21 17:28:42,Purple,III,17,Purple discovers Oil 9 science spent
-105,2020-07-21 17:28:37,Purple,III,17,Purple takes Oil in hand 1 civil action used
-106,2020-07-21 17:28:18,Purple,III,17,Action Phase begins
-107,2020-07-21 17:28:18,Purple,III,17,Purple discards 2 cards
-108,2020-07-21 17:21:10,Purple,III,17,Discard Phase 2 military cards must be discarded
-109,2020-07-21 17:21:10,Grey,III,17,Grey loses Developed Territory (II)
-110,2020-07-21 17:20:40,Purple,III,17,Purple plays event Purple scores 3 culture Current event: II / Independence Declaration The weakest civilization loses 1 colony (owner's choice). Grey must choose a colony to lose
-111,2020-07-21 17:17:50,Orange,III,17,End turn Orange scores: 3 food - consumption: 3 (now 7) 5 resources (now 12) Orange draws 1 military card 15 culture (now 101) 4 science (now 5)
-112,2020-07-21 17:16:07,Orange,III,17,Orange takes Revolutionary Idea in hand 0 civil action and 2 military actions used
-113,2020-07-21 17:14:35,Orange,III,17,Orange revolutions Change government to Democracy 8 science points spent
-114,2020-07-21 17:14:24,Orange,III,17,No Discard Phase
-115,2020-07-21 17:14:24,Orange,III,17,Orange passes Political Phase
-116,2020-07-21 17:12:53,Grey,III,17,End turn Grey scores: 3 food - consumption: 1 (now 11) 9 resources (now 12) Grey draws 3 military cards 12 culture (now 75) 12 science (now 23)
-117,2020-07-21 17:12:42,Grey,III,16,Grey plays Revolutionary Idea
-118,2020-07-21 17:12:23,Grey,III,16,Grey upgrades Iron to Oil using Efficient Upgrade Grey spends 3 resources
-119,2020-07-21 17:12:16,Grey,III,16,Grey discovers Oil 9 science spent
-120,2020-07-21 17:12:08,Grey,III,16,Grey takes Oil in hand 1 civil action used
-121,2020-07-21 17:12:04,Grey,III,16,Grey takes Satellites in hand 2 civil actions used
-122,2020-07-21 17:12:00,Grey,III,16,Grey takes Modern Infantry in hand 1 civil action used
-123,2020-07-21 17:11:53,Grey,III,16,Action Phase begins
-124,2020-07-21 17:11:53,Grey,III,16,Grey discards 2 cards
-125,2020-07-21 17:09:30,Grey,III,16,Discard Phase 2 military cards must be discarded
-126,2020-07-21 17:09:30,Green,III,16,Green accepts pact offer
-127,2020-07-21 16:55:12,Grey,III,16,Grey proposes Peace Treaty to Green Grey is A Green is B The two civilizations cannot attack each other. Each civilization produces 1 extra culture.
-128,2020-07-21 16:49:02,Green,III,16,End turn Green scores: 1 food - consumption: 3 (now 1) 11 resources (now 12) Green draws 3 military cards 7 culture (now 67) 6 science (now 11)
-129,2020-07-21 16:48:51,Green,III,16,Green takes Multimedia in hand 1 civil action used
-130,2020-07-21 16:48:47,Green,III,16,Green takes Computers in hand 2 civil actions used
-131,2020-07-21 16:48:25,Green,III,16,Green takes Bountiful Harvest in hand 1 civil action used
-132,2020-07-21 16:48:10,Green,III,16,Green elects Bill Gates Isaac Newton dies
-133,2020-07-21 16:47:59,Green,III,16,Green builds Opera using Ideal Building Site Green spends 3 resources
-134,2020-07-21 16:47:49,Green,III,16,Green upgrades Bronze to Coal using Efficient Upgrade Green spends 2 resources
-135,2020-07-21 16:47:28,Green,III,16,Green discovers Opera 7 science spent Isaac Newton gives 1 civil action back
-136,2020-07-21 16:47:23,Green,III,16,Green discovers Engineering 9 science spent Isaac Newton gives 1 civil action back
-137,2020-07-21 16:47:15,Green,III,16,Green increases population Green spends 5 food
-138,2020-07-21 16:47:09,Green,III,16,Action Phase begins
-139,2020-07-21 16:47:09,Green,III,16,Green discards 2 cards
-140,2020-07-21 16:47:02,Green,III,16,Discard Phase 2 military cards must be discarded
-141,2020-07-21 16:47:02,Green,III,16,Green passes Political Phase
-142,2020-07-21 16:43:06,Purple,III,16,End turn Purple scores: John Amos Comenius produces 3 culture 3 food - consumption: 3 (now 6) 8 resources (now 10) Purple draws 3 military cards 12 culture (now 82) 10 science (now 16)
-143,2020-07-21 16:40:11,Purple,III,16,Purple takes Military Theory in hand 1 civil action used
-144,2020-07-21 16:40:08,Purple,III,16,Purple takes Efficient Upgrade in hand 1 civil action used
-145,2020-07-21 16:40:03,Purple,III,16,Purple builds Riflemen Purple spends 1 resource
-146,2020-07-21 16:39:55,Purple,III,16,Purple plays Patriotism
-147,2020-07-21 16:39:38,Purple,III,16,Purple increases population Purple spends 4 food
-148,2020-07-21 16:39:33,Purple,III,16,Purple builds Riflemen Purple spends 5 resources
-149,2020-07-21 16:39:16,Purple,III,16,Purple increases population Purple spends 4 food
-150,2020-07-21 16:39:08,Purple,III,16,Purple builds Professional Sports Purple spends 6 resources
-151,2020-07-21 16:39:04,Purple,III,16,Purple discovers Professional Sports 7 science spent
-152,2020-07-21 16:29:00,Purple,III,16,No Discard Phase
-153,2020-07-21 16:29:00,Grey,III,16,Grey destroys Philosophy
-154,2020-07-21 16:24:37,Purple,III,16,Grey must destroy/disband Choose 1 building/mine/farm/unit
-155,2020-07-21 16:24:37,Purple,III,16,Purple plays event Purple scores 3 culture Current event: II / Refugees The weakest civilization loses 3 culture and 1 population. The strongest gains 3 culture and 1 population. Purple gains 3 culture and 1 population Grey loses 3 cultureand 1 population
-156,2020-07-21 16:23:58,Orange,III,16,End turn Orange scores: 3 food - consumption: 3 (now 4) 5 resources (now 7) 10 culture (now 86) 4 science (now 9)
-157,2020-07-21 16:23:41,Orange,III,16,Orange takes Mineral Deposits in hand 0 civil action and 1 military action used
-158,2020-07-21 16:23:31,Orange,III,16,Orange upgrades Irrigation to Selective breeding Orange spends 2 resources
-159,2020-07-21 16:23:15,Orange,III,16,Orange upgrades Irrigation to Selective breeding Orange spends 2 resources
-160,2020-07-21 16:23:09,Orange,III,16,Orange elects Tomá Garrigue Masaryk Johannes Sebastian Bach dies
-161,2020-07-21 16:22:07,Orange,III,16,Orange discovers Selective breeding 5 science spent
-162,2020-07-21 16:21:52,Orange,III,16,Orange takes Tomá Garrigue Masaryk in hand 2 civil actions used
-163,2020-07-21 16:21:48,Orange,III,16,No Discard Phase
-164,2020-07-21 16:21:48,Orange,III,16,Orange passes Political Phase
-165,2020-07-21 16:16:26,Grey,III,16,End turn Grey scores: 3 food - consumption: 1 (now 8) 6 resources (now 6) Grey draws 3 military cards 11 culture (now 66) 13 science (now 16)
-166,2020-07-21 16:16:19,Grey,III,15,Grey builds Multimedia Grey spends 6 resources
-167,2020-07-21 16:16:07,Grey,III,15,Grey discovers Multimedia 9 science spent
-168,2020-07-21 16:16:00,Grey,III,15,Grey elects Santiago Ramón y Cajal
-169,2020-07-21 16:15:52,Grey,III,15,Grey takes Santiago Ramón y Cajal in hand 2 civil actions used
-170,2020-07-21 16:15:50,Grey,III,15,Grey takes Multimedia in hand 1 civil action used
-171,2020-07-21 16:15:46,Grey,III,15,Grey takes Engineering Genius in hand 1 civil action used
-172,2020-07-21 16:15:42,Grey,III,15,Action Phase begins
-173,2020-07-21 16:15:42,Grey,III,15,Grey discards 1 cards
-174,2020-07-21 16:14:13,Grey,III,15,Discard Phase 1 military card must be discarded
-175,2020-07-21 16:14:13,Grey,III,15,Grey plays event Grey scores 3 culture Current event: II / Popularization of Science Each civilization scores culture equal to its science rating. Orange scores 4 culture Purple scores 13 culture (John Amos Comenius: +3) Green scores 8 culture Grey scores 7 culture
-176,2020-07-21 16:13:04,Green,III,15,End turn Green scores: 1 food - consumption: 3 (now 5) 5 resources (now 6) Green draws 3 military cards 4 culture (now 52) 8 science (now 21)
-177,2020-07-21 16:12:52,Green,III,15,Green takes Bill Gates in hand 1 civil action used
-178,2020-07-21 16:12:33,Green,III,15,Green puts Bill Gates back in the row 1 civil action recovered
-179,2020-07-21 16:12:19,Green,III,15,Green takes Bill Gates in hand 1 civil action used
-180,2020-07-21 16:12:03,Green,III,15,Green takes Mechanized Agriculture in hand 2 civil actions used
-181,2020-07-21 16:11:48,Green,III,15,Green puts Efficient Upgrade back in the row 3 civil actions recovered
-182,2020-07-21 16:11:43,Green,III,15,Green takes Air Forces in hand 3 civil actions used
-183,2020-07-21 16:11:40,Green,III,15,Green puts Mechanized Agriculture back in the row 2 civil actions recovered
-184,2020-07-21 16:11:24,Green,III,15,Green takes Mechanized Agriculture in hand 2 civil actions used
-185,2020-07-21 16:11:21,Green,III,15,Green upgrades Bronze to Coal Green spends 6 resources
-186,2020-07-21 16:11:15,Green,III,15,Green takes Efficient Upgrade in hand 3 civil actions used
-187,2020-07-21 16:11:12,Green,III,15,Green takes Efficient Upgrade in hand 1 civil action used
-188,2020-07-21 16:11:05,Green,III,15,No Discard Phase
-189,2020-07-21 16:11:05,Green,III,15,Green passes Political Phase
-190,2020-07-21 16:05:54,Purple,III,15,End turn Purple scores: John Amos Comenius produces 3 culture 4 food - consumption: 2 (now 11) 8 resources (now 14) Purple draws 3 military cards 12 culture (now 51) 10 science (now 13)
-191,2020-07-21 16:04:20,Purple,III,15,Purple takes Patriotism in hand 1 civil action used
-192,2020-07-21 16:04:18,Purple,III,15,Purple puts Efficient Upgrade back in the row 1 civil action recovered
-193,2020-07-21 16:04:04,Purple,III,15,Purple takes Efficient Upgrade in hand 1 civil action used
-194,2020-07-21 16:03:35,Purple,III,15,Purple discovers Strategy 6 science spent
-195,2020-07-21 16:03:20,Purple,III,15,Purple builds Journalism Purple spends 6 resources
-196,2020-07-21 16:03:14,Purple,III,15,Purple increases population Purple spends 4 food
-197,2020-07-21 16:03:04,Purple,III,15,Purple takes Professional Sports in hand 1 civil action used
-198,2020-07-21 16:03:02,Purple,III,15,Purple takes Computers in hand 2 civil actions used
-199,2020-07-21 16:02:58,Purple,III,15,Action Phase begins
-200,2020-07-21 16:02:58,Purple,III,15,Purple discards 4 cards
-201,2020-07-21 15:49:44,Purple,III,15,Discard Phase 4 military cards must be discarded
-202,2020-07-21 15:49:44,Purple,III,15,Purple colonizes a Strategic Territory Sacrificed Units: 1 Knights 1 Colonization card +2 1 Colonization card +2 Colonization bonus: +3 Total force: 9 Purple draws 5 military cards
-203,2020-07-21 15:47:03,Orange,III,15,Purple wins Strategic Territory Winning bid is 8
-204,2020-07-21 15:47:03,Orange,III,15,Orange passes
-205,2020-07-21 15:34:35,Grey,III,15,Grey passes
-206,2020-07-21 15:24:17,Green,III,15,Green passes
-207,2020-07-21 15:16:01,Purple,III,15,Purple bids 8
-208,2020-07-21 15:15:11,Purple,III,15,Purple plays event Purple scores 2 culture Current event: II / Strategic Territory 5 military cards
-209,2020-07-21 15:14:53,Orange,III,15,End turn Orange scores: 1 food - consumption: 3 (now 1) 5 resources (now 6) 8 culture (now 72) 4 science (now 10)
-210,2020-07-21 15:14:28,Orange,III,15,Orange takes Democracy in hand 2 civil actions used
-211,2020-07-21 15:14:08,Orange,III,15,Orange builds Riflemen Orange spends 5 resources
-212,2020-07-21 15:14:01,Orange,III,15,Orange builds Riflemen Orange spends 5 resources
-213,2020-07-21 15:13:54,Orange,III,15,Orange discovers Riflemen 5 science spent
-214,2020-07-21 15:13:48,Orange,III,15,Orange increases population Orange spends 5 food
-215,2020-07-21 15:13:43,Orange,III,15,Orange increases population Orange spends 4 food
-216,2020-07-21 15:13:36,Orange,III,15,Action Phase begins
-217,2020-07-21 15:13:36,Orange,III,15,Orange discards 2 cards
-218,2020-07-21 15:13:32,Orange,III,15,Discard Phase 2 military cards must be discarded
-219,2020-07-21 15:13:32,Orange,III,15,Orange passes Political Phase
-220,2020-07-21 14:51:29,Grey,III,15,End turn Grey scores: 3 food - consumption: 1 (now 5) 6 resources (now 6) Grey draws 3 military cards 5 culture (now 45) 7 science (now 12)
-221,2020-07-21 14:51:17,Grey,III,14,Grey increases population Grey spends 3 food
-222,2020-07-21 14:50:56,Grey,III,14,Grey takes Maximillien Robespierre in hand 1 civil action used
-223,2020-07-21 14:50:45,Grey,III,14,Grey builds 4 stages of Harvard College Grey spends 12 resources Wonder completed
-224,2020-07-21 14:50:38,Grey,III,14,Grey discovers Engineering 9 science spent
-225,2020-07-21 14:50:26,Grey,III,14,Grey takes Harvard College in hand 2 civil actions used
-226,2020-07-21 14:50:14,Grey,III,14,Grey takes Engineering in hand 1 civil action used
-227,2020-07-21 14:49:36,Grey,III,14,Grey builds Cavalrymen Grey spends 5 resources
-228,2020-07-21 14:49:12,Grey,III,14,No Discard Phase
-229,2020-07-21 14:49:12,Grey,III,14,Grey passes Political Phase
-230,2020-07-21 12:46:54,Green,III,14,End turn Green scores: 1 food - consumption: 3 (now 4) 3 resources (now 7) Green draws 1 military card 4 culture (now 48) 8 science (now 13)
-231,2020-07-21 12:46:26,Green,III,14,Green takes Rockets in hand 2 civil actions used
-232,2020-07-21 12:45:30,Green,III,14,Green takes Engineering in hand 2 civil actions used
-233,2020-07-21 12:45:26,Green,III,14,Green puts Democracy back in the row 3 civil actions recovered
-234,2020-07-21 12:45:21,Green,III,14,Green takes Democracy in hand 3 civil actions used
-235,2020-07-21 12:43:21,Green,III,14,Green puts Engineering back in the row 2 civil actions recovered
-236,2020-07-21 12:43:13,Green,III,14,Green takes Ideal Building Site in hand 3 civil actions used
-237,2020-07-21 12:41:48,Green,III,14,Green discovers Coal 7 science spent Isaac Newton gives 1 civil action back
-238,2020-07-21 12:38:30,Green,III,14,Green takes Engineering in hand 2 civil actions used
-239,2020-07-21 12:38:08,Green,III,14,Green plays Tactics II / Classic Army
-240,2020-07-21 12:38:03,Green,III,14,Green builds Cavalrymen Green spends 5 resources
-241,2020-07-21 12:37:42,Green,III,14,Green plays Frugality Green increases population Green spends 4 food Green produces 3 food
-242,2020-07-21 11:15:09,Green,III,14,No Discard Phase
-243,2020-07-21 11:15:09,Grey,III,14,Grey colonizes a Developed Territory Sacrificed Units: 1 Cavalrymen 1 Colonization card +2 1 Colonization card +3 Colonization bonus: +2 Total force: 10 Grey scores 5 science
-244,2020-07-21 11:14:18,Purple,III,14,Grey wins Developed Territory Winning bid is 10
-245,2020-07-21 11:14:18,Purple,III,14,Purple passes
-246,2020-07-21 11:09:31,Grey,III,14,Grey bids 10
-247,2020-07-21 11:08:25,Purple,III,14,Purple bids 9
-248,2020-07-21 10:11:30,Grey,III,14,Grey bids 8
-249,2020-07-21 08:20:05,Green,III,14,Green passes
-250,2020-07-20 23:06:42,Purple,III,14,Purple bids 7
-251,2020-07-20 23:06:27,Orange,III,14,Orange passes
-252,2020-07-20 22:51:07,Grey,III,14,Grey bids 6
-253,2020-07-20 22:02:37,Green,III,14,Green bids 2
-254,2020-07-20 22:02:11,Green,III,14,Green plays event Green scores 2 culture Current event: II / Developed Territory 5 science
-255,2020-07-20 21:58:54,Purple,III,14,End turn Purple scores: John Amos Comenius produces 2 culture 4 food - consumption: 2 (now 11) 8 resources (now 12) Purple draws 2 military cards 9 culture (now 37) 8 science (now 9)
-256,2020-07-20 21:57:53,Purple,III,14,Purple upgrades Warrior to Riflemen Purple spends 3 resources
-257,2020-07-20 21:57:45,Purple,III,14,Purple upgrades Warrior to Riflemen Purple spends 3 resources
-258,2020-07-20 21:57:41,Purple,III,14,Purple discovers Riflemen 5 science spent
-259,2020-07-20 21:57:31,Purple,III,14,Purple upgrades Iron to Coal Purple spends 3 resources
-260,2020-07-20 21:57:27,Purple,III,14,Purple builds Religion Purple spends 3 resources
-261,2020-07-20 21:57:21,Purple,III,14,Purple increases population Purple spends 4 food
-262,2020-07-20 21:57:18,Purple,III,14,Purple discovers Coal 7 science spent
-263,2020-07-20 21:57:13,Purple,III,14,Purple takes Sid Meier in hand 2 civil actions used
-264,2020-07-20 21:57:10,Purple,III,14,Action Phase begins
-265,2020-07-20 21:57:10,Purple,III,14,Purple discards 1 cards
-266,2020-07-20 21:44:37,Purple,III,14,Discard Phase 1 military card must be discarded
-267,2020-07-20 21:44:37,Purple,III,14,Purple plays event Purple scores 2 culture Future events are now current events. Current event: II / Economic Progress Each player's mines and farms produce immediately. Do not ignore consumption and corruption. Orange produces : 2 food - consumption: 2 Orange produces : 5 resources Purple produces : 4 food - consumption: 2 Purple produces : 4 resources - corruption: 2 Green produces : 2 food - consumption: 2 Green produces : 1 resources - corruption: 2 Grey produces : 2 food - consumption: 2 Grey produces : 2 resources - corruption: 4
-268,2020-07-20 21:43:10,Orange,III,14,End turn Orange scores: 2 food - consumption: 2 (now 7) 5 resources (now 6) Orange draws 2 military cards 8 culture (now 64) 4 science (now 11)
-269,2020-07-20 21:42:52,Orange,III,14,Orange elects Johannes Sebastian Bach
-270,2020-07-20 21:42:44,Orange,III,14,Orange takes Riflemen in hand 1 civil action used
-271,2020-07-20 21:42:41,Orange,III,14,Orange takes Selective breeding in hand 1 civil action used
-272,2020-07-20 21:42:23,Orange,III,14,Orange builds Journalism using Ideal Building Site Orange spends 4 resources
-273,2020-07-20 21:42:14,Orange,III,14,Orange discovers Journalism 6 science spent
-274,2020-07-20 21:42:07,Orange,III,14,Action Phase begins
-275,2020-07-20 21:42:07,Orange,III,14,Orange discards 1 cards
-276,2020-07-20 21:42:02,Orange,III,14,Discard Phase 1 military card must be discarded
-277,2020-07-20 21:42:02,Orange,III,14,Orange passes Political Phase
-278,2020-07-20 21:00:05,Grey,III,14,End turn Grey scores: 2 food - consumption: 2 (now 3) 4 resources - corruption: 2 (now 15) Grey draws 2 military cards 3 culture (now 40) 4 science (now 9)
-279,2020-07-20 20:59:48,Grey,III,13,Grey takes Efficient Upgrade in hand 2 civil actions used
-280,2020-07-20 20:59:37,Grey,III,13,Grey takes Revolutionary Idea in hand 2 civil actions used
-281,2020-07-20 20:59:23,Grey,III,13,Grey increases population Grey spends 4 food
-282,2020-07-20 20:58:53,Grey,III,13,Grey plays Tactics II / Napoleonic Army
-283,2020-07-20 20:58:47,Grey,III,13,Grey builds Cannon Grey spends 1 resource
-284,2020-07-20 20:58:31,Grey,III,13,Grey plays Wave of Nationalism Grey gets 4 resources to build military units
-285,2020-07-20 20:58:15,Grey,III,13,Grey discovers Cannon using Breakthrough 7 science spent Grey scores 4 science
-286,2020-07-20 20:57:59,Grey,III,13,Action Phase begins
-287,2020-07-20 20:57:59,Grey,III,13,Grey discards 2 cards
-288,2020-07-20 20:55:39,Grey,III,13,Discard Phase 2 military cards must be discarded
-289,2020-07-20 20:55:39,Grey,III,13,Grey plays event Grey scores 2 culture Current event: II / Inquisition Each civilization scores 1 culture per level of each of their temples. The urban building limit for labs and libraries is reduced by 1 for each player until the active players next political phase. Players must immediately destroy any exceeding urban building. Orange destroys a Philosophy Grey scores 2 culture
-290,2020-07-20 20:54:59,Green,III,13,End turn Green scores: 2 food - consumption: 2 (now 2) 3 resources (now 8) Green draws 2 military cards 4 culture (now 42) 8 science (now 12) Age III begins. Each player loses 2 yellow tokens Frederick Barbarossa dies. Genghis Khan dies. Trade Routes Agreement expires.
-291,2020-07-20 20:54:45,Green,II,13,Green takes Frugality in hand 1 civil action used
-292,2020-07-20 20:53:58,Green,II,13,Green discovers Warfare 4 science spent Isaac Newton gives 1 civil action back
-293,2020-07-20 20:53:44,Green,II,13,Green builds Cavalrymen Green spends 4 resources Green spends 1 food
-294,2020-07-20 20:53:32,Green,II,13,Green increases population Green spends 4 food
-295,2020-07-20 20:53:27,Green,II,13,Green discovers Cavalrymen 6 science spent Isaac Newton gives 1 civil action back
-296,2020-07-20 20:53:18,Green,II,13,Green elects Isaac Newton Joan of Arc dies
-297,2020-07-20 20:53:12,Green,II,13,Green takes Isaac Newton in hand 2 civil actions used
-298,2020-07-20 20:53:02,Green,II,13,Green takes Cavalrymen in hand 3 civil actions used
-299,2020-07-20 20:52:44,Green,II,13,Action Phase begins
-300,2020-07-20 20:52:44,Green,II,13,Green discards 2 cards
-301,2020-07-20 20:52:33,Green,II,13,Discard Phase 2 military cards must be discarded
-302,2020-07-20 20:52:33,Green,II,13,Green passes Political Phase
-303,2020-07-20 16:31:30,Purple,II,13,End turn Purple scores: John Amos Comenius produces 2 science 5 food - consumption: 1 (now 7) 6 resources (now 12) Purple draws 3 military cards 5 culture (now 26) 11 science (now 13)
-304,2020-07-20 16:30:43,Purple,II,13,Purple takes Riflemen in hand 1 civil action used
-305,2020-07-20 16:30:26,Purple,II,13,Purple discovers Navigation 4 science spent
-306,2020-07-20 16:30:20,Purple,II,13,Purple upgrades Agriculture to Selective breeding Purple spends 4 resources
-307,2020-07-20 16:30:12,Purple,II,13,Purple takes Coal in hand 1 civil action used
-308,2020-07-20 16:30:10,Purple,II,13,Purple takes Navigation in hand 1 civil action used
-309,2020-07-20 16:29:40,Purple,II,13,Purple upgrades Agriculture to Selective breeding using Efficient Upgrade Purple spends 1 resource
-310,2020-07-20 16:29:34,Purple,II,13,Purple discovers Selective breeding 5 science spent
-311,2020-07-20 16:29:24,Purple,II,13,Action Phase begins
-312,2020-07-20 16:29:24,Purple,II,13,Purple discards 3 cards
-313,2020-07-20 16:21:40,Purple,II,13,Discard Phase 3 military cards must be discarded
-314,2020-07-20 16:21:32,Orange,II,13,End turn Orange scores: 2 food - consumption: 2 (now 5) 5 resources (now 5) Orange draws 2 military cards 9 culture (now 56) 3 science (now 13)
-315,2020-07-20 16:19:40,Orange,II,13,Orange takes Johannes Sebastian Bach in hand 3 civil actions used
-316,2020-07-20 16:17:46,Orange,II,13,Orange builds 2 stages of Pilsen brewery Orange spends 7 resources Wonder completed
-317,2020-07-20 16:17:39,Orange,II,13,Orange plays Engineering Genius Orange builds 1 stage of Pilsen brewery Orange spends 1 resource
-318,2020-07-20 16:16:45,Orange,II,13,No Discard Phase
-319,2020-07-20 16:16:44,Grey,II,13,Grey accepts pact offer
-320,2020-07-20 16:16:02,Orange,II,13,Orange proposes Promise of Military Protection to Grey Orange is B Grey is A A produces an extra culture per round. B adds 5 to its strength and produces 1 less culture per round. This pact ends if one attacks the other.
-321,2020-07-20 16:10:53,Grey,II,13,End turn Grey scores: 3 food - consumption: 1 (now 5) 6 resources (now 12) Grey draws 3 military cards 2 culture (now 33) 4 science (now 8)
-322,2020-07-20 16:10:32,Grey,II,12,Grey takes Cannon in hand 1 civil action used
-323,2020-07-20 16:10:29,Grey,II,12,Grey takes Wave of Nationalism in hand 1 civil action used
-324,2020-07-20 16:09:44,Grey,II,12,Grey puts Cannon back in the row 1 civil action recovered
-325,2020-07-20 16:09:23,Grey,II,12,Grey takes Cannon in hand 1 civil action used
-326,2020-07-20 16:09:21,Grey,II,12,Grey takes Breakthrough in hand 1 civil action used
-327,2020-07-20 16:09:13,Grey,II,12,Grey increases population Grey spends 3 food
-328,2020-07-20 16:09:07,Grey,II,12,Barbarossa enlists a Cavalrymen Grey spends 2 food Grey spends 4 resources
-329,2020-07-20 16:08:58,Grey,II,12,Grey discovers Cavalrymen 6 science spent
-330,2020-07-20 16:08:53,Grey,II,12,Grey builds Swordsmen Grey spends 3 resources
-331,2020-07-20 16:08:46,Grey,II,12,Grey increases population Grey spends 2 food
-332,2020-07-20 16:08:38,Grey,II,12,Action Phase begins
-333,2020-07-20 16:08:38,Grey,II,12,Grey discards 3 cards
-334,2020-07-20 16:06:22,Grey,II,12,Discard Phase 3 military cards must be discarded
-335,2020-07-20 16:06:22,Grey,II,12,Grey plays event Grey scores 2 culture Current event: II / Civil Unrest Each civilization loses 4 culture per discontent worker. Event has no effect
-336,2020-07-20 15:58:19,Green,II,12,End turn Green scores: 2 food - consumption: 2 (now 5) 1 resources - corruption: 2 (now 9) Green draws 2 military cards 4 culture (now 38) 6 science (now 14)
-337,2020-07-20 15:56:41,Green,II,12,Green revolutions Change government to Republic 4 science points spent
-338,2020-07-20 15:56:07,Green,II,12,Action Phase begins
-339,2020-07-20 15:56:07,Green,II,12,Green discards 1 cards
-340,2020-07-20 15:52:39,Green,II,12,Discard Phase 1 military card must be discarded
-341,2020-07-20 15:52:39,Purple,II,12,International Agreement Purple takes Efficient Upgrade in hand Purple takes Strategy in hand
-342,2020-07-20 15:48:27,Green,II,12,Green plays event Green scores 2 culture Current event: II / International Agreement The strongest civilization may immediately take up to 5 civil actions in cards by giving up its next political action. Then replenish the cards in the card row.
-343,2020-07-20 15:38:55,Purple,II,12,End turn Purple scores: John Amos Comenius produces 2 culture 1 food - consumption: 1 (now 2) 6 resources (now 11) Purple draws 3 military cards 7 culture (now 21) 9 science (now 11)
-344,2020-07-20 15:37:54,Purple,II,12,Purple elects John Amos Comenius Leonardo Da Vinci dies
-345,2020-07-20 15:37:35,Purple,II,12,Purple takes John Amos Comenius in hand 1 civil action used
-346,2020-07-20 15:37:30,Purple,II,12,Purple builds Journalism Purple spends 6 resources
-347,2020-07-20 15:37:26,Purple,II,12,Purple increases population Purple spends 3 food
-348,2020-07-20 15:37:23,Purple,II,12,Purple builds Journalism Purple spends 6 resources
-349,2020-07-20 15:37:18,Purple,II,12,Purple plays Bountiful Harvest Purple produces 3 food
-350,2020-07-20 15:37:05,Purple,II,12,Purple discovers Journalism 6 science spent Leonardo Da Vinci gives 1 resource
-351,2020-07-20 15:31:14,Purple,II,12,No Discard Phase
-352,2020-07-20 15:31:14,Purple,II,12,Purple plays event Purple scores 2 culture Current event: I / Rebellion Each player loses 2 civil actions per discontent worker (on their next turn).
-353,2020-07-20 15:30:56,Orange,II,12,End turn Orange scores: 2 food - consumption: 2 (now 3) 5 resources (now 8) Orange draws 2 military cards 8 culture (now 47) 3 science (now 10)
-354,2020-07-20 15:29:29,Orange,II,12,Orange takes Pilsen brewery in hand 4 civil actions used
-355,2020-07-20 15:29:03,Orange,II,12,Orange upgrades Agriculture to Irrigation Orange spends 2 resources
-356,2020-07-20 15:24:03,Orange,II,12,No Discard Phase
-357,2020-07-20 15:24:03,Grey,II,12,Grey colonizes a Strategic Territory Sacrificed Units: 1 Swordsmen Colonization bonus: +2 Total force: 4 Grey draws 3 military cards
-358,2020-07-20 15:23:49,Purple,II,12,Grey wins Strategic Territory Winning bid is 4
-359,2020-07-20 15:23:49,Purple,II,12,Purple passes
-360,2020-07-20 15:22:23,Orange,II,12,Orange passes
-361,2020-07-20 15:05:45,Grey,II,12,Grey bids 4
-362,2020-07-20 15:04:59,Green,II,12,Green passes
-363,2020-07-20 15:03:38,Purple,II,12,Purple bids 3
-364,2020-07-20 15:02:04,Orange,II,12,Orange bids 2
-365,2020-07-20 15:01:42,Orange,II,12,Orange plays event Orange scores 2 culture Current event: I / Strategic Territory 3 military cards
-366,2020-07-20 14:53:12,Grey,II,12,End turn Grey scores: 3 food - consumption: 1 (now 9) 2 resources - corruption: 4 (now 13) Grey draws 3 military cards 2 culture (now 29) 4 science (now 10)
-367,2020-07-20 14:52:59,Grey,II,11,Grey revolutions Change government to Constitutional Monarchy 5 science points spent
-368,2020-07-20 14:52:21,Grey,II,11,Action Phase begins
-369,2020-07-20 14:52:21,Grey,II,11,Grey discards 1 cards
-370,2020-07-20 14:52:18,Grey,II,11,Discard Phase 1 military card must be discarded
-371,2020-07-20 14:52:18,Grey,II,11,Grey passes Political Phase
-372,2020-07-20 14:38:08,Green,II,11,End turn Green scores: 2 food - consumption: 2 (now 3) 3 resources (now 8) Green draws 2 military cards 4 culture (now 32) 6 science (now 12)
-373,2020-07-20 14:37:04,Green,II,11,Green takes Republic in hand 2 civil actions used
-374,2020-07-20 14:36:15,Green,II,11,Green upgrades Alchemy to Scientific Method Green spends 2 resources
-375,2020-07-20 14:36:10,Green,II,11,Green upgrades Alchemy to Scientific Method Green spends 1 resource Green spends 1 food
-376,2020-07-20 14:36:00,Green,II,11,Green discovers Scientific Method 6 science spent
-377,2020-07-20 14:35:30,Green,II,11,No Discard Phase
-378,2020-07-20 14:35:30,Green,II,11,Green passes Political Phase
-379,2020-07-20 12:27:11,Purple,II,11,End turn Purple scores: 1 food - consumption: 1 (now 1) 6 resources (now 16) Purple draws 3 military cards 1 culture (now 12) 6 science (now 8)
-380,2020-07-20 12:24:35,Purple,II,11,Purple increases population Purple spends 3 food
-381,2020-07-20 12:23:44,Purple,II,11,Purple takes Selective breeding in hand 2 civil actions used
-382,2020-07-20 12:23:28,Purple,II,11,Purple discovers Constitutional Monarchy 12 science spent Leonardo Da Vinci gives 1 resource
-383,2020-07-20 12:23:22,Purple,II,11,Purple takes Constitutional Monarchy in hand 3 civil actions used
-384,2020-07-20 12:23:15,Purple,II,11,Action Phase begins
-385,2020-07-20 12:23:15,Purple,II,11,Purple discards 1 cards
-386,2020-07-20 12:22:57,Purple,II,11,Discard Phase 1 military card must be discarded
-387,2020-07-20 12:22:57,Purple,II,11,Purple plays event Purple scores 2 culture Future events are now current events. Current event: I / Scientific Breakthrough Each civilization immediately scores science equal to its science rating. Orange scores 3 science Purple scores 6 science Green scores 4 science Grey scores 4 science
-388,2020-07-20 12:22:22,Orange,II,11,End turn Orange scores: 1 food - consumption: 2 (now 1) 5 resources (now 5) 8 culture (now 37) 3 science (now 4)
-389,2020-07-20 12:21:51,Orange,II,11,Orange takes Journalism in hand 1 civil action used
-390,2020-07-20 12:19:53,Orange,II,11,Orange builds Knights Orange spends 3 resources
-391,2020-07-20 12:19:46,Orange,II,11,Orange destroys Agriculture
-392,2020-07-20 12:19:15,Orange,II,11,Orange builds Knights Orange spends 3 resources
-393,2020-07-20 12:18:42,Orange,II,11,Orange discovers Justice System 7 science spent
-394,2020-07-20 12:18:34,Orange,II,11,Orange takes Justice System in hand 1 civil action used
-395,2020-07-20 12:18:22,Orange,II,11,Orange increases population Orange spends 4 food
-396,2020-07-20 12:18:15,Orange,II,11,Action Phase begins
-397,2020-07-20 12:18:15,Orange,II,11,Orange discards 1 cards
-398,2020-07-20 12:14:54,Orange,II,11,Discard Phase 1 military card must be discarded
-399,2020-07-20 12:14:54,Grey,II,11,Grey colonizes a Fertile Territory Sacrificed Units: 1 Swordsmen 1 Colonization card +1 Colonization bonus: +2 Total force: 5 Grey produces 3 food
-400,2020-07-20 12:13:43,Purple,II,11,Grey wins Fertile Territory Winning bid is 5
-401,2020-07-20 12:13:43,Purple,II,11,Purple passes
-402,2020-07-20 12:13:05,Orange,II,11,Orange passes
-403,2020-07-20 12:11:14,Grey,II,11,Grey bids 5
-404,2020-07-20 11:57:28,Green,II,11,Green passes
-405,2020-07-20 11:52:03,Purple,II,11,Purple bids 4
-406,2020-07-20 11:50:53,Orange,II,11,Orange bids 2
-407,2020-07-20 11:49:05,Orange,II,11,Orange plays event Orange scores 2 culture Current event: I / Fertile Territory 3 food
-408,2020-07-20 11:47:17,Grey,II,11,End turn Grey scores: 2 food - consumption: 2 (now 3) 6 resources (now 11) Grey draws 2 military cards 2 culture (now 27) 4 science (now 7)
-409,2020-07-20 11:46:45,Grey,II,10,Grey takes Cavalrymen in hand 1 civil action used
-410,2020-07-20 11:46:29,Grey,II,10,Grey upgrades Bronze to Iron Grey spends 3 resources
-411,2020-07-20 11:46:22,Grey,II,10,Grey upgrades Agriculture to Irrigation Grey spends 2 resources
-412,2020-07-20 11:46:14,Grey,II,10,Grey takes Constitutional Monarchy in hand 1 civil action used
-413,2020-07-20 11:45:55,Grey,II,10,Grey discovers Cartography 4 science spent
-414,2020-07-20 11:45:26,Grey,II,10,Action Phase begins
-415,2020-07-20 11:45:26,Grey,II,10,Grey discards 2 cards
-416,2020-07-20 11:45:19,Grey,II,10,Discard Phase 2 military cards must be discarded
-417,2020-07-20 11:45:19,Grey,II,10,Grey passes Political Phase
-418,2020-07-20 11:44:42,Green,II,10,End turn Green scores: 2 food - consumption: 2 (now 2) 3 resources (now 8) 4 culture (now 28) 4 science (now 8)
-419,2020-07-20 11:44:29,Green,II,10,Green builds Religion Green spends 3 resources
-420,2020-07-20 11:43:21,Green,II,10,Green upgrades Warrior to Swordsmen Green spends 1 resource
-421,2020-07-20 11:43:14,Green,II,10,Green builds Swordsmen Green spends 3 resources
-422,2020-07-20 11:43:08,Green,II,10,Green discovers Swordsmen 3 science spent
-423,2020-07-20 11:43:03,Green,II,10,Green increases population Green spends 3 food
-424,2020-07-20 11:42:59,Green,II,10,Green increases population Green spends 3 food
-425,2020-07-20 11:42:55,Green,II,10,Green takes Opera in hand 1 civil action used
-426,2020-07-20 11:42:53,Green,II,10,No Discard Phase
-427,2020-07-20 11:42:53,Green,II,10,Green passes Political Phase
-428,2020-07-20 11:35:56,Purple,II,10,End turn Purple scores: 1 food - consumption: 1 (now 3) 6 resources (now 9) Purple draws 2 military cards 1 culture (now 9) 6 science (now 8)
-429,2020-07-20 11:32:01,Purple,II,10,Purple takes Journalism in hand 1 civil action used
-430,2020-07-20 11:31:46,Purple,II,10,Purple builds 3 stages of Transcontinental Railroad Purple spends 12 resources Wonder completed
-431,2020-07-20 11:31:41,Purple,II,10,Purple discovers Architecture 6 science spent Leonardo Da Vinci gives 1 resource
-432,2020-07-20 11:31:33,Purple,II,10,Purple takes Transcontinental Railroad in hand 2 civil actions used
-433,2020-07-20 11:31:30,Purple,II,10,Action Phase begins
-434,2020-07-20 11:31:30,Purple,II,10,Purple discards 2 cards
-435,2020-07-20 11:31:26,Purple,II,10,Discard Phase 2 military cards must be discarded
-436,2020-07-20 11:31:25,Purple,II,10,Purple passes Political Phase
-437,2020-07-20 11:24:25,Orange,II,10,End turn Orange scores: 2 food - consumption: 2 (now 4) 5 resources (now 6) Orange draws 2 military cards 6 culture (now 27) 3 science (now 8)
-438,2020-07-20 11:23:45,Orange,II,10,Orange takes Ideal Building Site in hand 1 civil action used
-439,2020-07-20 11:23:29,Orange,II,10,Orange takes Engineering Genius in hand 1 civil action used
-440,2020-07-20 11:22:49,Orange,II,10,Orange upgrades Agriculture to Irrigation Orange spends 2 resources
-441,2020-07-20 11:22:42,Orange,II,10,Orange builds 2 stages of St. Peter's Basilica Orange spends 8 resources Wonder completed
-442,2020-07-20 11:22:23,Orange,II,10,Action Phase begins
-443,2020-07-20 11:22:23,Orange,II,10,Orange discards 1 cards
-444,2020-07-20 11:22:09,Orange,II,10,Discard Phase 1 military card must be discarded
-445,2020-07-20 11:22:09,Orange,II,10,Orange plays event Orange scores 2 culture Current event: I / New Deposits Each player's mines produce immediately. Ignore corruption. Orange produces 5 resources Purple produces 4 resources Green produces 3 resources Grey produces 5 resources
-446,2020-07-20 11:18:23,Grey,II,10,End turn Grey scores: 1 food - consumption: 2 (now 1) 5 resources (now 5) Grey draws 2 military cards 2 culture (now 25) 4 science (now 7)
-447,2020-07-20 11:18:11,Grey,II,9,Barbarossa enlists a Swordsmen Grey spends 2 food Grey spends 2 resources
-448,2020-07-20 11:17:58,Grey,II,9,Grey upgrades Religion to Organized religion Grey spends 4 resources
-449,2020-07-20 11:17:50,Grey,II,9,Grey discovers Organized religion 4 science spent
-450,2020-07-20 11:17:41,Grey,II,9,Grey takes Organized religion in hand 2 civil actions used
-451,2020-07-20 11:17:36,Grey,II,9,Action Phase begins
-452,2020-07-20 11:17:36,Grey,II,9,Grey discards 1 cards
-453,2020-07-20 11:00:15,Grey,II,9,Discard Phase 1 military card must be discarded
-454,2020-07-20 11:00:15,Green,II,9,Green colonizes a Wealthy Territory Sacrificed Units: 1 Warrior Total force: 1 Green produces 5 resources
-455,2020-07-20 11:00:02,Green,II,9,Green wins Wealthy Territory Winning bid is 1
-456,2020-07-20 11:00:02,Green,II,9,Green bids 1
-457,2020-07-19 21:40:33,Purple,II,9,Purple passes
-458,2020-07-19 21:39:08,Orange,II,9,Orange passes
-459,2020-07-19 21:25:45,Grey,II,9,Grey passes
-460,2020-07-19 21:24:47,Grey,II,9,Grey plays event Grey scores 2 culture Current event: I / Wealthy Territory 5 resources
-461,2020-07-19 21:24:27,Green,II,9,End turn Green scores: 3 food - consumption: 1 (now 6) 3 resources (now 4) 3 culture (now 24) 4 science (now 7)
-462,2020-07-19 21:24:14,Green,II,9,Green upgrades Agriculture to Irrigation Green spends 1 resource Green spends 1 food
-463,2020-07-19 21:23:53,Green,II,9,Green takes Coal in hand 1 civil action used
-464,2020-07-19 21:23:29,Green,II,9,Green puts Coal back in the row 1 civil action recovered
-465,2020-07-19 21:23:26,Green,II,9,Green takes Scientific Method in hand 1 civil action used
-466,2020-07-19 21:23:23,Green,II,9,Green plays Bountiful Harvest Green produces 2 food
-467,2020-07-19 21:23:04,Green,II,9,Green upgrades Philosophy to Alchemy using Efficient Upgrade Green spends 1 resource
-468,2020-07-19 21:22:50,Green,II,9,Green takes Coal in hand 1 civil action used
-469,2020-07-19 21:22:42,Green,II,9,Action Phase begins
-470,2020-07-19 21:22:42,Green,II,9,Green discards 1 cards
-471,2020-07-19 21:20:00,Green,II,9,Discard Phase 1 military card must be discarded
-472,2020-07-19 21:20:00,Grey,II,9,Grey concedes defeat Green takes I / Historic Territory from Grey
-473,2020-07-19 21:19:18,Green,II,9,Green plays Annex against Grey Take one colony from a rival. You gain (and he loses) its permanent bonuses but ignore any one-time gains. 2 military actions used
-474,2020-07-19 16:51:10,Purple,II,9,End turn Purple scores: 1 food - consumption: 1 (now 2) 4 resources (now 10) Purple draws 2 military cards 1 culture (now 8) 6 science (now 8)
-475,2020-07-19 16:36:59,Purple,II,9,Purple takes Bountiful Harvest in hand 2 civil actions used
-476,2020-07-19 16:36:51,Purple,II,9,Purple builds Knights Purple spends 1 resource
-477,2020-07-19 16:36:45,Purple,II,9,Purple plays Patriotism
-478,2020-07-19 16:36:38,Purple,II,9,Purple discovers Knights 4 science spent Leonardo Da Vinci gives 1 resource
-479,2020-07-19 16:36:12,Purple,II,9,Purple takes Architecture in hand 1 civil action used
-480,2020-07-19 16:36:06,Purple,II,9,No Discard Phase
-481,2020-07-19 16:36:06,Purple,II,9,Purple passes Political Phase
-482,2020-07-19 14:36:55,Orange,II,9,End turn Orange scores: 1 food - consumption: 2 (now 2) 5 resources (now 6) Orange draws 2 military cards 4 culture (now 19) 3 science (now 5)
-483,2020-07-19 14:36:26,Orange,II,9,Orange takes Opera in hand 1 civil action used
-484,2020-07-19 14:36:17,Orange,II,9,Orange upgrades Bronze to Iron Orange spends 3 resources
-485,2020-07-19 14:36:10,Orange,II,9,Orange discovers Irrigation 3 science spent
-486,2020-07-19 14:35:40,Orange,II,9,Orange takes Irrigation in hand 1 civil action used
-487,2020-07-19 14:35:37,Orange,II,9,Action Phase begins
-488,2020-07-19 14:35:36,Orange,II,9,Orange discards 1 cards
-489,2020-07-19 14:35:33,Orange,II,9,Discard Phase 1 military card must be discarded
-490,2020-07-19 14:35:33,Orange,II,9,Orange passes Political Phase
-491,2020-07-19 11:33:08,Grey,II,9,End turn Grey scores: 2 food - consumption: 1 (now 2) 5 resources (now 6) Grey draws 2 military cards 2 culture (now 21) 4 science (now 7)
-492,2020-07-19 11:32:57,Grey,II,8,Grey elects Frederick Barbarossa
-493,2020-07-19 11:32:32,Grey,II,8,Grey upgrades Agriculture to Irrigation using Efficient Upgrade
-494,2020-07-19 11:32:19,Grey,II,8,Grey upgrades Bronze to Iron Grey spends 3 resources
-495,2020-07-19 11:31:54,Grey,II,8,Grey takes Cartography in hand 1 civil action used
-496,2020-07-19 11:31:48,Grey,II,8,Grey discovers Irrigation 3 science spent
-497,2020-07-19 11:30:54,Grey,II,8,No Discard Phase
-498,2020-07-19 11:30:54,Grey,II,8,Grey passes Political Phase
-499,2020-07-19 10:19:00,Green,II,8,End turn Green scores: 2 food - consumption: 1 (now 2) 3 resources (now 3) Green draws 2 military cards 3 culture (now 21) 3 science (now 3)
-500,2020-07-19 10:18:11,Green,II,8,Green takes Warfare in hand 1 civil action used
-501,2020-07-19 10:18:08,Green,II,8,Green puts Cartography back in the row 1 civil action recovered
-502,2020-07-19 10:17:33,Green,II,8,Green plays Work of Art
-503,2020-07-19 10:17:19,Green,II,8,Green takes Efficient Upgrade in hand 1 civil action used
-504,2020-07-19 10:17:13,Green,II,8,Green puts Mineral Deposits back in the row 1 civil action recovered
-505,2020-07-19 10:17:01,Green,II,8,Green takes Cartography in hand 1 civil action used
-506,2020-07-19 10:16:58,Green,II,8,Green puts Efficient Upgrade back in the row 1 civil action recovered
-507,2020-07-19 10:16:39,Green,II,8,Green takes Efficient Upgrade in hand 1 civil action used
-508,2020-07-19 10:16:33,Green,II,8,Green takes Mineral Deposits in hand 1 civil action used
-509,2020-07-19 10:16:17,Green,II,8,Green upgrades Philosophy to Alchemy Green spends 3 resources
-510,2020-07-19 10:16:08,Green,II,8,Green discovers Alchemy 4 science spent
-511,2020-07-19 10:15:41,Green,II,8,Action Phase begins
-512,2020-07-19 10:15:41,Green,II,8,Green discards 1 cards
-513,2020-07-19 10:15:25,Green,II,8,Discard Phase 1 military card must be discarded
-514,2020-07-19 10:15:25,Green,II,8,Green plays event Green scores 1 culture Current event: I / Uncertain Borders The weakest civilization gives one yellow token from its yellow bank to the strongest civilization's yellow bank. Green takes 1 yellow token from Grey
-515,2020-07-18 23:06:17,Purple,II,8,End turn Purple scores: 1 food - consumption: 1 (now 1) 4 resources (now 6) 1 culture (now 7) 6 science (now 6)
-516,2020-07-18 23:04:32,Purple,II,8,Purple takes Patriotism in hand 1 civil action used
-517,2020-07-18 23:04:28,Purple,II,8,Purple takes Knights in hand 1 civil action used
-518,2020-07-18 23:04:23,Purple,II,8,Purple discovers Code of Laws 6 science spent Leonardo Da Vinci gives 1 resource
-519,2020-07-18 23:04:18,Purple,II,8,Purple upgrades Philosophy to Alchemy Purple spends 3 resources
-520,2020-07-18 23:04:13,Purple,II,8,Purple upgrades Bronze to Iron Purple spends 3 resources
-521,2020-07-18 23:04:02,Purple,II,8,Action Phase begins
-522,2020-07-18 23:04:02,Purple,II,8,Purple discards 2 cards
-523,2020-07-18 20:49:32,Purple,II,8,Discard Phase 2 military cards must be discarded
-524,2020-07-18 20:49:32,Grey,II,8,Grey concedes defeat Grey loses 1 population Purple produces 3 resources
-525,2020-07-18 19:26:11,Purple,II,8,Purple plays Enslave against Grey Make a rival decrease his population. Your civilization produces 3 resources. 2 military actions used Sacrificed Units: 1 Warrior
-526,2020-07-18 18:15:42,Orange,II,8,End turn Orange scores: 1 food - consumption: 2 (now 1) 4 resources (now 4) Orange draws 1 military card 4 culture (now 15) 3 science (now 5)
-527,2020-07-18 18:14:13,Orange,II,8,Orange builds Religion Orange spends 3 resources
-528,2020-07-18 18:14:07,Orange,II,8,Orange disbands Warrior
-529,2020-07-18 18:13:55,Orange,II,8,Orange elects Genghis Khan
-530,2020-07-18 18:13:36,Orange,II,8,Orange upgrades Bronze to Iron Orange spends 3 resources
-531,2020-07-18 18:13:22,Orange,II,8,Orange discovers Iron 5 science spent
-532,2020-07-18 18:11:56,Orange,II,8,No Discard Phase
-533,2020-07-18 18:11:56,Orange,II,8,Orange plays event Orange scores 1 culture Current event: I / Rats Each civilization loses all stored food. Orange loses 3 food. Purple loses 3 food. Green loses 3 food. Grey loses 5 food.
-534,2020-07-18 17:05:30,Grey,II,8,End turn Grey scores: 1 food - consumption: 1 (now 5) 4 resources (now 4) Grey draws 1 military card 2 culture (now 19) 4 science (now 6) Age II begins. Each player loses 2 yellow tokens Ramesses II dies. Aristotle dies.
-535,2020-07-18 17:05:22,Grey,I,7,Grey plays Tactics I / Medieval Army
-536,2020-07-18 17:04:43,Grey,I,7,Grey takes Irrigation in hand 2 civil actions used Aristotle gives 1 science point
-537,2020-07-18 17:04:22,Grey,I,7,Grey upgrades Bronze to Iron Grey spends 3 resources
-538,2020-07-18 17:04:15,Grey,I,7,Grey discovers Iron 5 science spent
-539,2020-07-18 17:03:59,Grey,I,7,Grey takes Efficient Upgrade in hand 1 civil action used
-540,2020-07-18 17:03:42,Grey,I,7,Action Phase begins
-541,2020-07-18 17:03:42,Grey,I,7,Grey discards 1 cards
-542,2020-07-18 17:03:31,Grey,I,7,Discard Phase 1 military card must be discarded
-543,2020-07-18 17:03:31,Grey,I,7,Grey plays event Grey scores 1 culture Future events are now current events. Current event: I / Cultural Influence Each civilization immediatly scores culture equal to its culture rating. Orange scores 2 culture Purple scores 1 culture Green scores 3 culture Grey scores 2 culture
-544,2020-07-18 17:03:10,Green,I,7,End turn Green scores: 2 food - consumption: 1 (now 3) 3 resources (now 3) NO MILITARY CARDS LEFT. DISCARD PILE HAS BEEN RESHUFFLED. Green draws 2 military cards 3 culture (now 9) 2 science (now 4)
-545,2020-07-18 17:02:49,Green,I,7,Green takes Work of Art in hand 1 civil action used
-546,2020-07-18 17:02:31,Green,I,7,Green takes Alchemy in hand 2 civil actions used
-547,2020-07-18 17:02:29,Green,I,7,Green puts Efficient Upgrade back in the row 2 civil actions recovered
-548,2020-07-18 17:02:27,Green,I,7,Green takes Efficient Upgrade in hand 2 civil actions used
-549,2020-07-18 17:02:24,Green,I,7,Green puts Warfare back in the row 1 civil action recovered
-550,2020-07-18 17:02:21,Green,I,7,Green takes Warfare in hand 1 civil action used
-551,2020-07-18 16:37:29,Green,I,7,Green puts Warfare back in the row 1 civil action recovered
-552,2020-07-18 16:37:02,Green,I,7,Green builds Drama Green spends 4 resources Green spends 1 food
-553,2020-07-18 16:36:46,Green,I,7,Green takes Bountiful Harvest in hand 1 civil action used
-554,2020-07-18 16:36:37,Green,I,7,Green takes Warfare in hand 1 civil action used
-555,2020-07-18 16:36:06,Green,I,7,No Discard Phase
-556,2020-07-18 16:36:06,Green,I,7,Green plays event Green scores 1 culture Current event: I / Immigration Civilization(s) with most happy faces increase population by 1. Green receives a new immigrant
-557,2020-07-18 15:09:26,Purple,I,7,End turn Purple scores: 2 food - consumption: 0 (now 3) 4 resources (now 4) Purple draws 2 military cards 1 culture (now 5) 4 science (now 6)
-558,2020-07-18 15:03:26,Purple,I,7,Purple takes Engineering Genius in hand 1 civil action used
-559,2020-07-18 15:02:17,Purple,I,7,Purple upgrades Philosophy to Alchemy Purple spends 3 resources
-560,2020-07-18 15:02:11,Purple,I,7,Purple discovers Alchemy 4 science spent Leonardo Da Vinci gives 1 resource
-561,2020-07-18 15:01:57,Purple,I,7,Purple elects Leonardo Da Vinci Julius Caesar dies
-562,2020-07-18 15:01:46,Purple,I,7,Purple builds Warrior Purple spends 2 resources
-563,2020-07-18 15:01:22,Purple,I,7,No Discard Phase
-564,2020-07-18 15:01:22,Purple,I,7,Purple passes Political Phase
-565,2020-07-18 14:22:01,Orange,I,7,End turn Orange scores: 2 food - consumption: 1 (now 3) 3 resources (now 6) Orange draws 2 military cards 2 culture (now 8) 3 science (now 7)
-566,2020-07-18 14:21:06,Orange,I,7,Orange takes St. Peter's Basilica in hand 2 civil actions used
-567,2020-07-18 14:20:48,Orange,I,7,Orange builds Agriculture using Rich Land
-568,2020-07-18 14:20:16,Orange,I,7,Orange increases population Orange spends 3 food
-569,2020-07-18 14:20:09,Orange,I,7,No Discard Phase
-570,2020-07-18 14:20:09,Orange,I,7,Orange passes Political Phase
-571,2020-07-18 14:10:31,Grey,I,7,End turn Grey scores: 1 food - consumption: 1 (now 4) 3 resources (now 3) Grey draws 2 military cards 2 culture (now 14) 4 science (now 6)
-572,2020-07-18 14:10:19,Grey,I,6,Grey builds 1 stage of Universitas Carolina Grey spends 3 resources Wonder completed
-573,2020-07-18 14:10:03,Grey,I,6,Grey takes Frederick Barbarossa in hand 1 civil action used
-574,2020-07-18 14:09:54,Grey,I,6,Grey takes Knights in hand 1 civil action used Aristotle gives 1 science point
-575,2020-07-18 14:09:44,Grey,I,6,Grey plays Frugality Grey increases population Grey spends 3 food Grey produces 2 food
-576,2020-07-18 14:09:30,Grey,I,6,Grey discovers Code of Laws 6 science spent
-577,2020-07-18 14:08:49,Grey,I,6,No Discard Phase
-578,2020-07-18 14:08:49,Green,I,6,Green accepts pact offer
-579,2020-07-18 11:45:18,Grey,I,6,"Grey proposes Trade Routes Agreement to Green Grey is B Green is A Once per round A can use 1 food instead of 1 resource. Once per round, B can use 1 resource instead of 1 food."
-580,2020-07-17 21:34:56,Green,I,6,End turn Green scores: 2 food - consumption: 1 (now 2) 3 resources (now 4) Green draws 1 military card 1 culture (now 5) 2 science (now 2)
-581,2020-07-17 21:34:50,Green,I,6,Green elects Joan of Arc Forefather Czech dies
-582,2020-07-17 21:34:28,Green,I,6,Green discovers Drama 4 science spent
-583,2020-07-17 21:34:05,Green,I,6,Green puts Revolutionary Idea back in the row 1 civil action recovered
-584,2020-07-17 21:33:55,Green,I,6,Green takes Revolutionary Idea in hand 1 civil action used
-585,2020-07-17 21:33:45,Green,I,6,Green puts St. Peter's Basilica back in the row 2 civil actions recovered
-586,2020-07-17 21:33:19,Green,I,6,Green takes St. Peter's Basilica in hand 2 civil actions used
-587,2020-07-17 21:33:04,Green,I,6,Green upgrades Agriculture to Irrigation Green spends 1 resource
-588,2020-07-17 21:32:49,Green,I,6,Green builds Warrior Green spends 2 resources
-589,2020-07-17 21:32:39,Green,I,6,Green discovers Irrigation 3 science spent
-590,2020-07-17 21:32:10,Green,I,6,Green increases population Green spends 3 food
-591,2020-07-17 21:31:58,Green,I,6,Action Phase begins
-592,2020-07-17 21:31:58,Green,I,6,Green discards 1 cards
-593,2020-07-17 21:20:31,Green,I,6,Discard Phase 1 military card must be discarded
-594,2020-07-17 21:20:31,Purple,I,6,Purple colonizes a Inhabited Territory Sacrificed Units: 1 Warrior 1 Warrior 1 Colonization card +1 Total force: 4 Purple increases population by 1
-595,2020-07-17 20:35:01,Orange,I,6,Purple wins Inhabited Territory Winning bid is 4
-596,2020-07-17 20:35:01,Orange,I,6,Orange passes
-597,2020-07-17 20:33:17,Grey,I,6,Grey passes
-598,2020-07-17 20:32:47,Purple,I,6,Purple bids 4
-599,2020-07-17 19:38:28,Orange,I,6,Orange bids 3
-600,2020-07-17 18:30:49,Grey,I,6,Grey bids 2
-601,2020-07-17 18:29:12,Green,I,6,Green bids 1
-602,2020-07-17 18:29:05,Green,I,6,Green plays event Green scores 1 culture Current event: I / Inhabited Territory 1 population
-603,2020-07-17 14:20:25,Purple,I,6,End turn Purple scores: 1 food - consumption: 1 (now 1) 4 resources (now 4) Purple draws 1 military card 1 culture (now 4) 2 science (now 6)
-604,2020-07-17 14:19:38,Purple,I,6,Purple increases population Purple spends 3 food
-605,2020-07-17 14:19:14,Purple,I,6,Purple builds Warrior Purple spends 2 resources
-606,2020-07-17 14:15:36,Purple,I,6,Purple builds Warrior Purple spends 2 resources
-607,2020-07-17 14:15:25,Purple,I,6,Purple increases population Purple spends 3 food
-608,2020-07-17 14:15:16,Purple,I,6,Purple increases population Purple spends 2 food
-609,2020-07-17 14:15:10,Purple,I,6,Purple takes Code of Laws in hand 1 civil action used
-610,2020-07-17 14:13:08,Purple,I,6,No Discard Phase
-611,2020-07-17 14:13:08,Purple,I,6,Purple plays event Purple scores 1 culture Current event: I / Good Harvest Each player's farms produce immediately. Ignore consumption and corruption. Orange produces 2 food Purple produces 2 food Green produces 2 food Grey produces 2 food
-612,2020-07-17 14:08:22,Orange,I,6,End turn Orange scores: 1 food - consumption: 1 (now 2) 3 resources (now 3) Orange draws 1 military card 2 culture (now 6) 3 science (now 4)
-613,2020-07-17 14:07:41,Orange,I,6,Orange builds Knights Orange spends 3 resources
-614,2020-07-17 14:07:37,Orange,I,6,Orange discovers Knights 4 science spent
-615,2020-07-17 14:07:30,Orange,I,6,Orange takes Genghis Khan in hand 1 civil action used
-616,2020-07-17 14:07:01,Orange,I,6,Orange takes Iron in hand 1 civil action used
-617,2020-07-17 14:05:08,Orange,I,6,Orange puts Iron back in the row 1 civil action recovered
-618,2020-07-17 14:02:18,Orange,I,6,Orange takes Iron in hand 1 civil action used
-619,2020-07-17 14:01:26,Orange,I,6,Orange increases population Orange spends 3 food
-620,2020-07-17 13:51:24,Orange,I,6,No Discard Phase
-621,2020-07-17 13:51:24,Green,I,6,Green colonizes a Developed Territory Sacrificed Units: 1 Warrior Total force: 1 Green scores 3 science
-622,2020-07-17 13:48:12,Grey,I,6,Green wins Developed Territory Winning bid is 1
-623,2020-07-17 13:48:12,Grey,I,6,Grey passes
-624,2020-07-17 13:34:04,Green,I,6,Green bids 1
-625,2020-07-17 13:20:56,Purple,I,6,Purple passes
-626,2020-07-17 13:13:19,Orange,I,6,Orange passes
-627,2020-07-17 13:07:02,Orange,I,6,Orange plays event Orange scores 1 culture Current event: I / Developed Territory 3 science
-628,2020-07-17 13:05:00,Grey,I,6,End turn Grey scores: 1 food - consumption: 1 (now 2) 3 resources (now 3) Grey draws 1 military card 1 culture (now 12) 2 science (now 7)
-629,2020-07-17 13:04:46,Grey,I,5,Grey takes Frugality in hand 1 civil action used
-630,2020-07-17 13:04:42,Grey,I,5,Grey builds 1 stage of Universitas Carolina Grey spends 3 resources
-631,2020-07-17 13:04:28,Grey,I,5,Grey upgrades Warrior to Swordsmen Grey spends 1 resource
-632,2020-07-17 13:04:20,Grey,I,5,Grey discovers Swordsmen 3 science spent
-633,2020-07-17 13:04:12,Grey,I,5,Grey takes Swordsmen in hand 1 civil action used Aristotle gives 1 science point
-634,2020-07-17 13:03:30,Grey,I,5,Action Phase begins
-635,2020-07-17 13:03:30,Grey,I,5,Grey discards 1 cards
-636,2020-07-17 13:03:18,Grey,I,5,Discard Phase 1 military card must be discarded
-637,2020-07-17 13:03:18,Grey,I,5,Grey colonizes a Historic Territory Sacrificed Units: 1 Warrior Total force: 1 Grey scores 6 culture
-638,2020-07-17 13:02:40,Green,I,5,Grey wins Historic Territory Winning bid is 1
-639,2020-07-17 13:02:40,Green,I,5,Green passes
-640,2020-07-17 12:59:44,Purple,I,5,Purple passes
-641,2020-07-17 12:58:09,Orange,I,5,Orange passes
-642,2020-07-17 12:41:23,Grey,I,5,Grey bids 1
-643,2020-07-17 12:40:13,Grey,I,5,Grey plays event Grey scores 1 culture Current event: I / Historic Territory 6 culture
-644,2020-07-17 12:38:33,Green,I,5,End turn Green scores: 1 food - consumption: 1 (now 1) 3 resources (now 4) Green draws 2 military cards 1 culture (now 3) 2 science (now 4)
-645,2020-07-17 12:38:23,Green,I,5,Green takes Joan of Arc in hand 1 civil action used
-646,2020-07-17 12:38:18,Green,I,5,Green takes Drama in hand 1 civil action used
-647,2020-07-17 12:37:45,Green,I,5,Green takes Irrigation in hand 1 civil action used
-648,2020-07-17 12:37:28,Green,I,5,Green puts Jan ika back in the row 2 civil actions recovered
-649,2020-07-17 12:37:12,Green,I,5,Green takes Jan ika in hand 2 civil actions used
-650,2020-07-17 12:36:11,Green,I,5,Green puts Irrigation back in the row 1 civil action recovered
-651,2020-07-17 12:34:29,Green,I,5,Green takes Irrigation in hand 1 civil action used
-652,2020-07-17 12:33:57,Green,I,5,Green puts Irrigation back in the row 1 civil action recovered
-653,2020-07-17 12:33:54,Green,I,5,Green puts Frugality back in the row 2 civil actions recovered
-654,2020-07-17 12:32:51,Green,I,5,Green takes Frugality in hand 2 civil actions used
-655,2020-07-17 12:32:40,Green,I,5,Green puts Drama back in the row 1 civil action recovered
-656,2020-07-17 12:32:38,Green,I,5,Green takes Irrigation in hand 1 civil action used
-657,2020-07-17 12:32:33,Green,I,5,Green puts Irrigation back in the row 1 civil action recovered
-658,2020-07-17 12:32:24,Green,I,5,Green takes Drama in hand 1 civil action used
-659,2020-07-17 12:32:18,Green,I,5,Green puts Frugality back in the row 2 civil actions recovered
-660,2020-07-17 12:32:11,Green,I,5,Green takes Frugality in hand 2 civil actions used
-661,2020-07-17 12:31:33,Green,I,5,Green puts Drama back in the row 1 civil action recovered
-662,2020-07-17 12:31:07,Green,I,5,Green takes Irrigation in hand 1 civil action used
-663,2020-07-17 12:30:46,Green,I,5,Green puts Irrigation back in the row 1 civil action recovered
-664,2020-07-17 12:30:15,Green,I,5,Green takes Drama in hand 1 civil action used
-665,2020-07-17 12:30:13,Green,I,5,Green puts Frugality back in the row 2 civil actions recovered
-666,2020-07-17 12:30:04,Green,I,5,Green takes Frugality in hand 2 civil actions used
-667,2020-07-17 12:30:02,Green,I,5,Green takes Irrigation in hand 1 civil action used
-668,2020-07-17 12:30:00,Green,I,5,Green puts Drama back in the row 1 civil action recovered
-669,2020-07-17 12:29:54,Green,I,5,Green takes Drama in hand 1 civil action used
-670,2020-07-17 12:29:36,Green,I,5,Green builds Bread & Circuses Green spends 4 resources
-671,2020-07-17 12:29:02,Green,I,5,Green increases population Green spends 3 food
-672,2020-07-17 12:28:55,Green,I,5,Action Phase begins
-673,2020-07-17 12:28:55,Green,I,5,Green discards 3 cards
-674,2020-07-17 12:19:51,Green,I,5,Discard Phase 3 military cards must be discarded
-675,2020-07-17 12:19:51,Green,I,5,Green plays event Green scores 1 culture Future events are now current events. Current event: A / No Event
-676,2020-07-17 12:19:38,Purple,I,5,End turn Purple scores: 2 food - consumption: 0 (now 6) 4 resources (now 4) Purple draws 1 military card 1 culture (now 2) 2 science (now 4)
-677,2020-07-17 12:17:34,Purple,I,5,Purple takes Mineral Deposits in hand 1 civil action used
-678,2020-07-17 12:16:44,Purple,I,5,Purple puts Bread & Circuses back in the row 1 civil action recovered
-679,2020-07-17 12:15:21,Purple,I,5,Purple takes Bread & Circuses in hand 1 civil action used
-680,2020-07-17 12:15:16,Purple,I,5,Purple upgrades Bronze to Iron Purple spends 3 resources
-681,2020-07-17 12:15:10,Purple,I,5,Purple discovers Iron using Breakthrough 5 science spent Purple scores 2 science
-682,2020-07-17 12:15:02,Purple,I,5,Purple builds Warrior Purple spends 2 resources
-683,2020-07-17 12:14:58,Purple,I,5,Purple increases population Purple spends 2 food
-684,2020-07-17 12:14:47,Purple,I,5,Action Phase begins
-685,2020-07-17 12:14:47,Purple,I,5,Purple discards 5 cards
-686,2020-07-17 12:10:48,Purple,I,5,Discard Phase 5 military cards must be discarded
-687,2020-07-17 12:10:48,Orange,I,5,Orange defends Sacrificed Units: 1 Warrior 1 Warrior Orange strength: 5 Purple strength: 5
-688,2020-07-17 11:55:21,Purple,I,5,"Purple plays Raid against Orange Destroy one of a rival's urban buildings. You produce resources equal to half the building's cost, rounded up. 1 military actions used Sacrificed Units: 1 Warrior"
-689,2020-07-17 11:49:34,Orange,I,5,End turn Orange scores: 1 food - consumption: 1 (now 4) 3 resources (now 3) Orange draws 1 military card 2 culture (now 3) 3 science (now 5)
-690,2020-07-17 11:49:18,Orange,I,5,Orange takes Monarchy in hand 1 civil action used
-691,2020-07-17 11:21:08,Orange,I,5,Orange builds 2 stages of Library of Alexandria Orange spends 3 resources Wonder completed
-692,2020-07-17 11:21:03,Orange,I,5,Orange builds 2 stages of Library of Alexandria Orange spends 3 resources
-693,2020-07-17 11:20:57,Orange,I,5,Orange discovers Masonry 3 science spent
-694,2020-07-17 11:20:50,Orange,I,5,Orange plays Tactics I / Phalanx
-695,2020-07-17 11:20:33,Orange,I,5,Action Phase begins
-696,2020-07-17 11:20:33,Orange,I,5,Orange discards 4 cards
-697,2020-07-17 10:47:38,Orange,I,5,Discard Phase 4 military cards must be discarded
-698,2020-07-17 10:47:38,Green,I,5,Green builds Religion
-699,2020-07-17 10:45:51,Purple,I,5,Purple builds Religion
-700,2020-07-17 10:31:42,Orange,I,5,Orange builds Religion
-701,2020-07-17 10:31:35,Orange,I,5,Orange plays event Orange scores 1 culture Current event: A / Development of Religion Each player with an unused worker may immediately build an Age A temple for free.
-702,2020-07-17 10:12:54,Grey,I,5,End turn Grey scores: 1 food - consumption: 1 (now 1) 3 resources (now 4) Grey draws 2 military cards 1 culture (now 4) 2 science (now 7)
-703,2020-07-17 10:12:39,Grey,I,4,Grey builds 1 stage of Universitas Carolina Grey spends 3 resources
-704,2020-07-17 10:12:31,Grey,I,4,Grey takes Universitas Carolina in hand 1 civil action used
-705,2020-07-17 10:12:26,Grey,I,4,Grey builds Philosophy using Ideal Building Site Grey spends 2 resources
-706,2020-07-17 10:12:10,Grey,I,4,Grey increases population Grey spends 3 food
-707,2020-07-17 10:12:04,Grey,I,4,Action Phase begins
-708,2020-07-17 10:12:04,Grey,I,4,Grey discards 3 cards
-709,2020-07-17 08:14:14,Grey,I,4,Discard Phase 3 military cards must be discarded
-710,2020-07-17 08:14:14,Green,I,4,Green produces 2 food Green produces 2 food
-711,2020-07-17 01:59:23,Purple,I,4,Purple produces 2 resources Purple produces 2 resources
-712,2020-07-17 01:58:23,Orange,I,4,Orange produces 2 food Orange produces 2 food
-713,2020-07-17 00:04:56,Grey,I,4,Grey produces 2 resources Grey produces 2 resources
-714,2020-07-17 00:03:48,Grey,I,4,Grey plays event Grey scores 1 culture Current event: A / Development of Markets Each civilization produces 2 resources or 2 food (player's choice).
-715,2020-07-16 21:25:31,Green,I,4,End turn Green scores: 1 food - consumption: 1 (now 1) 3 resources (now 5) Green draws 1 military card 0 culture (now 1) 2 science (now 2)
-716,2020-07-16 21:25:15,Green,I,4,Green plays Tactics I / Fighting Band
-717,2020-07-16 21:25:08,Green,I,4,Green discovers Bread & Circuses 3 science spent
-718,2020-07-16 21:24:31,Green,I,4,Green takes Bread & Circuses in hand 1 civil action used
-719,2020-07-16 21:22:40,Green,I,4,Green builds Philosophy using Ideal Building Site Green spends 1 resource
-720,2020-07-16 21:22:19,Green,I,4,Green increases population Green spends 3 food
-721,2020-07-16 21:22:04,Green,I,4,Green builds 1 stage of Pyramids Wonder completed
-722,2020-07-16 21:21:42,Green,I,4,No Discard Phase
-723,2020-07-16 21:21:42,Green,I,4,Green plays event Green scores 1 culture Current event: A / Development of Politics Each player draws 3 military cards. Active player does not discard military cards this round. Orange draws 3 military cards Purple draws 3 military cards Green draws 3 military cards Grey draws 3 military cards
-724,2020-07-16 21:12:25,Purple,I,4,End turn Purple scores: 2 food - consumption: 0 (now 6) 3 resources (now 3) Purple draws 3 military cards 0 culture (now 1) 2 science (now 5)
-725,2020-07-16 21:12:11,Purple,I,4,Purple takes Iron in hand 1 civil action used
-726,2020-07-16 21:12:09,Purple,I,4,Purple puts Rich Land back in the row 1 civil action recovered
-727,2020-07-16 21:11:11,Purple,I,4,Purple builds Philosophy Purple spends 3 resources
-728,2020-07-16 21:11:05,Purple,I,4,Purple increases population Purple spends 2 food
-729,2020-07-16 21:10:44,Purple,I,4,Purple takes Leonardo Da Vinci in hand 1 civil action used
-730,2020-07-16 21:10:40,Purple,I,4,Purple takes Rich Land in hand 1 civil action used
-731,2020-07-16 21:10:31,Purple,I,4,No Discard Phase
-732,2020-07-16 21:10:31,Purple,I,4,Purple passes Political Phase
-733,2020-07-16 20:38:30,Orange,I,4,End turn Orange scores: 1 food - consumption: 1 (now 1) 3 resources (now 6) Orange draws 2 military cards 0 culture (now 0) 2 science (now 5)
-734,2020-07-16 20:36:45,Orange,I,4,Orange takes Knights in hand 1 civil action used
-735,2020-07-16 20:36:43,Orange,I,4,Orange takes Masonry in hand 1 civil action used
-736,2020-07-16 20:36:40,Orange,I,4,Orange builds Philosophy using Ideal Building Site Orange spends 1 resource
-737,2020-07-16 20:36:27,Orange,I,4,Orange increases population Orange spends 3 food
-738,2020-07-16 20:36:18,Orange,I,4,Action Phase begins
-739,2020-07-16 20:36:18,Orange,I,4,Orange discards 1 cards
-740,2020-07-16 20:36:15,Orange,I,4,Discard Phase 1 military card must be discarded
-741,2020-07-16 20:36:15,Orange,I,4,Orange passes Political Phase
-742,2020-07-16 19:22:52,Grey,I,4,End turn Grey scores: 1 food - consumption: 1 (now 3) 3 resources (now 4) Grey draws 2 military cards 1 culture (now 2) 1 science (now 5)
-743,2020-07-16 19:22:37,Grey,I,3,Grey builds Religion Grey spends 3 resources
-744,2020-07-16 19:22:15,Grey,I,3,Grey takes Code of Laws in hand 1 civil action used Aristotle gives 1 science point
-745,2020-07-16 19:22:10,Grey,I,3,Grey takes Alchemy in hand 1 civil action used Aristotle gives 1 science point
-746,2020-07-16 19:21:57,Grey,I,3,Grey elects Aristotle
-747,2020-07-16 19:17:07,Grey,I,3,No Discard Phase
-748,2020-07-16 19:17:07,Green,I,3,Green builds Warrior
-749,2020-07-16 17:40:58,Purple,I,3,Purple builds Warrior
-750,2020-07-16 17:25:11,Orange,I,3,Orange builds Warrior
-751,2020-07-16 17:20:45,Grey,I,3,Grey builds Warrior
-752,2020-07-16 17:20:35,Grey,I,3,Grey plays event Grey scores 1 culture Current event: A / Development of Warfare Each player with an unused worker may immediately build a Warrior unit for free.
-753,2020-07-16 17:15:50,Green,I,3,End turn Green scores: 1 food - consumption: 1 (now 3) 3 resources (now 3) Green draws 2 military cards 0 culture (now 0) 1 science (now 3)
-754,2020-07-16 17:15:32,Green,I,3,Green takes Ideal Building Site in hand 1 civil action used
-755,2020-07-16 17:15:28,Green,I,3,Green takes Swordsmen in hand 1 civil action used
-756,2020-07-16 17:15:23,Green,I,3,Green puts Swordsmen back in the row 1 civil action recovered
-757,2020-07-16 17:15:19,Green,I,3,Green puts Patriotism back in the row 1 civil action recovered
-758,2020-07-16 17:15:15,Green,I,3,Green takes Swordsmen in hand 1 civil action used
-759,2020-07-16 17:15:10,Green,I,3,Green takes Patriotism in hand 1 civil action used
-760,2020-07-16 17:15:04,Green,I,3,Green builds 1 stage of Pyramids Green spends 2 resources
-761,2020-07-16 17:14:55,Green,I,3,Green builds 1 stage of Pyramids Green spends 2 resources
-762,2020-07-16 17:14:44,Green,I,3,No Discard Phase
-763,2020-07-16 17:14:44,Green,I,3,Green passes Political Phase
-764,2020-07-16 00:43:23,Purple,I,3,End turn Purple scores: 2 food - consumption: 0 (now 6) 3 resources (now 3) Purple draws 2 military cards 0 culture (now 1) 1 science (now 3)
-765,2020-07-16 00:43:17,Purple,I,3,Purple plays Tactics I / Fighting Band
-766,2020-07-16 00:41:22,Purple,I,3,Purple takes Breakthrough in hand 1 civil action used
-767,2020-07-16 00:40:49,Purple,I,3,Purple builds 1 stage of Trade routes Purple spends 2 resources Wonder completed
-768,2020-07-16 00:40:43,Purple,I,3,Purple builds 1 stage of Trade routes Purple spends 1 resource
-769,2020-07-16 00:40:21,Purple,I,3,Purple takes Alchemy in hand 1 civil action used
-770,2020-07-16 00:40:11,Purple,I,3,No Discard Phase
-771,2020-07-16 00:40:11,Purple,I,3,Purple plays event Purple scores 1 culture Current event: A / Development of Settlement Each civilization increases its population for free.
-772,2020-07-16 00:36:02,Orange,I,3,End turn Orange scores: 1 food - consumption: 1 (now 3) 3 resources (now 4) Orange draws 1 military card 0 culture (now 0) 1 science (now 3)
-773,2020-07-16 00:35:54,Orange,I,3,Orange takes Rich Land in hand 1 civil action used
-774,2020-07-16 00:32:59,Orange,I,3,Orange puts Rich Land back in the row 1 civil action recovered
-775,2020-07-16 00:32:18,Orange,I,3,Orange builds Warrior Orange spends 2 resources
-776,2020-07-16 00:32:07,Orange,I,3,Orange takes Rich Land in hand 1 civil action used
-777,2020-07-16 00:31:37,Orange,I,3,Orange plays Frugality Orange increases population Orange spends 2 food Orange produces 2 food
-778,2020-07-16 00:31:26,Orange,I,3,Orange elects Ramesses II
-779,2020-07-16 00:31:17,Orange,I,3,Orange takes Ramesses II in hand 1 civil action used
-780,2020-07-16 00:31:12,Orange,I,3,No Discard Phase
-781,2020-07-16 00:31:12,Orange,I,3,Orange passes Political Phase
-782,2020-07-15 20:55:29,Grey,I,3,End turn Grey scores: 2 food - consumption: 0 (now 2) 3 resources (now 4) Grey draws 2 military cards 0 culture (now 0) 1 science (now 2)
-783,2020-07-15 20:55:16,Grey,I,2,Grey takes Iron in hand 2 civil actions used
-784,2020-07-15 20:54:38,Grey,I,2,Grey increases population Grey spends 2 food
-785,2020-07-15 20:53:56,Grey,I,2,Grey builds Bronze using Rich Land Grey spends 1 resource
-786,2020-07-15 20:52:49,Green,I,2,Action Phase begins
-787,2020-07-15 20:52:49,Green,I,2,End turn Green scores: 2 food - consumption: 0 (now 2) 3 resources (now 4) Green draws 2 military cards 0 culture (now 0) 1 science (now 2)
-788,2020-07-15 20:52:23,Green,I,2,Green takes Pyramids in hand 2 civil actions used
-789,2020-07-15 20:52:15,Green,I,2,Green puts Frugality back in the row 1 civil action recovered
-790,2020-07-15 20:52:10,Green,I,2,Green puts Rich Land back in the row 1 civil action recovered
-791,2020-07-15 20:51:39,Green,I,2,Green takes Rich Land in hand 1 civil action used
-792,2020-07-15 20:51:30,Green,I,2,Green takes Frugality in hand 1 civil action used
-793,2020-07-15 20:51:18,Green,I,2,Green builds Bronze Green spends 1 resource
-794,2020-07-15 20:51:05,Green,I,2,Green increases population Green spends 2 food
-795,2020-07-15 20:50:54,Green,I,2,Green elects Forefather Czech Forefather Czech gives 1 civil action back
-796,2020-07-15 12:07:20,Purple,I,2,Action Phase begins
-797,2020-07-15 12:07:20,Purple,I,2,End turn Purple scores: 2 food - consumption: 0 (now 4) 2 resources (now 3) Purple draws 3 military cards 0 culture (now 0) 1 science (now 2)
-798,2020-07-15 12:05:49,Purple,I,2,Purple elects Julius Caesar
-799,2020-07-15 12:05:40,Purple,I,2,Purple takes Julius Caesar in hand 2 civil actions used
-800,2020-07-15 12:04:35,Purple,I,2,Purple plays Engineering Genius Purple builds 1 stage of Trade routes Purple spends 1 resource
-801,2020-07-15 11:58:15,Orange,I,2,Action Phase begins
-802,2020-07-15 11:58:15,Orange,I,2,End turn Orange scores: 2 food - consumption: 0 (now 2) 3 resources (now 3) Orange draws 2 military cards 0 culture (now 0) 1 science (now 2)
-803,2020-07-15 11:57:36,Orange,I,2,Orange takes Frugality in hand 1 civil action used
-804,2020-07-15 11:57:34,Orange,I,2,Orange takes Ideal Building Site in hand 1 civil action used
-805,2020-07-15 11:55:26,Orange,I,2,Orange builds Bronze Orange spends 2 resources
-806,2020-07-15 11:55:04,Orange,I,2,Orange increases population Orange spends 2 food
-807,2020-07-15 11:14:08,Grey,I,2,Action Phase begins
-808,2020-07-15 11:14:08,Grey,I,2,End turn Grey scores: 2 food - consumption: 0 (now 2) 2 resources (now 2) 0 culture (now 0) 1 science (now 1) Age I begins.
-809,2020-07-15 11:13:34,Grey,A,1,Grey takes Aristotle in hand 1 civil action used
-810,2020-07-15 11:13:29,Grey,A,1,Grey takes Ideal Building Site in hand 1 civil action used
-811,2020-07-15 11:13:24,Grey,A,1,Grey puts Ideal Building Site back in the row 1 civil action recovered
-812,2020-07-15 11:13:21,Grey,A,1,Grey takes Ideal Building Site in hand 1 civil action used
-813,2020-07-15 11:13:11,Grey,A,1,Grey takes Rich Land in hand 2 civil actions used
-814,2020-07-15 09:42:49,Green,A,1,Action Phase begins
-815,2020-07-15 09:42:49,Green,A,1,End turn Green scores: 2 food - consumption: 0 (now 2) 2 resources (now 2) 0 culture (now 0) 1 science (now 1)
-816,2020-07-15 09:40:07,Green,A,1,Green takes Forefather Czech in hand 3 civil actions used
-817,2020-07-15 09:18:45,Purple,A,1,Action Phase begins
-818,2020-07-15 09:18:45,Purple,A,1,End turn Purple scores: 2 food - consumption: 0 (now 2) 2 resources (now 2) 0 culture (now 0) 1 science (now 1)
-819,2020-07-15 09:04:35,Purple,A,1,Purple takes Trade routes in hand 1 civil action used
-820,2020-07-15 09:04:33,Purple,A,1,Purple takes Engineering Genius in hand 1 civil action used
-821,2020-07-15 08:38:44,Orange,A,1,Action Phase begins
-822,2020-07-15 08:38:44,Orange,A,1,End turn Orange scores: 2 food - consumption: 0 (now 2) 2 resources (now 2) 0 culture (now 0) 1 science (now 1)
-823,2020-07-15 08:38:25,Orange,A,1,Orange takes Library of Alexandria in hand 1 civil action used
-824,2020-07-15 03:07:31,Orange,A,1,Game 🐪 day - History Repeats Itself created.
+0,2020-07-21 19:37:24,Orange,IV,19,End of game#Check the journal to get the final impacts effects : Impact of Strength Impact of Science Impact of Progress Impact of Architecture Impact of Colonies Impact of Agriculture WINNER IS DAVID LI AS PURPLE (211 PTS) 2nd is teddy yeh as Grey (188 pts) 3rd is Micah Yospe as Green (167 pts) 4th is X L as Orange (151 pts) #
+1,2020-07-21 19:37:24,Grey,IV,19,Impact of Agriculture#Each civilization scores culture equal to the amount of food its farms produce. Orange scores 6 culture Purple scores 6 culture Green scores 10 culture Grey scores 5 culture #
+2,2020-07-21 19:37:24,Grey,IV,19,Impact of Colonies#Each civilization scores 4 culture per colony. Orange scores 0 culture Purple scores 12 culture Green scores 16 culture Grey scores 8 culture #
+3,2020-07-21 19:37:24,Grey,IV,19,Impact of Architecture#Each civilization scores 1 culture per level of its urban buildings. Orange scores 2 culture Purple scores 16 culture Green scores 14 culture Grey scores 11 culture #
+4,2020-07-21 19:37:24,Grey,IV,19,Impact of Progress#Each civilization scores 2 culture per level of each of its government and special (blue) technologies. Orange scores 12 culture Purple scores 18 culture Green scores 12 culture Grey scores 24 culture #
+5,2020-07-21 19:37:24,Grey,IV,19,Impact of Science#Score culture according to science rating: 15/10/5/0 for 4-player 14/7/0 for 3-player 10/0 for 2-player Orange scores 0 culture Purple scores 15 culture Green scores 5 culture Grey scores 10 culture #
+6,2020-07-21 19:37:24,Grey,IV,19,Impact of Strength#Score culture according to strength: 15/10/5/0 for 4-player 14/7/0 for 3-player 10/0 for 2-player Orange scores 10 culture Purple scores 15 culture Green scores 0 culture Grey scores 5 culture #
+7,2020-07-21 19:37:24,Grey,IV,19,End turn#Grey scores: 2 food - consumption: 3 (now 2) 7 resources (now 7) 19 culture (now 125) 15 science (now 20) #
+8,2020-07-21 19:37:17,Grey,IV,18,Grey takes Endowment for the Arts in hand#1 civil action used#
+9,2020-07-21 19:37:12,Grey,IV,18,Grey discovers Satellites#8 science spent #
+10,2020-07-21 19:37:07,Grey,IV,18,Grey builds Agriculture#Grey spends 2 resources #
+11,2020-07-21 19:37:02,Grey,IV,18,Grey destroys Iron##
+12,2020-07-21 19:36:55,Grey,IV,18,Grey builds Religion#Grey spends 3 resources #
+13,2020-07-21 19:36:38,Grey,IV,18,Grey increases population #Grey spends 5 food #
+14,2020-07-21 19:36:31,Grey,IV,18,Grey builds Multimedia#Grey spends 7 resources #
+15,2020-07-21 19:34:27,Grey,IV,18,No Discard Phase##
+16,2020-07-21 19:34:27,Grey,IV,18,Grey plays event#Grey scores 3 culture Current event: III / Impact of Industry Each civilization scores culture equal to the amount of resources it produce. Orange scores 4 culture Purple scores 13 culture Green scores 11 culture Grey scores 9 culture #
+17,2020-07-21 19:25:32,Green,IV,18,End turn#Green scores: 7 food - consumption: 3 (now 8) 11 resources (now 11) 16 culture (now 99) 6 science (now 6) #
+18,2020-07-21 19:25:21,Green,IV,18,Green takes Civil Service in hand#1 civil action used#
+19,2020-07-21 19:25:18,Green,IV,18,Green takes Tanks in hand#1 civil action used#
+20,2020-07-21 19:24:35,Green,IV,18,Green upgrades Irrigation to Mechanized Agriculture#Green spends 4 resources #
+21,2020-07-21 19:23:30,Green,IV,18,Green upgrades Irrigation to Mechanized Agriculture#Green spends 4 resources #
+22,2020-07-21 19:22:27,Green,IV,18,Green discovers Mechanized Agriculture#7 science spent #
+23,2020-07-21 19:22:21,Green,IV,18,Green plays Mineral Deposits#Green produces 4 resources #
+24,2020-07-21 19:22:17,Green,IV,18,Green builds Religion#Green spends 3 resources #
+25,2020-07-21 19:22:04,Green,IV,18,Green upgrades Drama to Movies#Green spends 5 resources #
+26,2020-07-21 19:21:23,Green,IV,18,No Discard Phase##
+27,2020-07-21 19:21:23,Green,IV,18,Green plays event#Green scores 3 culture Current event: II / Cold War The two strongest civilizations score 6 science. Purple scores 6 science Orange scores 6 science #
+28,2020-07-21 19:20:48,Purple,IV,18,End turn#Purple scores: 4 food - consumption: 2 (now 5) 13 resources (now 13) 16 culture (now 116) 15 science (now 16) #
+29,2020-07-21 19:17:48,Purple,IV,18,Purple builds Modern Infantry#Purple spends 7 resources #
+30,2020-07-21 19:17:40,Purple,IV,18,Purple upgrades Alchemy to Computers#Purple spends 4 resources #
+31,2020-07-21 19:17:31,Purple,IV,18,Purple builds Computers using Ideal Building Site #Purple spends 5 resources #
+32,2020-07-21 19:17:20,Purple,IV,18,Purple increases population #Purple spends 4 food #
+33,2020-07-21 19:17:15,Purple,IV,18,Purple increases population #Purple spends 4 food #
+34,2020-07-21 19:17:11,Purple,IV,18,Purple elects Sid Meier##
+35,2020-07-21 19:17:07,Purple,IV,18,Purple discovers Computers#8 science spent #
+36,2020-07-21 19:17:00,Purple,IV,18,Purple discovers Modern Infantry#8 science spent #
+37,2020-07-21 19:16:48,Purple,IV,18,Action Phase begins##
+38,2020-07-21 19:16:48,Purple,IV,18,Purple discards 1 cards ##
+39,2020-07-21 19:05:02,Purple,IV,18,Discard Phase#1 military card must be discarded#
+40,2020-07-21 19:05:02,Green,IV,18,Green colonizes a Inhabited Territory#Sacrificed Units: 1 Swordsmen 1 Colonization card +3 1 Colonization card +3 Total force: 8 Green increases population by 2#
+41,2020-07-21 19:02:13,Grey,IV,18,Green wins Inhabited Territory#Winning bid is 8#
+42,2020-07-21 19:02:12,Grey,IV,18,Grey passes##
+43,2020-07-21 19:01:46,Green,IV,18,Green bids 8##
+44,2020-07-21 18:59:38,Orange,IV,18,Orange passes##
+45,2020-07-21 18:47:37,Grey,IV,18,Grey bids 7##
+46,2020-07-21 18:46:44,Green,IV,18,Green bids 2##
+47,2020-07-21 18:45:57,Purple,IV,18,Purple passes##
+48,2020-07-21 18:44:23,Purple,IV,18,Purple plays event#Purple scores 3 culture Current event: II / Inhabited Territory 2 population #
+49,2020-07-21 18:29:59,Orange,IV,18,End turn#Orange scores: 2 food - consumption: 4 (now 4) 4 resources (now 6) 16 culture (now 117) 3 science (now 3) #
+50,2020-07-21 18:29:20,Orange,IV,18,Orange takes Fundamentalism in hand#1 civil action used#
+51,2020-07-21 18:28:15,Orange,IV,18,Orange builds Warrior#Orange spends 2 resources #
+52,2020-07-21 18:28:10,Orange,IV,18,Orange builds Riflemen#Orange spends 5 resources #
+53,2020-07-21 18:27:58,Orange,IV,18,Orange plays Mineral Deposits#Orange produces 4 resources #
+54,2020-07-21 18:27:07,Orange,IV,18,Orange destroys Bronze##
+55,2020-07-21 18:26:46,Orange,IV,18,Orange destroys Philosophy##
+56,2020-07-21 18:26:16,Orange,IV,18,Orange builds Air Forces#Orange spends 7 resources #
+57,2020-07-21 18:26:09,Orange,IV,18,Orange discovers Air Forces#11 science spent #
+58,2020-07-21 18:26:02,Orange,IV,18,Orange takes Air Forces in hand#1 civil action used#
+59,2020-07-21 18:25:58,Orange,IV,18,Orange plays Revolutionary Idea##
+60,2020-07-21 18:25:51,Orange,IV,18,Orange increases population #Orange spends 5 food #
+61,2020-07-21 18:25:35,Orange,IV,18,No Discard Phase##
+62,2020-07-21 18:25:35,Orange,IV,18,Orange passes Political Phase##
+63,2020-07-21 18:13:48,Grey,IV,18,Last turn#Game ends at the end of the starting round Units may no longer be sacrificed #
+64,2020-07-21 18:13:48,Grey,IV,18,End turn#Grey scores: 2 food - consumption: 2 (now 5) 9 resources (now 12) Grey draws 3 military cards 16 culture (now 94) 12 science (now 13) Age IV begins. Each player loses 2 yellow tokens John Amos Comenius dies. Promise of Military Protection expires. #
+65,2020-07-21 18:13:48,Grey,IV,18,Last turn#Game ends at the end of the starting round Units may no longer be sacrificed #
+66,2020-07-21 18:13:27,Grey,III,17,Grey increases population #Grey spends 4 food #
+67,2020-07-21 18:13:11,Grey,III,17,Grey discovers Military Theory#12 science spent #
+68,2020-07-21 18:13:06,Grey,III,17,Grey takes Military Theory in hand#1 civil action used#
+69,2020-07-21 18:13:01,Grey,III,17,Grey builds Movies#Grey spends 9 resources #
+70,2020-07-21 18:12:56,Grey,III,17,Grey increases population #Grey spends 4 food #
+71,2020-07-21 18:12:40,Grey,III,17,Grey discovers Movies#10 science spent #
+72,2020-07-21 18:12:33,Grey,III,17,Grey takes Movies in hand#1 civil action used#
+73,2020-07-21 18:12:29,Grey,III,17,Action Phase begins##
+74,2020-07-21 18:12:29,Grey,III,17,Grey discards 2 cards ##
+75,2020-07-21 18:08:17,Grey,III,17,Discard Phase#2 military cards must be discarded#
+76,2020-07-21 18:08:17,Purple,III,17,Purple colonizes a Fertile Territory#Sacrificed Units: 1 Riflemen 1 Riflemen 1 Colonization card +3 Colonization bonus: +3 Total force: 13 Purple produces 5 food #
+77,2020-07-21 18:03:41,Green,III,17,Purple wins Fertile Territory#Winning bid is 13#
+78,2020-07-21 18:03:41,Green,III,17,Green passes##
+79,2020-07-21 18:02:33,Purple,III,17,Purple bids 13##
+80,2020-07-21 18:00:59,Grey,III,17,Grey passes##
+81,2020-07-21 17:44:52,Green,III,17,Green bids 10##
+82,2020-07-21 17:44:24,Purple,III,17,Purple bids 9##
+83,2020-07-21 17:41:47,Orange,III,17,Orange passes##
+84,2020-07-21 17:37:56,Grey,III,17,Grey bids 4##
+85,2020-07-21 17:37:31,Grey,III,17,Grey plays event#Grey scores 3 culture Future events are now current events. Current event: II / Fertile Territory 5 food #
+86,2020-07-21 17:34:15,Green,III,17,End turn#Green scores: 1 food - consumption: 3 (now 1) 11 resources (now 12) Green draws 3 military cards 13 culture (now 80) 6 science (now 7) #
+87,2020-07-21 17:34:07,Green,III,17,Green takes Mineral Deposits in hand#2 civil actions used#
+88,2020-07-21 17:34:03,Green,III,17,Green upgrades Opera to Movies#Green spends 2 resources #
+89,2020-07-21 17:33:44,Green,III,17,Green builds Movies#Green spends 9 resources #
+90,2020-07-21 17:33:31,Green,III,17,Green increases population #Green spends 5 food #
+91,2020-07-21 17:33:25,Green,III,17,Green plays Bountiful Harvest#Green produces 4 food #
+92,2020-07-21 17:33:21,Green,III,17,Green discovers Movies#10 science spent #
+93,2020-07-21 17:33:15,Green,III,17,Green takes Movies in hand#1 civil action used#
+94,2020-07-21 17:33:07,Green,III,17,Action Phase begins##
+95,2020-07-21 17:33:07,Green,III,17,Green discards 3 cards ##
+96,2020-07-21 17:32:49,Green,III,17,Discard Phase#3 military cards must be discarded#
+97,2020-07-21 17:32:49,Green,III,17,Green passes Political Phase##
+98,2020-07-21 17:31:21,Purple,III,17,End turn#Purple scores: John Amos Comenius produces 3 culture 3 food - consumption: 3 (now 4) 13 resources (now 16) Purple draws 3 military cards 12 culture (now 97) 10 science (now 17) #
+99,2020-07-21 17:29:51,Purple,III,17,Purple builds Riflemen#Purple spends 5 resources #
+100,2020-07-21 17:29:19,Purple,III,17,Purple takes Modern Infantry in hand#1 civil action used#
+101,2020-07-21 17:29:05,Purple,III,17,Purple takes Ideal Building Site in hand#2 civil actions used#
+102,2020-07-21 17:29:02,Purple,III,17,Purple increases population #Purple spends 5 food #
+103,2020-07-21 17:28:53,Purple,III,17,Purple upgrades Iron to Oil using Efficient Upgrade #Purple spends 2 resources #
+104,2020-07-21 17:28:42,Purple,III,17,Purple discovers Oil#9 science spent #
+105,2020-07-21 17:28:37,Purple,III,17,Purple takes Oil in hand#1 civil action used#
+106,2020-07-21 17:28:18,Purple,III,17,Action Phase begins##
+107,2020-07-21 17:28:18,Purple,III,17,Purple discards 2 cards ##
+108,2020-07-21 17:21:10,Purple,III,17,Discard Phase#2 military cards must be discarded#
+109,2020-07-21 17:21:10,Grey,III,17,Grey loses Developed Territory (II)##
+110,2020-07-21 17:20:40,Purple,III,17,Purple plays event#Purple scores 3 culture Current event: II / Independence Declaration The weakest civilization loses 1 colony (owner's choice). Grey must choose a colony to lose #
+111,2020-07-21 17:17:50,Orange,III,17,End turn#Orange scores: 3 food - consumption: 3 (now 7) 5 resources (now 12) Orange draws 1 military card 15 culture (now 101) 4 science (now 5) #
+112,2020-07-21 17:16:07,Orange,III,17,Orange takes Revolutionary Idea in hand#0 civil action and 2 military actions used#
+113,2020-07-21 17:14:35,Orange,III,17,Orange revolutions#Change government to Democracy 8 science points spent #
+114,2020-07-21 17:14:24,Orange,III,17,No Discard Phase##
+115,2020-07-21 17:14:24,Orange,III,17,Orange passes Political Phase##
+116,2020-07-21 17:12:53,Grey,III,17,End turn#Grey scores: 3 food - consumption: 1 (now 11) 9 resources (now 12) Grey draws 3 military cards 12 culture (now 75) 12 science (now 23) #
+117,2020-07-21 17:12:42,Grey,III,16,Grey plays Revolutionary Idea##
+118,2020-07-21 17:12:23,Grey,III,16,Grey upgrades Iron to Oil using Efficient Upgrade #Grey spends 3 resources #
+119,2020-07-21 17:12:16,Grey,III,16,Grey discovers Oil#9 science spent #
+120,2020-07-21 17:12:08,Grey,III,16,Grey takes Oil in hand#1 civil action used#
+121,2020-07-21 17:12:04,Grey,III,16,Grey takes Satellites in hand#2 civil actions used#
+122,2020-07-21 17:12:00,Grey,III,16,Grey takes Modern Infantry in hand#1 civil action used#
+123,2020-07-21 17:11:53,Grey,III,16,Action Phase begins##
+124,2020-07-21 17:11:53,Grey,III,16,Grey discards 2 cards ##
+125,2020-07-21 17:09:30,Grey,III,16,Discard Phase#2 military cards must be discarded#
+126,2020-07-21 17:09:30,Green,III,16,Green accepts pact offer##
+127,2020-07-21 16:55:12,Grey,III,16,Grey proposes Peace Treaty to Green#Grey is A Green is B The two civilizations cannot attack each other. Each civilization produces 1 extra culture. #
+128,2020-07-21 16:49:02,Green,III,16,End turn#Green scores: 1 food - consumption: 3 (now 1) 11 resources (now 12) Green draws 3 military cards 7 culture (now 67) 6 science (now 11) #
+129,2020-07-21 16:48:51,Green,III,16,Green takes Multimedia in hand#1 civil action used#
+130,2020-07-21 16:48:47,Green,III,16,Green takes Computers in hand#2 civil actions used#
+131,2020-07-21 16:48:25,Green,III,16,Green takes Bountiful Harvest in hand#1 civil action used#
+132,2020-07-21 16:48:10,Green,III,16,Green elects Bill Gates#Isaac Newton dies #
+133,2020-07-21 16:47:59,Green,III,16,Green builds Opera using Ideal Building Site #Green spends 3 resources #
+134,2020-07-21 16:47:49,Green,III,16,Green upgrades Bronze to Coal using Efficient Upgrade #Green spends 2 resources #
+135,2020-07-21 16:47:28,Green,III,16,Green discovers Opera#7 science spent Isaac Newton gives 1 civil action back #
+136,2020-07-21 16:47:23,Green,III,16,Green discovers Engineering#9 science spent Isaac Newton gives 1 civil action back #
+137,2020-07-21 16:47:15,Green,III,16,Green increases population #Green spends 5 food #
+138,2020-07-21 16:47:09,Green,III,16,Action Phase begins##
+139,2020-07-21 16:47:09,Green,III,16,Green discards 2 cards ##
+140,2020-07-21 16:47:02,Green,III,16,Discard Phase#2 military cards must be discarded#
+141,2020-07-21 16:47:02,Green,III,16,Green passes Political Phase##
+142,2020-07-21 16:43:06,Purple,III,16,End turn#Purple scores: John Amos Comenius produces 3 culture 3 food - consumption: 3 (now 6) 8 resources (now 10) Purple draws 3 military cards 12 culture (now 82) 10 science (now 16) #
+143,2020-07-21 16:40:11,Purple,III,16,Purple takes Military Theory in hand#1 civil action used#
+144,2020-07-21 16:40:08,Purple,III,16,Purple takes Efficient Upgrade in hand#1 civil action used#
+145,2020-07-21 16:40:03,Purple,III,16,Purple builds Riflemen#Purple spends 1 resource #
+146,2020-07-21 16:39:55,Purple,III,16,Purple plays Patriotism##
+147,2020-07-21 16:39:38,Purple,III,16,Purple increases population #Purple spends 4 food #
+148,2020-07-21 16:39:33,Purple,III,16,Purple builds Riflemen#Purple spends 5 resources #
+149,2020-07-21 16:39:16,Purple,III,16,Purple increases population #Purple spends 4 food #
+150,2020-07-21 16:39:08,Purple,III,16,Purple builds Professional Sports#Purple spends 6 resources #
+151,2020-07-21 16:39:04,Purple,III,16,Purple discovers Professional Sports#7 science spent #
+152,2020-07-21 16:29:00,Purple,III,16,No Discard Phase##
+153,2020-07-21 16:29:00,Grey,III,16,Grey destroys Philosophy##
+154,2020-07-21 16:24:37,Purple,III,16,Grey must destroy/disband#Choose 1 building/mine/farm/unit#
+155,2020-07-21 16:24:37,Purple,III,16,Purple plays event#Purple scores 3 culture Current event: II / Refugees The weakest civilization loses 3 culture and 1 population. The strongest gains 3 culture and 1 population. Purple gains 3 culture and 1 population Grey loses 3 cultureand 1 population #
+156,2020-07-21 16:23:58,Orange,III,16,End turn#Orange scores: 3 food - consumption: 3 (now 4) 5 resources (now 7) 10 culture (now 86) 4 science (now 9) #
+157,2020-07-21 16:23:41,Orange,III,16,Orange takes Mineral Deposits in hand#0 civil action and 1 military action used#
+158,2020-07-21 16:23:31,Orange,III,16,Orange upgrades Irrigation to Selective breeding#Orange spends 2 resources #
+159,2020-07-21 16:23:15,Orange,III,16,Orange upgrades Irrigation to Selective breeding#Orange spends 2 resources #
+160,2020-07-21 16:23:09,Orange,III,16,Orange elects Tomá Garrigue Masaryk#Johannes Sebastian Bach dies #
+161,2020-07-21 16:22:07,Orange,III,16,Orange discovers Selective breeding#5 science spent #
+162,2020-07-21 16:21:52,Orange,III,16,Orange takes Tomá Garrigue Masaryk in hand#2 civil actions used#
+163,2020-07-21 16:21:48,Orange,III,16,No Discard Phase##
+164,2020-07-21 16:21:48,Orange,III,16,Orange passes Political Phase##
+165,2020-07-21 16:16:26,Grey,III,16,End turn#Grey scores: 3 food - consumption: 1 (now 8) 6 resources (now 6) Grey draws 3 military cards 11 culture (now 66) 13 science (now 16) #
+166,2020-07-21 16:16:19,Grey,III,15,Grey builds Multimedia#Grey spends 6 resources #
+167,2020-07-21 16:16:07,Grey,III,15,Grey discovers Multimedia#9 science spent #
+168,2020-07-21 16:16:00,Grey,III,15,Grey elects Santiago Ramón y Cajal##
+169,2020-07-21 16:15:52,Grey,III,15,Grey takes Santiago Ramón y Cajal in hand#2 civil actions used#
+170,2020-07-21 16:15:50,Grey,III,15,Grey takes Multimedia in hand#1 civil action used#
+171,2020-07-21 16:15:46,Grey,III,15,Grey takes Engineering Genius in hand#1 civil action used#
+172,2020-07-21 16:15:42,Grey,III,15,Action Phase begins##
+173,2020-07-21 16:15:42,Grey,III,15,Grey discards 1 cards ##
+174,2020-07-21 16:14:13,Grey,III,15,Discard Phase#1 military card must be discarded#
+175,2020-07-21 16:14:13,Grey,III,15,Grey plays event#Grey scores 3 culture Current event: II / Popularization of Science Each civilization scores culture equal to its science rating. Orange scores 4 culture Purple scores 13 culture (John Amos Comenius: +3) Green scores 8 culture Grey scores 7 culture #
+176,2020-07-21 16:13:04,Green,III,15,End turn#Green scores: 1 food - consumption: 3 (now 5) 5 resources (now 6) Green draws 3 military cards 4 culture (now 52) 8 science (now 21) #
+177,2020-07-21 16:12:52,Green,III,15,Green takes Bill Gates in hand#1 civil action used#
+178,2020-07-21 16:12:33,Green,III,15,Green puts Bill Gates back in the row#1 civil action recovered#
+179,2020-07-21 16:12:19,Green,III,15,Green takes Bill Gates in hand#1 civil action used#
+180,2020-07-21 16:12:03,Green,III,15,Green takes Mechanized Agriculture in hand#2 civil actions used#
+181,2020-07-21 16:11:48,Green,III,15,Green puts Efficient Upgrade back in the row#3 civil actions recovered#
+182,2020-07-21 16:11:43,Green,III,15,Green takes Air Forces in hand#3 civil actions used#
+183,2020-07-21 16:11:40,Green,III,15,Green puts Mechanized Agriculture back in the row#2 civil actions recovered#
+184,2020-07-21 16:11:24,Green,III,15,Green takes Mechanized Agriculture in hand#2 civil actions used#
+185,2020-07-21 16:11:21,Green,III,15,Green upgrades Bronze to Coal#Green spends 6 resources #
+186,2020-07-21 16:11:15,Green,III,15,Green takes Efficient Upgrade in hand#3 civil actions used#
+187,2020-07-21 16:11:12,Green,III,15,Green takes Efficient Upgrade in hand#1 civil action used#
+188,2020-07-21 16:11:05,Green,III,15,No Discard Phase##
+189,2020-07-21 16:11:05,Green,III,15,Green passes Political Phase##
+190,2020-07-21 16:05:54,Purple,III,15,End turn#Purple scores: John Amos Comenius produces 3 culture 4 food - consumption: 2 (now 11) 8 resources (now 14) Purple draws 3 military cards 12 culture (now 51) 10 science (now 13) #
+191,2020-07-21 16:04:20,Purple,III,15,Purple takes Patriotism in hand#1 civil action used#
+192,2020-07-21 16:04:18,Purple,III,15,Purple puts Efficient Upgrade back in the row#1 civil action recovered#
+193,2020-07-21 16:04:04,Purple,III,15,Purple takes Efficient Upgrade in hand#1 civil action used#
+194,2020-07-21 16:03:35,Purple,III,15,Purple discovers Strategy#6 science spent #
+195,2020-07-21 16:03:20,Purple,III,15,Purple builds Journalism#Purple spends 6 resources #
+196,2020-07-21 16:03:14,Purple,III,15,Purple increases population #Purple spends 4 food #
+197,2020-07-21 16:03:04,Purple,III,15,Purple takes Professional Sports in hand#1 civil action used#
+198,2020-07-21 16:03:02,Purple,III,15,Purple takes Computers in hand#2 civil actions used#
+199,2020-07-21 16:02:58,Purple,III,15,Action Phase begins##
+200,2020-07-21 16:02:58,Purple,III,15,Purple discards 4 cards ##
+201,2020-07-21 15:49:44,Purple,III,15,Discard Phase#4 military cards must be discarded#
+202,2020-07-21 15:49:44,Purple,III,15,Purple colonizes a Strategic Territory#Sacrificed Units: 1 Knights 1 Colonization card +2 1 Colonization card +2 Colonization bonus: +3 Total force: 9 Purple draws 5 military cards #
+203,2020-07-21 15:47:03,Orange,III,15,Purple wins Strategic Territory#Winning bid is 8#
+204,2020-07-21 15:47:03,Orange,III,15,Orange passes##
+205,2020-07-21 15:34:35,Grey,III,15,Grey passes##
+206,2020-07-21 15:24:17,Green,III,15,Green passes##
+207,2020-07-21 15:16:01,Purple,III,15,Purple bids 8##
+208,2020-07-21 15:15:11,Purple,III,15,Purple plays event#Purple scores 2 culture Current event: II / Strategic Territory 5 military cards #
+209,2020-07-21 15:14:53,Orange,III,15,End turn#Orange scores: 1 food - consumption: 3 (now 1) 5 resources (now 6) 8 culture (now 72) 4 science (now 10) #
+210,2020-07-21 15:14:28,Orange,III,15,Orange takes Democracy in hand#2 civil actions used#
+211,2020-07-21 15:14:08,Orange,III,15,Orange builds Riflemen#Orange spends 5 resources #
+212,2020-07-21 15:14:01,Orange,III,15,Orange builds Riflemen#Orange spends 5 resources #
+213,2020-07-21 15:13:54,Orange,III,15,Orange discovers Riflemen#5 science spent #
+214,2020-07-21 15:13:48,Orange,III,15,Orange increases population #Orange spends 5 food #
+215,2020-07-21 15:13:43,Orange,III,15,Orange increases population #Orange spends 4 food #
+216,2020-07-21 15:13:36,Orange,III,15,Action Phase begins##
+217,2020-07-21 15:13:36,Orange,III,15,Orange discards 2 cards ##
+218,2020-07-21 15:13:32,Orange,III,15,Discard Phase#2 military cards must be discarded#
+219,2020-07-21 15:13:32,Orange,III,15,Orange passes Political Phase##
+220,2020-07-21 14:51:29,Grey,III,15,End turn#Grey scores: 3 food - consumption: 1 (now 5) 6 resources (now 6) Grey draws 3 military cards 5 culture (now 45) 7 science (now 12) #
+221,2020-07-21 14:51:17,Grey,III,14,Grey increases population #Grey spends 3 food #
+222,2020-07-21 14:50:56,Grey,III,14,Grey takes Maximillien Robespierre in hand#1 civil action used#
+223,2020-07-21 14:50:45,Grey,III,14,Grey builds 4 stages of Harvard College#Grey spends 12 resources Wonder completed #
+224,2020-07-21 14:50:38,Grey,III,14,Grey discovers Engineering#9 science spent #
+225,2020-07-21 14:50:26,Grey,III,14,Grey takes Harvard College in hand#2 civil actions used#
+226,2020-07-21 14:50:14,Grey,III,14,Grey takes Engineering in hand#1 civil action used#
+227,2020-07-21 14:49:36,Grey,III,14,Grey builds Cavalrymen#Grey spends 5 resources #
+228,2020-07-21 14:49:12,Grey,III,14,No Discard Phase##
+229,2020-07-21 14:49:12,Grey,III,14,Grey passes Political Phase##
+230,2020-07-21 12:46:54,Green,III,14,End turn#Green scores: 1 food - consumption: 3 (now 4) 3 resources (now 7) Green draws 1 military card 4 culture (now 48) 8 science (now 13) #
+231,2020-07-21 12:46:26,Green,III,14,Green takes Rockets in hand#2 civil actions used#
+232,2020-07-21 12:45:30,Green,III,14,Green takes Engineering in hand#2 civil actions used#
+233,2020-07-21 12:45:26,Green,III,14,Green puts Democracy back in the row#3 civil actions recovered#
+234,2020-07-21 12:45:21,Green,III,14,Green takes Democracy in hand#3 civil actions used#
+235,2020-07-21 12:43:21,Green,III,14,Green puts Engineering back in the row#2 civil actions recovered#
+236,2020-07-21 12:43:13,Green,III,14,Green takes Ideal Building Site in hand#3 civil actions used#
+237,2020-07-21 12:41:48,Green,III,14,Green discovers Coal#7 science spent Isaac Newton gives 1 civil action back #
+238,2020-07-21 12:38:30,Green,III,14,Green takes Engineering in hand#2 civil actions used#
+239,2020-07-21 12:38:08,Green,III,14,Green plays Tactics#II / Classic Army #
+240,2020-07-21 12:38:03,Green,III,14,Green builds Cavalrymen#Green spends 5 resources #
+241,2020-07-21 12:37:42,Green,III,14,Green plays Frugality#Green increases population Green spends 4 food Green produces 3 food #
+242,2020-07-21 11:15:09,Green,III,14,No Discard Phase##
+243,2020-07-21 11:15:09,Grey,III,14,Grey colonizes a Developed Territory#Sacrificed Units: 1 Cavalrymen 1 Colonization card +2 1 Colonization card +3 Colonization bonus: +2 Total force: 10 Grey scores 5 science#
+244,2020-07-21 11:14:18,Purple,III,14,Grey wins Developed Territory#Winning bid is 10#
+245,2020-07-21 11:14:18,Purple,III,14,Purple passes##
+246,2020-07-21 11:09:31,Grey,III,14,Grey bids 10##
+247,2020-07-21 11:08:25,Purple,III,14,Purple bids 9##
+248,2020-07-21 10:11:30,Grey,III,14,Grey bids 8##
+249,2020-07-21 08:20:05,Green,III,14,Green passes##
+250,2020-07-20 23:06:42,Purple,III,14,Purple bids 7##
+251,2020-07-20 23:06:27,Orange,III,14,Orange passes##
+252,2020-07-20 22:51:07,Grey,III,14,Grey bids 6##
+253,2020-07-20 22:02:37,Green,III,14,Green bids 2##
+254,2020-07-20 22:02:11,Green,III,14,Green plays event#Green scores 2 culture Current event: II / Developed Territory 5 science #
+255,2020-07-20 21:58:54,Purple,III,14,End turn#Purple scores: John Amos Comenius produces 2 culture 4 food - consumption: 2 (now 11) 8 resources (now 12) Purple draws 2 military cards 9 culture (now 37) 8 science (now 9) #
+256,2020-07-20 21:57:53,Purple,III,14,Purple upgrades Warrior to Riflemen#Purple spends 3 resources #
+257,2020-07-20 21:57:45,Purple,III,14,Purple upgrades Warrior to Riflemen#Purple spends 3 resources #
+258,2020-07-20 21:57:41,Purple,III,14,Purple discovers Riflemen#5 science spent #
+259,2020-07-20 21:57:31,Purple,III,14,Purple upgrades Iron to Coal#Purple spends 3 resources #
+260,2020-07-20 21:57:27,Purple,III,14,Purple builds Religion#Purple spends 3 resources #
+261,2020-07-20 21:57:21,Purple,III,14,Purple increases population #Purple spends 4 food #
+262,2020-07-20 21:57:18,Purple,III,14,Purple discovers Coal#7 science spent #
+263,2020-07-20 21:57:13,Purple,III,14,Purple takes Sid Meier in hand#2 civil actions used#
+264,2020-07-20 21:57:10,Purple,III,14,Action Phase begins##
+265,2020-07-20 21:57:10,Purple,III,14,Purple discards 1 cards ##
+266,2020-07-20 21:44:37,Purple,III,14,Discard Phase#1 military card must be discarded#
+267,2020-07-20 21:44:37,Purple,III,14,Purple plays event#Purple scores 2 culture Future events are now current events. Current event: II / Economic Progress Each player's mines and farms produce immediately. Do not ignore consumption and corruption. Orange produces : 2 food - consumption: 2 Orange produces : 5 resources Purple produces : 4 food - consumption: 2 Purple produces : 4 resources - corruption: 2 Green produces : 2 food - consumption: 2 Green produces : 1 resources - corruption: 2 Grey produces : 2 food - consumption: 2 Grey produces : 2 resources - corruption: 4 #
+268,2020-07-20 21:43:10,Orange,III,14,End turn#Orange scores: 2 food - consumption: 2 (now 7) 5 resources (now 6) Orange draws 2 military cards 8 culture (now 64) 4 science (now 11) #
+269,2020-07-20 21:42:52,Orange,III,14,Orange elects Johannes Sebastian Bach##
+270,2020-07-20 21:42:44,Orange,III,14,Orange takes Riflemen in hand#1 civil action used#
+271,2020-07-20 21:42:41,Orange,III,14,Orange takes Selective breeding in hand#1 civil action used#
+272,2020-07-20 21:42:23,Orange,III,14,Orange builds Journalism using Ideal Building Site #Orange spends 4 resources #
+273,2020-07-20 21:42:14,Orange,III,14,Orange discovers Journalism#6 science spent #
+274,2020-07-20 21:42:07,Orange,III,14,Action Phase begins##
+275,2020-07-20 21:42:07,Orange,III,14,Orange discards 1 cards ##
+276,2020-07-20 21:42:02,Orange,III,14,Discard Phase#1 military card must be discarded#
+277,2020-07-20 21:42:02,Orange,III,14,Orange passes Political Phase##
+278,2020-07-20 21:00:05,Grey,III,14,End turn#Grey scores: 2 food - consumption: 2 (now 3) 4 resources - corruption: 2 (now 15) Grey draws 2 military cards 3 culture (now 40) 4 science (now 9) #
+279,2020-07-20 20:59:48,Grey,III,13,Grey takes Efficient Upgrade in hand#2 civil actions used#
+280,2020-07-20 20:59:37,Grey,III,13,Grey takes Revolutionary Idea in hand#2 civil actions used#
+281,2020-07-20 20:59:23,Grey,III,13,Grey increases population #Grey spends 4 food #
+282,2020-07-20 20:58:53,Grey,III,13,Grey plays Tactics#II / Napoleonic Army #
+283,2020-07-20 20:58:47,Grey,III,13,Grey builds Cannon#Grey spends 1 resource #
+284,2020-07-20 20:58:31,Grey,III,13,Grey plays Wave of Nationalism#Grey gets 4 resources to build military units #
+285,2020-07-20 20:58:15,Grey,III,13,Grey discovers Cannon using Breakthrough#7 science spent Grey scores 4 science #
+286,2020-07-20 20:57:59,Grey,III,13,Action Phase begins##
+287,2020-07-20 20:57:59,Grey,III,13,Grey discards 2 cards ##
+288,2020-07-20 20:55:39,Grey,III,13,Discard Phase#2 military cards must be discarded#
+289,2020-07-20 20:55:39,Grey,III,13,Grey plays event#Grey scores 2 culture Current event: II / Inquisition Each civilization scores 1 culture per level of each of their temples. The urban building limit for labs and libraries is reduced by 1 for each player until the active players next political phase. Players must immediately destroy any exceeding urban building. Orange destroys a Philosophy Grey scores 2 culture #
+290,2020-07-20 20:54:59,Green,III,13,End turn#Green scores: 2 food - consumption: 2 (now 2) 3 resources (now 8) Green draws 2 military cards 4 culture (now 42) 8 science (now 12) Age III begins. Each player loses 2 yellow tokens Frederick Barbarossa dies. Genghis Khan dies. Trade Routes Agreement expires. #
+291,2020-07-20 20:54:45,Green,II,13,Green takes Frugality in hand#1 civil action used#
+292,2020-07-20 20:53:58,Green,II,13,Green discovers Warfare#4 science spent Isaac Newton gives 1 civil action back #
+293,2020-07-20 20:53:44,Green,II,13,Green builds Cavalrymen#Green spends 4 resources Green spends 1 food #
+294,2020-07-20 20:53:32,Green,II,13,Green increases population #Green spends 4 food #
+295,2020-07-20 20:53:27,Green,II,13,Green discovers Cavalrymen#6 science spent Isaac Newton gives 1 civil action back #
+296,2020-07-20 20:53:18,Green,II,13,Green elects Isaac Newton#Joan of Arc dies #
+297,2020-07-20 20:53:12,Green,II,13,Green takes Isaac Newton in hand#2 civil actions used#
+298,2020-07-20 20:53:02,Green,II,13,Green takes Cavalrymen in hand#3 civil actions used#
+299,2020-07-20 20:52:44,Green,II,13,Action Phase begins##
+300,2020-07-20 20:52:44,Green,II,13,Green discards 2 cards ##
+301,2020-07-20 20:52:33,Green,II,13,Discard Phase#2 military cards must be discarded#
+302,2020-07-20 20:52:33,Green,II,13,Green passes Political Phase##
+303,2020-07-20 16:31:30,Purple,II,13,End turn#Purple scores: John Amos Comenius produces 2 science 5 food - consumption: 1 (now 7) 6 resources (now 12) Purple draws 3 military cards 5 culture (now 26) 11 science (now 13) #
+304,2020-07-20 16:30:43,Purple,II,13,Purple takes Riflemen in hand#1 civil action used#
+305,2020-07-20 16:30:26,Purple,II,13,Purple discovers Navigation#4 science spent #
+306,2020-07-20 16:30:20,Purple,II,13,Purple upgrades Agriculture to Selective breeding#Purple spends 4 resources #
+307,2020-07-20 16:30:12,Purple,II,13,Purple takes Coal in hand#1 civil action used#
+308,2020-07-20 16:30:10,Purple,II,13,Purple takes Navigation in hand#1 civil action used#
+309,2020-07-20 16:29:40,Purple,II,13,Purple upgrades Agriculture to Selective breeding using Efficient Upgrade #Purple spends 1 resource #
+310,2020-07-20 16:29:34,Purple,II,13,Purple discovers Selective breeding#5 science spent #
+311,2020-07-20 16:29:24,Purple,II,13,Action Phase begins##
+312,2020-07-20 16:29:24,Purple,II,13,Purple discards 3 cards ##
+313,2020-07-20 16:21:40,Purple,II,13,Discard Phase#3 military cards must be discarded#
+314,2020-07-20 16:21:32,Orange,II,13,End turn#Orange scores: 2 food - consumption: 2 (now 5) 5 resources (now 5) Orange draws 2 military cards 9 culture (now 56) 3 science (now 13) #
+315,2020-07-20 16:19:40,Orange,II,13,Orange takes Johannes Sebastian Bach in hand#3 civil actions used#
+316,2020-07-20 16:17:46,Orange,II,13,Orange builds 2 stages of Pilsen brewery#Orange spends 7 resources Wonder completed #
+317,2020-07-20 16:17:39,Orange,II,13,Orange plays Engineering Genius#Orange builds 1 stage of Pilsen brewery Orange spends 1 resource #
+318,2020-07-20 16:16:45,Orange,II,13,No Discard Phase##
+319,2020-07-20 16:16:44,Grey,II,13,Grey accepts pact offer##
+320,2020-07-20 16:16:02,Orange,II,13,Orange proposes Promise of Military Protection to Grey#Orange is B Grey is A A produces an extra culture per round. B adds 5 to its strength and produces 1 less culture per round. This pact ends if one attacks the other. #
+321,2020-07-20 16:10:53,Grey,II,13,End turn#Grey scores: 3 food - consumption: 1 (now 5) 6 resources (now 12) Grey draws 3 military cards 2 culture (now 33) 4 science (now 8) #
+322,2020-07-20 16:10:32,Grey,II,12,Grey takes Cannon in hand#1 civil action used#
+323,2020-07-20 16:10:29,Grey,II,12,Grey takes Wave of Nationalism in hand#1 civil action used#
+324,2020-07-20 16:09:44,Grey,II,12,Grey puts Cannon back in the row#1 civil action recovered#
+325,2020-07-20 16:09:23,Grey,II,12,Grey takes Cannon in hand#1 civil action used#
+326,2020-07-20 16:09:21,Grey,II,12,Grey takes Breakthrough in hand#1 civil action used#
+327,2020-07-20 16:09:13,Grey,II,12,Grey increases population #Grey spends 3 food #
+328,2020-07-20 16:09:07,Grey,II,12,Barbarossa enlists a Cavalrymen #Grey spends 2 food Grey spends 4 resources #
+329,2020-07-20 16:08:58,Grey,II,12,Grey discovers Cavalrymen#6 science spent #
+330,2020-07-20 16:08:53,Grey,II,12,Grey builds Swordsmen#Grey spends 3 resources #
+331,2020-07-20 16:08:46,Grey,II,12,Grey increases population #Grey spends 2 food #
+332,2020-07-20 16:08:38,Grey,II,12,Action Phase begins##
+333,2020-07-20 16:08:38,Grey,II,12,Grey discards 3 cards ##
+334,2020-07-20 16:06:22,Grey,II,12,Discard Phase#3 military cards must be discarded#
+335,2020-07-20 16:06:22,Grey,II,12,Grey plays event#Grey scores 2 culture Current event: II / Civil Unrest Each civilization loses 4 culture per discontent worker. Event has no effect #
+336,2020-07-20 15:58:19,Green,II,12,End turn#Green scores: 2 food - consumption: 2 (now 5) 1 resources - corruption: 2 (now 9) Green draws 2 military cards 4 culture (now 38) 6 science (now 14) #
+337,2020-07-20 15:56:41,Green,II,12,Green revolutions#Change government to Republic 4 science points spent #
+338,2020-07-20 15:56:07,Green,II,12,Action Phase begins##
+339,2020-07-20 15:56:07,Green,II,12,Green discards 1 cards ##
+340,2020-07-20 15:52:39,Green,II,12,Discard Phase#1 military card must be discarded#
+341,2020-07-20 15:52:39,Purple,II,12,International Agreement#Purple takes Efficient Upgrade in hand Purple takes Strategy in hand #
+342,2020-07-20 15:48:27,Green,II,12,Green plays event#Green scores 2 culture Current event: II / International Agreement The strongest civilization may immediately take up to 5 civil actions in cards by giving up its next political action. Then replenish the cards in the card row. #
+343,2020-07-20 15:38:55,Purple,II,12,End turn#Purple scores: John Amos Comenius produces 2 culture 1 food - consumption: 1 (now 2) 6 resources (now 11) Purple draws 3 military cards 7 culture (now 21) 9 science (now 11) #
+344,2020-07-20 15:37:54,Purple,II,12,Purple elects John Amos Comenius#Leonardo Da Vinci dies #
+345,2020-07-20 15:37:35,Purple,II,12,Purple takes John Amos Comenius in hand#1 civil action used#
+346,2020-07-20 15:37:30,Purple,II,12,Purple builds Journalism#Purple spends 6 resources #
+347,2020-07-20 15:37:26,Purple,II,12,Purple increases population #Purple spends 3 food #
+348,2020-07-20 15:37:23,Purple,II,12,Purple builds Journalism#Purple spends 6 resources #
+349,2020-07-20 15:37:18,Purple,II,12,Purple plays Bountiful Harvest#Purple produces 3 food #
+350,2020-07-20 15:37:05,Purple,II,12,Purple discovers Journalism#6 science spent Leonardo Da Vinci gives 1 resource #
+351,2020-07-20 15:31:14,Purple,II,12,No Discard Phase##
+352,2020-07-20 15:31:14,Purple,II,12,Purple plays event#Purple scores 2 culture Current event: I / Rebellion Each player loses 2 civil actions per discontent worker (on their next turn). #
+353,2020-07-20 15:30:56,Orange,II,12,End turn#Orange scores: 2 food - consumption: 2 (now 3) 5 resources (now 8) Orange draws 2 military cards 8 culture (now 47) 3 science (now 10) #
+354,2020-07-20 15:29:29,Orange,II,12,Orange takes Pilsen brewery in hand#4 civil actions used#
+355,2020-07-20 15:29:03,Orange,II,12,Orange upgrades Agriculture to Irrigation#Orange spends 2 resources #
+356,2020-07-20 15:24:03,Orange,II,12,No Discard Phase##
+357,2020-07-20 15:24:03,Grey,II,12,Grey colonizes a Strategic Territory#Sacrificed Units: 1 Swordsmen Colonization bonus: +2 Total force: 4 Grey draws 3 military cards #
+358,2020-07-20 15:23:49,Purple,II,12,Grey wins Strategic Territory#Winning bid is 4#
+359,2020-07-20 15:23:49,Purple,II,12,Purple passes##
+360,2020-07-20 15:22:23,Orange,II,12,Orange passes##
+361,2020-07-20 15:05:45,Grey,II,12,Grey bids 4##
+362,2020-07-20 15:04:59,Green,II,12,Green passes##
+363,2020-07-20 15:03:38,Purple,II,12,Purple bids 3##
+364,2020-07-20 15:02:04,Orange,II,12,Orange bids 2##
+365,2020-07-20 15:01:42,Orange,II,12,Orange plays event#Orange scores 2 culture Current event: I / Strategic Territory 3 military cards #
+366,2020-07-20 14:53:12,Grey,II,12,End turn#Grey scores: 3 food - consumption: 1 (now 9) 2 resources - corruption: 4 (now 13) Grey draws 3 military cards 2 culture (now 29) 4 science (now 10) #
+367,2020-07-20 14:52:59,Grey,II,11,Grey revolutions#Change government to Constitutional Monarchy 5 science points spent #
+368,2020-07-20 14:52:21,Grey,II,11,Action Phase begins##
+369,2020-07-20 14:52:21,Grey,II,11,Grey discards 1 cards ##
+370,2020-07-20 14:52:18,Grey,II,11,Discard Phase#1 military card must be discarded#
+371,2020-07-20 14:52:18,Grey,II,11,Grey passes Political Phase##
+372,2020-07-20 14:38:08,Green,II,11,End turn#Green scores: 2 food - consumption: 2 (now 3) 3 resources (now 8) Green draws 2 military cards 4 culture (now 32) 6 science (now 12) #
+373,2020-07-20 14:37:04,Green,II,11,Green takes Republic in hand#2 civil actions used#
+374,2020-07-20 14:36:15,Green,II,11,Green upgrades Alchemy to Scientific Method#Green spends 2 resources #
+375,2020-07-20 14:36:10,Green,II,11,Green upgrades Alchemy to Scientific Method#Green spends 1 resource Green spends 1 food #
+376,2020-07-20 14:36:00,Green,II,11,Green discovers Scientific Method#6 science spent #
+377,2020-07-20 14:35:30,Green,II,11,No Discard Phase##
+378,2020-07-20 14:35:30,Green,II,11,Green passes Political Phase##
+379,2020-07-20 12:27:11,Purple,II,11,End turn#Purple scores: 1 food - consumption: 1 (now 1) 6 resources (now 16) Purple draws 3 military cards 1 culture (now 12) 6 science (now 8) #
+380,2020-07-20 12:24:35,Purple,II,11,Purple increases population #Purple spends 3 food #
+381,2020-07-20 12:23:44,Purple,II,11,Purple takes Selective breeding in hand#2 civil actions used#
+382,2020-07-20 12:23:28,Purple,II,11,Purple discovers Constitutional Monarchy#12 science spent Leonardo Da Vinci gives 1 resource #
+383,2020-07-20 12:23:22,Purple,II,11,Purple takes Constitutional Monarchy in hand#3 civil actions used#
+384,2020-07-20 12:23:15,Purple,II,11,Action Phase begins##
+385,2020-07-20 12:23:15,Purple,II,11,Purple discards 1 cards ##
+386,2020-07-20 12:22:57,Purple,II,11,Discard Phase#1 military card must be discarded#
+387,2020-07-20 12:22:57,Purple,II,11,Purple plays event#Purple scores 2 culture Future events are now current events. Current event: I / Scientific Breakthrough Each civilization immediately scores science equal to its science rating. Orange scores 3 science Purple scores 6 science Green scores 4 science Grey scores 4 science #
+388,2020-07-20 12:22:22,Orange,II,11,End turn#Orange scores: 1 food - consumption: 2 (now 1) 5 resources (now 5) 8 culture (now 37) 3 science (now 4) #
+389,2020-07-20 12:21:51,Orange,II,11,Orange takes Journalism in hand#1 civil action used#
+390,2020-07-20 12:19:53,Orange,II,11,Orange builds Knights#Orange spends 3 resources #
+391,2020-07-20 12:19:46,Orange,II,11,Orange destroys Agriculture##
+392,2020-07-20 12:19:15,Orange,II,11,Orange builds Knights#Orange spends 3 resources #
+393,2020-07-20 12:18:42,Orange,II,11,Orange discovers Justice System#7 science spent #
+394,2020-07-20 12:18:34,Orange,II,11,Orange takes Justice System in hand#1 civil action used#
+395,2020-07-20 12:18:22,Orange,II,11,Orange increases population #Orange spends 4 food #
+396,2020-07-20 12:18:15,Orange,II,11,Action Phase begins##
+397,2020-07-20 12:18:15,Orange,II,11,Orange discards 1 cards ##
+398,2020-07-20 12:14:54,Orange,II,11,Discard Phase#1 military card must be discarded#
+399,2020-07-20 12:14:54,Grey,II,11,Grey colonizes a Fertile Territory#Sacrificed Units: 1 Swordsmen 1 Colonization card +1 Colonization bonus: +2 Total force: 5 Grey produces 3 food #
+400,2020-07-20 12:13:43,Purple,II,11,Grey wins Fertile Territory#Winning bid is 5#
+401,2020-07-20 12:13:43,Purple,II,11,Purple passes##
+402,2020-07-20 12:13:05,Orange,II,11,Orange passes##
+403,2020-07-20 12:11:14,Grey,II,11,Grey bids 5##
+404,2020-07-20 11:57:28,Green,II,11,Green passes##
+405,2020-07-20 11:52:03,Purple,II,11,Purple bids 4##
+406,2020-07-20 11:50:53,Orange,II,11,Orange bids 2##
+407,2020-07-20 11:49:05,Orange,II,11,Orange plays event#Orange scores 2 culture Current event: I / Fertile Territory 3 food #
+408,2020-07-20 11:47:17,Grey,II,11,End turn#Grey scores: 2 food - consumption: 2 (now 3) 6 resources (now 11) Grey draws 2 military cards 2 culture (now 27) 4 science (now 7) #
+409,2020-07-20 11:46:45,Grey,II,10,Grey takes Cavalrymen in hand#1 civil action used#
+410,2020-07-20 11:46:29,Grey,II,10,Grey upgrades Bronze to Iron#Grey spends 3 resources #
+411,2020-07-20 11:46:22,Grey,II,10,Grey upgrades Agriculture to Irrigation#Grey spends 2 resources #
+412,2020-07-20 11:46:14,Grey,II,10,Grey takes Constitutional Monarchy in hand#1 civil action used#
+413,2020-07-20 11:45:55,Grey,II,10,Grey discovers Cartography#4 science spent #
+414,2020-07-20 11:45:26,Grey,II,10,Action Phase begins##
+415,2020-07-20 11:45:26,Grey,II,10,Grey discards 2 cards ##
+416,2020-07-20 11:45:19,Grey,II,10,Discard Phase#2 military cards must be discarded#
+417,2020-07-20 11:45:19,Grey,II,10,Grey passes Political Phase##
+418,2020-07-20 11:44:42,Green,II,10,End turn#Green scores: 2 food - consumption: 2 (now 2) 3 resources (now 8) 4 culture (now 28) 4 science (now 8) #
+419,2020-07-20 11:44:29,Green,II,10,Green builds Religion#Green spends 3 resources #
+420,2020-07-20 11:43:21,Green,II,10,Green upgrades Warrior to Swordsmen#Green spends 1 resource #
+421,2020-07-20 11:43:14,Green,II,10,Green builds Swordsmen#Green spends 3 resources #
+422,2020-07-20 11:43:08,Green,II,10,Green discovers Swordsmen#3 science spent #
+423,2020-07-20 11:43:03,Green,II,10,Green increases population #Green spends 3 food #
+424,2020-07-20 11:42:59,Green,II,10,Green increases population #Green spends 3 food #
+425,2020-07-20 11:42:55,Green,II,10,Green takes Opera in hand#1 civil action used#
+426,2020-07-20 11:42:53,Green,II,10,No Discard Phase##
+427,2020-07-20 11:42:53,Green,II,10,Green passes Political Phase##
+428,2020-07-20 11:35:56,Purple,II,10,End turn#Purple scores: 1 food - consumption: 1 (now 3) 6 resources (now 9) Purple draws 2 military cards 1 culture (now 9) 6 science (now 8) #
+429,2020-07-20 11:32:01,Purple,II,10,Purple takes Journalism in hand#1 civil action used#
+430,2020-07-20 11:31:46,Purple,II,10,Purple builds 3 stages of Transcontinental Railroad#Purple spends 12 resources Wonder completed #
+431,2020-07-20 11:31:41,Purple,II,10,Purple discovers Architecture#6 science spent Leonardo Da Vinci gives 1 resource #
+432,2020-07-20 11:31:33,Purple,II,10,Purple takes Transcontinental Railroad in hand#2 civil actions used#
+433,2020-07-20 11:31:30,Purple,II,10,Action Phase begins##
+434,2020-07-20 11:31:30,Purple,II,10,Purple discards 2 cards ##
+435,2020-07-20 11:31:26,Purple,II,10,Discard Phase#2 military cards must be discarded#
+436,2020-07-20 11:31:25,Purple,II,10,Purple passes Political Phase##
+437,2020-07-20 11:24:25,Orange,II,10,End turn#Orange scores: 2 food - consumption: 2 (now 4) 5 resources (now 6) Orange draws 2 military cards 6 culture (now 27) 3 science (now 8) #
+438,2020-07-20 11:23:45,Orange,II,10,Orange takes Ideal Building Site in hand#1 civil action used#
+439,2020-07-20 11:23:29,Orange,II,10,Orange takes Engineering Genius in hand#1 civil action used#
+440,2020-07-20 11:22:49,Orange,II,10,Orange upgrades Agriculture to Irrigation#Orange spends 2 resources #
+441,2020-07-20 11:22:42,Orange,II,10,Orange builds 2 stages of St. Peter's Basilica#Orange spends 8 resources Wonder completed #
+442,2020-07-20 11:22:23,Orange,II,10,Action Phase begins##
+443,2020-07-20 11:22:23,Orange,II,10,Orange discards 1 cards ##
+444,2020-07-20 11:22:09,Orange,II,10,Discard Phase#1 military card must be discarded#
+445,2020-07-20 11:22:09,Orange,II,10,Orange plays event#Orange scores 2 culture Current event: I / New Deposits Each player's mines produce immediately. Ignore corruption. Orange produces 5 resources Purple produces 4 resources Green produces 3 resources Grey produces 5 resources #
+446,2020-07-20 11:18:23,Grey,II,10,End turn#Grey scores: 1 food - consumption: 2 (now 1) 5 resources (now 5) Grey draws 2 military cards 2 culture (now 25) 4 science (now 7) #
+447,2020-07-20 11:18:11,Grey,II,9,Barbarossa enlists a Swordsmen #Grey spends 2 food Grey spends 2 resources #
+448,2020-07-20 11:17:58,Grey,II,9,Grey upgrades Religion to Organized religion#Grey spends 4 resources #
+449,2020-07-20 11:17:50,Grey,II,9,Grey discovers Organized religion#4 science spent #
+450,2020-07-20 11:17:41,Grey,II,9,Grey takes Organized religion in hand#2 civil actions used#
+451,2020-07-20 11:17:36,Grey,II,9,Action Phase begins##
+452,2020-07-20 11:17:36,Grey,II,9,Grey discards 1 cards ##
+453,2020-07-20 11:00:15,Grey,II,9,Discard Phase#1 military card must be discarded#
+454,2020-07-20 11:00:15,Green,II,9,Green colonizes a Wealthy Territory#Sacrificed Units: 1 Warrior Total force: 1 Green produces 5 resources #
+455,2020-07-20 11:00:02,Green,II,9,Green wins Wealthy Territory#Winning bid is 1#
+456,2020-07-20 11:00:02,Green,II,9,Green bids 1##
+457,2020-07-19 21:40:33,Purple,II,9,Purple passes##
+458,2020-07-19 21:39:08,Orange,II,9,Orange passes##
+459,2020-07-19 21:25:45,Grey,II,9,Grey passes##
+460,2020-07-19 21:24:47,Grey,II,9,Grey plays event#Grey scores 2 culture Current event: I / Wealthy Territory 5 resources #
+461,2020-07-19 21:24:27,Green,II,9,End turn#Green scores: 3 food - consumption: 1 (now 6) 3 resources (now 4) 3 culture (now 24) 4 science (now 7) #
+462,2020-07-19 21:24:14,Green,II,9,Green upgrades Agriculture to Irrigation#Green spends 1 resource Green spends 1 food #
+463,2020-07-19 21:23:53,Green,II,9,Green takes Coal in hand#1 civil action used#
+464,2020-07-19 21:23:29,Green,II,9,Green puts Coal back in the row#1 civil action recovered#
+465,2020-07-19 21:23:26,Green,II,9,Green takes Scientific Method in hand#1 civil action used#
+466,2020-07-19 21:23:23,Green,II,9,Green plays Bountiful Harvest#Green produces 2 food #
+467,2020-07-19 21:23:04,Green,II,9,Green upgrades Philosophy to Alchemy using Efficient Upgrade #Green spends 1 resource #
+468,2020-07-19 21:22:50,Green,II,9,Green takes Coal in hand#1 civil action used#
+469,2020-07-19 21:22:42,Green,II,9,Action Phase begins##
+470,2020-07-19 21:22:42,Green,II,9,Green discards 1 cards ##
+471,2020-07-19 21:20:00,Green,II,9,Discard Phase#1 military card must be discarded#
+472,2020-07-19 21:20:00,Grey,II,9,Grey concedes defeat#Green takes I / Historic Territory from Grey #
+473,2020-07-19 21:19:18,Green,II,9,Green plays Annex against Grey#Take one colony from a rival. You gain (and he loses) its permanent bonuses but ignore any one-time gains. 2 military actions used #
+474,2020-07-19 16:51:10,Purple,II,9,End turn#Purple scores: 1 food - consumption: 1 (now 2) 4 resources (now 10) Purple draws 2 military cards 1 culture (now 8) 6 science (now 8) #
+475,2020-07-19 16:36:59,Purple,II,9,Purple takes Bountiful Harvest in hand#2 civil actions used#
+476,2020-07-19 16:36:51,Purple,II,9,Purple builds Knights#Purple spends 1 resource #
+477,2020-07-19 16:36:45,Purple,II,9,Purple plays Patriotism##
+478,2020-07-19 16:36:38,Purple,II,9,Purple discovers Knights#4 science spent Leonardo Da Vinci gives 1 resource #
+479,2020-07-19 16:36:12,Purple,II,9,Purple takes Architecture in hand#1 civil action used#
+480,2020-07-19 16:36:06,Purple,II,9,No Discard Phase##
+481,2020-07-19 16:36:06,Purple,II,9,Purple passes Political Phase##
+482,2020-07-19 14:36:55,Orange,II,9,End turn#Orange scores: 1 food - consumption: 2 (now 2) 5 resources (now 6) Orange draws 2 military cards 4 culture (now 19) 3 science (now 5) #
+483,2020-07-19 14:36:26,Orange,II,9,Orange takes Opera in hand#1 civil action used#
+484,2020-07-19 14:36:17,Orange,II,9,Orange upgrades Bronze to Iron#Orange spends 3 resources #
+485,2020-07-19 14:36:10,Orange,II,9,Orange discovers Irrigation#3 science spent #
+486,2020-07-19 14:35:40,Orange,II,9,Orange takes Irrigation in hand#1 civil action used#
+487,2020-07-19 14:35:37,Orange,II,9,Action Phase begins##
+488,2020-07-19 14:35:36,Orange,II,9,Orange discards 1 cards ##
+489,2020-07-19 14:35:33,Orange,II,9,Discard Phase#1 military card must be discarded#
+490,2020-07-19 14:35:33,Orange,II,9,Orange passes Political Phase##
+491,2020-07-19 11:33:08,Grey,II,9,End turn#Grey scores: 2 food - consumption: 1 (now 2) 5 resources (now 6) Grey draws 2 military cards 2 culture (now 21) 4 science (now 7) #
+492,2020-07-19 11:32:57,Grey,II,8,Grey elects Frederick Barbarossa##
+493,2020-07-19 11:32:32,Grey,II,8,Grey upgrades Agriculture to Irrigation using Efficient Upgrade ##
+494,2020-07-19 11:32:19,Grey,II,8,Grey upgrades Bronze to Iron#Grey spends 3 resources #
+495,2020-07-19 11:31:54,Grey,II,8,Grey takes Cartography in hand#1 civil action used#
+496,2020-07-19 11:31:48,Grey,II,8,Grey discovers Irrigation#3 science spent #
+497,2020-07-19 11:30:54,Grey,II,8,No Discard Phase##
+498,2020-07-19 11:30:54,Grey,II,8,Grey passes Political Phase##
+499,2020-07-19 10:19:00,Green,II,8,End turn#Green scores: 2 food - consumption: 1 (now 2) 3 resources (now 3) Green draws 2 military cards 3 culture (now 21) 3 science (now 3) #
+500,2020-07-19 10:18:11,Green,II,8,Green takes Warfare in hand#1 civil action used#
+501,2020-07-19 10:18:08,Green,II,8,Green puts Cartography back in the row#1 civil action recovered#
+502,2020-07-19 10:17:33,Green,II,8,Green plays Work of Art##
+503,2020-07-19 10:17:19,Green,II,8,Green takes Efficient Upgrade in hand#1 civil action used#
+504,2020-07-19 10:17:13,Green,II,8,Green puts Mineral Deposits back in the row#1 civil action recovered#
+505,2020-07-19 10:17:01,Green,II,8,Green takes Cartography in hand#1 civil action used#
+506,2020-07-19 10:16:58,Green,II,8,Green puts Efficient Upgrade back in the row#1 civil action recovered#
+507,2020-07-19 10:16:39,Green,II,8,Green takes Efficient Upgrade in hand#1 civil action used#
+508,2020-07-19 10:16:33,Green,II,8,Green takes Mineral Deposits in hand#1 civil action used#
+509,2020-07-19 10:16:17,Green,II,8,Green upgrades Philosophy to Alchemy#Green spends 3 resources #
+510,2020-07-19 10:16:08,Green,II,8,Green discovers Alchemy#4 science spent #
+511,2020-07-19 10:15:41,Green,II,8,Action Phase begins##
+512,2020-07-19 10:15:41,Green,II,8,Green discards 1 cards ##
+513,2020-07-19 10:15:25,Green,II,8,Discard Phase#1 military card must be discarded#
+514,2020-07-19 10:15:25,Green,II,8,Green plays event#Green scores 1 culture Current event: I / Uncertain Borders The weakest civilization gives one yellow token from its yellow bank to the strongest civilization's yellow bank. Green takes 1 yellow token from Grey #
+515,2020-07-18 23:06:17,Purple,II,8,End turn#Purple scores: 1 food - consumption: 1 (now 1) 4 resources (now 6) 1 culture (now 7) 6 science (now 6) #
+516,2020-07-18 23:04:32,Purple,II,8,Purple takes Patriotism in hand#1 civil action used#
+517,2020-07-18 23:04:28,Purple,II,8,Purple takes Knights in hand#1 civil action used#
+518,2020-07-18 23:04:23,Purple,II,8,Purple discovers Code of Laws#6 science spent Leonardo Da Vinci gives 1 resource #
+519,2020-07-18 23:04:18,Purple,II,8,Purple upgrades Philosophy to Alchemy#Purple spends 3 resources #
+520,2020-07-18 23:04:13,Purple,II,8,Purple upgrades Bronze to Iron#Purple spends 3 resources #
+521,2020-07-18 23:04:02,Purple,II,8,Action Phase begins##
+522,2020-07-18 23:04:02,Purple,II,8,Purple discards 2 cards ##
+523,2020-07-18 20:49:32,Purple,II,8,Discard Phase#2 military cards must be discarded#
+524,2020-07-18 20:49:32,Grey,II,8,Grey concedes defeat#Grey loses 1 population Purple produces 3 resources #
+525,2020-07-18 19:26:11,Purple,II,8,Purple plays Enslave against Grey#Make a rival decrease his population. Your civilization produces 3 resources. 2 military actions used Sacrificed Units: 1 Warrior #
+526,2020-07-18 18:15:42,Orange,II,8,End turn#Orange scores: 1 food - consumption: 2 (now 1) 4 resources (now 4) Orange draws 1 military card 4 culture (now 15) 3 science (now 5) #
+527,2020-07-18 18:14:13,Orange,II,8,Orange builds Religion#Orange spends 3 resources #
+528,2020-07-18 18:14:07,Orange,II,8,Orange disbands Warrior##
+529,2020-07-18 18:13:55,Orange,II,8,Orange elects Genghis Khan##
+530,2020-07-18 18:13:36,Orange,II,8,Orange upgrades Bronze to Iron#Orange spends 3 resources #
+531,2020-07-18 18:13:22,Orange,II,8,Orange discovers Iron#5 science spent #
+532,2020-07-18 18:11:56,Orange,II,8,No Discard Phase##
+533,2020-07-18 18:11:56,Orange,II,8,Orange plays event#Orange scores 1 culture Current event: I / Rats Each civilization loses all stored food. Orange loses 3 food. Purple loses 3 food. Green loses 3 food. Grey loses 5 food. #
+534,2020-07-18 17:05:30,Grey,II,8,End turn#Grey scores: 1 food - consumption: 1 (now 5) 4 resources (now 4) Grey draws 1 military card 2 culture (now 19) 4 science (now 6) Age II begins. Each player loses 2 yellow tokens Ramesses II dies. Aristotle dies. #
+535,2020-07-18 17:05:22,Grey,I,7,Grey plays Tactics#I / Medieval Army #
+536,2020-07-18 17:04:43,Grey,I,7,Grey takes Irrigation in hand#2 civil actions used Aristotle gives 1 science point #
+537,2020-07-18 17:04:22,Grey,I,7,Grey upgrades Bronze to Iron#Grey spends 3 resources #
+538,2020-07-18 17:04:15,Grey,I,7,Grey discovers Iron#5 science spent #
+539,2020-07-18 17:03:59,Grey,I,7,Grey takes Efficient Upgrade in hand#1 civil action used#
+540,2020-07-18 17:03:42,Grey,I,7,Action Phase begins##
+541,2020-07-18 17:03:42,Grey,I,7,Grey discards 1 cards ##
+542,2020-07-18 17:03:31,Grey,I,7,Discard Phase#1 military card must be discarded#
+543,2020-07-18 17:03:31,Grey,I,7,Grey plays event#Grey scores 1 culture Future events are now current events. Current event: I / Cultural Influence Each civilization immediatly scores culture equal to its culture rating. Orange scores 2 culture Purple scores 1 culture Green scores 3 culture Grey scores 2 culture #
+544,2020-07-18 17:03:10,Green,I,7,End turn#Green scores: 2 food - consumption: 1 (now 3) 3 resources (now 3) NO MILITARY CARDS LEFT. DISCARD PILE HAS BEEN RESHUFFLED. Green draws 2 military cards 3 culture (now 9) 2 science (now 4) #
+545,2020-07-18 17:02:49,Green,I,7,Green takes Work of Art in hand#1 civil action used#
+546,2020-07-18 17:02:31,Green,I,7,Green takes Alchemy in hand#2 civil actions used#
+547,2020-07-18 17:02:29,Green,I,7,Green puts Efficient Upgrade back in the row#2 civil actions recovered#
+548,2020-07-18 17:02:27,Green,I,7,Green takes Efficient Upgrade in hand#2 civil actions used#
+549,2020-07-18 17:02:24,Green,I,7,Green puts Warfare back in the row#1 civil action recovered#
+550,2020-07-18 17:02:21,Green,I,7,Green takes Warfare in hand#1 civil action used#
+551,2020-07-18 16:37:29,Green,I,7,Green puts Warfare back in the row#1 civil action recovered#
+552,2020-07-18 16:37:02,Green,I,7,Green builds Drama#Green spends 4 resources Green spends 1 food #
+553,2020-07-18 16:36:46,Green,I,7,Green takes Bountiful Harvest in hand#1 civil action used#
+554,2020-07-18 16:36:37,Green,I,7,Green takes Warfare in hand#1 civil action used#
+555,2020-07-18 16:36:06,Green,I,7,No Discard Phase##
+556,2020-07-18 16:36:06,Green,I,7,Green plays event#Green scores 1 culture Current event: I / Immigration Civilization(s) with most happy faces increase population by 1. Green receives a new immigrant #
+557,2020-07-18 15:09:26,Purple,I,7,End turn#Purple scores: 2 food - consumption: 0 (now 3) 4 resources (now 4) Purple draws 2 military cards 1 culture (now 5) 4 science (now 6) #
+558,2020-07-18 15:03:26,Purple,I,7,Purple takes Engineering Genius in hand#1 civil action used#
+559,2020-07-18 15:02:17,Purple,I,7,Purple upgrades Philosophy to Alchemy#Purple spends 3 resources #
+560,2020-07-18 15:02:11,Purple,I,7,Purple discovers Alchemy#4 science spent Leonardo Da Vinci gives 1 resource #
+561,2020-07-18 15:01:57,Purple,I,7,Purple elects Leonardo Da Vinci#Julius Caesar dies #
+562,2020-07-18 15:01:46,Purple,I,7,Purple builds Warrior#Purple spends 2 resources #
+563,2020-07-18 15:01:22,Purple,I,7,No Discard Phase##
+564,2020-07-18 15:01:22,Purple,I,7,Purple passes Political Phase##
+565,2020-07-18 14:22:01,Orange,I,7,End turn#Orange scores: 2 food - consumption: 1 (now 3) 3 resources (now 6) Orange draws 2 military cards 2 culture (now 8) 3 science (now 7) #
+566,2020-07-18 14:21:06,Orange,I,7,Orange takes St. Peter's Basilica in hand#2 civil actions used#
+567,2020-07-18 14:20:48,Orange,I,7,Orange builds Agriculture using Rich Land ##
+568,2020-07-18 14:20:16,Orange,I,7,Orange increases population #Orange spends 3 food #
+569,2020-07-18 14:20:09,Orange,I,7,No Discard Phase##
+570,2020-07-18 14:20:09,Orange,I,7,Orange passes Political Phase##
+571,2020-07-18 14:10:31,Grey,I,7,End turn#Grey scores: 1 food - consumption: 1 (now 4) 3 resources (now 3) Grey draws 2 military cards 2 culture (now 14) 4 science (now 6) #
+572,2020-07-18 14:10:19,Grey,I,6,Grey builds 1 stage of Universitas Carolina#Grey spends 3 resources Wonder completed #
+573,2020-07-18 14:10:03,Grey,I,6,Grey takes Frederick Barbarossa in hand#1 civil action used#
+574,2020-07-18 14:09:54,Grey,I,6,Grey takes Knights in hand#1 civil action used Aristotle gives 1 science point #
+575,2020-07-18 14:09:44,Grey,I,6,Grey plays Frugality#Grey increases population Grey spends 3 food Grey produces 2 food #
+576,2020-07-18 14:09:30,Grey,I,6,Grey discovers Code of Laws#6 science spent #
+577,2020-07-18 14:08:49,Grey,I,6,No Discard Phase##
+578,2020-07-18 14:08:49,Green,I,6,Green accepts pact offer##
+579,2020-07-18 11:45:18,Grey,I,6,"Grey proposes Trade Routes Agreement to Green#Grey is B Green is A Once per round A can use 1 food instead of 1 resource. Once per round, B can use 1 resource instead of 1 food. #"
+580,2020-07-17 21:34:56,Green,I,6,End turn#Green scores: 2 food - consumption: 1 (now 2) 3 resources (now 4) Green draws 1 military card 1 culture (now 5) 2 science (now 2) #
+581,2020-07-17 21:34:50,Green,I,6,Green elects Joan of Arc#Forefather Czech dies #
+582,2020-07-17 21:34:28,Green,I,6,Green discovers Drama#4 science spent #
+583,2020-07-17 21:34:05,Green,I,6,Green puts Revolutionary Idea back in the row#1 civil action recovered#
+584,2020-07-17 21:33:55,Green,I,6,Green takes Revolutionary Idea in hand#1 civil action used#
+585,2020-07-17 21:33:45,Green,I,6,Green puts St. Peter's Basilica back in the row#2 civil actions recovered#
+586,2020-07-17 21:33:19,Green,I,6,Green takes St. Peter's Basilica in hand#2 civil actions used#
+587,2020-07-17 21:33:04,Green,I,6,Green upgrades Agriculture to Irrigation#Green spends 1 resource #
+588,2020-07-17 21:32:49,Green,I,6,Green builds Warrior#Green spends 2 resources #
+589,2020-07-17 21:32:39,Green,I,6,Green discovers Irrigation#3 science spent #
+590,2020-07-17 21:32:10,Green,I,6,Green increases population #Green spends 3 food #
+591,2020-07-17 21:31:58,Green,I,6,Action Phase begins##
+592,2020-07-17 21:31:58,Green,I,6,Green discards 1 cards ##
+593,2020-07-17 21:20:31,Green,I,6,Discard Phase#1 military card must be discarded#
+594,2020-07-17 21:20:31,Purple,I,6,Purple colonizes a Inhabited Territory#Sacrificed Units: 1 Warrior 1 Warrior 1 Colonization card +1 Total force: 4 Purple increases population by 1#
+595,2020-07-17 20:35:01,Orange,I,6,Purple wins Inhabited Territory#Winning bid is 4#
+596,2020-07-17 20:35:01,Orange,I,6,Orange passes##
+597,2020-07-17 20:33:17,Grey,I,6,Grey passes##
+598,2020-07-17 20:32:47,Purple,I,6,Purple bids 4##
+599,2020-07-17 19:38:28,Orange,I,6,Orange bids 3##
+600,2020-07-17 18:30:49,Grey,I,6,Grey bids 2##
+601,2020-07-17 18:29:12,Green,I,6,Green bids 1##
+602,2020-07-17 18:29:05,Green,I,6,Green plays event#Green scores 1 culture Current event: I / Inhabited Territory 1 population #
+603,2020-07-17 14:20:25,Purple,I,6,End turn#Purple scores: 1 food - consumption: 1 (now 1) 4 resources (now 4) Purple draws 1 military card 1 culture (now 4) 2 science (now 6) #
+604,2020-07-17 14:19:38,Purple,I,6,Purple increases population #Purple spends 3 food #
+605,2020-07-17 14:19:14,Purple,I,6,Purple builds Warrior#Purple spends 2 resources #
+606,2020-07-17 14:15:36,Purple,I,6,Purple builds Warrior#Purple spends 2 resources #
+607,2020-07-17 14:15:25,Purple,I,6,Purple increases population #Purple spends 3 food #
+608,2020-07-17 14:15:16,Purple,I,6,Purple increases population #Purple spends 2 food #
+609,2020-07-17 14:15:10,Purple,I,6,Purple takes Code of Laws in hand#1 civil action used#
+610,2020-07-17 14:13:08,Purple,I,6,No Discard Phase##
+611,2020-07-17 14:13:08,Purple,I,6,Purple plays event#Purple scores 1 culture Current event: I / Good Harvest Each player's farms produce immediately. Ignore consumption and corruption. Orange produces 2 food Purple produces 2 food Green produces 2 food Grey produces 2 food #
+612,2020-07-17 14:08:22,Orange,I,6,End turn#Orange scores: 1 food - consumption: 1 (now 2) 3 resources (now 3) Orange draws 1 military card 2 culture (now 6) 3 science (now 4) #
+613,2020-07-17 14:07:41,Orange,I,6,Orange builds Knights#Orange spends 3 resources #
+614,2020-07-17 14:07:37,Orange,I,6,Orange discovers Knights#4 science spent #
+615,2020-07-17 14:07:30,Orange,I,6,Orange takes Genghis Khan in hand#1 civil action used#
+616,2020-07-17 14:07:01,Orange,I,6,Orange takes Iron in hand#1 civil action used#
+617,2020-07-17 14:05:08,Orange,I,6,Orange puts Iron back in the row#1 civil action recovered#
+618,2020-07-17 14:02:18,Orange,I,6,Orange takes Iron in hand#1 civil action used#
+619,2020-07-17 14:01:26,Orange,I,6,Orange increases population #Orange spends 3 food #
+620,2020-07-17 13:51:24,Orange,I,6,No Discard Phase##
+621,2020-07-17 13:51:24,Green,I,6,Green colonizes a Developed Territory#Sacrificed Units: 1 Warrior Total force: 1 Green scores 3 science#
+622,2020-07-17 13:48:12,Grey,I,6,Green wins Developed Territory#Winning bid is 1#
+623,2020-07-17 13:48:12,Grey,I,6,Grey passes##
+624,2020-07-17 13:34:04,Green,I,6,Green bids 1##
+625,2020-07-17 13:20:56,Purple,I,6,Purple passes##
+626,2020-07-17 13:13:19,Orange,I,6,Orange passes##
+627,2020-07-17 13:07:02,Orange,I,6,Orange plays event#Orange scores 1 culture Current event: I / Developed Territory 3 science #
+628,2020-07-17 13:05:00,Grey,I,6,End turn#Grey scores: 1 food - consumption: 1 (now 2) 3 resources (now 3) Grey draws 1 military card 1 culture (now 12) 2 science (now 7) #
+629,2020-07-17 13:04:46,Grey,I,5,Grey takes Frugality in hand#1 civil action used#
+630,2020-07-17 13:04:42,Grey,I,5,Grey builds 1 stage of Universitas Carolina#Grey spends 3 resources #
+631,2020-07-17 13:04:28,Grey,I,5,Grey upgrades Warrior to Swordsmen#Grey spends 1 resource #
+632,2020-07-17 13:04:20,Grey,I,5,Grey discovers Swordsmen#3 science spent #
+633,2020-07-17 13:04:12,Grey,I,5,Grey takes Swordsmen in hand#1 civil action used Aristotle gives 1 science point #
+634,2020-07-17 13:03:30,Grey,I,5,Action Phase begins##
+635,2020-07-17 13:03:30,Grey,I,5,Grey discards 1 cards ##
+636,2020-07-17 13:03:18,Grey,I,5,Discard Phase#1 military card must be discarded#
+637,2020-07-17 13:03:18,Grey,I,5,Grey colonizes a Historic Territory#Sacrificed Units: 1 Warrior Total force: 1 Grey scores 6 culture#
+638,2020-07-17 13:02:40,Green,I,5,Grey wins Historic Territory#Winning bid is 1#
+639,2020-07-17 13:02:40,Green,I,5,Green passes##
+640,2020-07-17 12:59:44,Purple,I,5,Purple passes##
+641,2020-07-17 12:58:09,Orange,I,5,Orange passes##
+642,2020-07-17 12:41:23,Grey,I,5,Grey bids 1##
+643,2020-07-17 12:40:13,Grey,I,5,Grey plays event#Grey scores 1 culture Current event: I / Historic Territory 6 culture #
+644,2020-07-17 12:38:33,Green,I,5,End turn#Green scores: 1 food - consumption: 1 (now 1) 3 resources (now 4) Green draws 2 military cards 1 culture (now 3) 2 science (now 4) #
+645,2020-07-17 12:38:23,Green,I,5,Green takes Joan of Arc in hand#1 civil action used#
+646,2020-07-17 12:38:18,Green,I,5,Green takes Drama in hand#1 civil action used#
+647,2020-07-17 12:37:45,Green,I,5,Green takes Irrigation in hand#1 civil action used#
+648,2020-07-17 12:37:28,Green,I,5,Green puts Jan ika back in the row#2 civil actions recovered#
+649,2020-07-17 12:37:12,Green,I,5,Green takes Jan ika in hand#2 civil actions used#
+650,2020-07-17 12:36:11,Green,I,5,Green puts Irrigation back in the row#1 civil action recovered#
+651,2020-07-17 12:34:29,Green,I,5,Green takes Irrigation in hand#1 civil action used#
+652,2020-07-17 12:33:57,Green,I,5,Green puts Irrigation back in the row#1 civil action recovered#
+653,2020-07-17 12:33:54,Green,I,5,Green puts Frugality back in the row#2 civil actions recovered#
+654,2020-07-17 12:32:51,Green,I,5,Green takes Frugality in hand#2 civil actions used#
+655,2020-07-17 12:32:40,Green,I,5,Green puts Drama back in the row#1 civil action recovered#
+656,2020-07-17 12:32:38,Green,I,5,Green takes Irrigation in hand#1 civil action used#
+657,2020-07-17 12:32:33,Green,I,5,Green puts Irrigation back in the row#1 civil action recovered#
+658,2020-07-17 12:32:24,Green,I,5,Green takes Drama in hand#1 civil action used#
+659,2020-07-17 12:32:18,Green,I,5,Green puts Frugality back in the row#2 civil actions recovered#
+660,2020-07-17 12:32:11,Green,I,5,Green takes Frugality in hand#2 civil actions used#
+661,2020-07-17 12:31:33,Green,I,5,Green puts Drama back in the row#1 civil action recovered#
+662,2020-07-17 12:31:07,Green,I,5,Green takes Irrigation in hand#1 civil action used#
+663,2020-07-17 12:30:46,Green,I,5,Green puts Irrigation back in the row#1 civil action recovered#
+664,2020-07-17 12:30:15,Green,I,5,Green takes Drama in hand#1 civil action used#
+665,2020-07-17 12:30:13,Green,I,5,Green puts Frugality back in the row#2 civil actions recovered#
+666,2020-07-17 12:30:04,Green,I,5,Green takes Frugality in hand#2 civil actions used#
+667,2020-07-17 12:30:02,Green,I,5,Green takes Irrigation in hand#1 civil action used#
+668,2020-07-17 12:30:00,Green,I,5,Green puts Drama back in the row#1 civil action recovered#
+669,2020-07-17 12:29:54,Green,I,5,Green takes Drama in hand#1 civil action used#
+670,2020-07-17 12:29:36,Green,I,5,Green builds Bread & Circuses#Green spends 4 resources #
+671,2020-07-17 12:29:02,Green,I,5,Green increases population #Green spends 3 food #
+672,2020-07-17 12:28:55,Green,I,5,Action Phase begins##
+673,2020-07-17 12:28:55,Green,I,5,Green discards 3 cards ##
+674,2020-07-17 12:19:51,Green,I,5,Discard Phase#3 military cards must be discarded#
+675,2020-07-17 12:19:51,Green,I,5,Green plays event#Green scores 1 culture Future events are now current events. Current event: A / No Event #
+676,2020-07-17 12:19:38,Purple,I,5,End turn#Purple scores: 2 food - consumption: 0 (now 6) 4 resources (now 4) Purple draws 1 military card 1 culture (now 2) 2 science (now 4) #
+677,2020-07-17 12:17:34,Purple,I,5,Purple takes Mineral Deposits in hand#1 civil action used#
+678,2020-07-17 12:16:44,Purple,I,5,Purple puts Bread & Circuses back in the row#1 civil action recovered#
+679,2020-07-17 12:15:21,Purple,I,5,Purple takes Bread & Circuses in hand#1 civil action used#
+680,2020-07-17 12:15:16,Purple,I,5,Purple upgrades Bronze to Iron#Purple spends 3 resources #
+681,2020-07-17 12:15:10,Purple,I,5,Purple discovers Iron using Breakthrough#5 science spent Purple scores 2 science #
+682,2020-07-17 12:15:02,Purple,I,5,Purple builds Warrior#Purple spends 2 resources #
+683,2020-07-17 12:14:58,Purple,I,5,Purple increases population #Purple spends 2 food #
+684,2020-07-17 12:14:47,Purple,I,5,Action Phase begins##
+685,2020-07-17 12:14:47,Purple,I,5,Purple discards 5 cards ##
+686,2020-07-17 12:10:48,Purple,I,5,Discard Phase#5 military cards must be discarded#
+687,2020-07-17 12:10:48,Orange,I,5,Orange defends#Sacrificed Units: 1 Warrior 1 Warrior Orange strength: 5 Purple strength: 5 #
+688,2020-07-17 11:55:21,Purple,I,5,"Purple plays Raid against Orange#Destroy one of a rival's urban buildings. You produce resources equal to half the building's cost, rounded up. 1 military actions used Sacrificed Units: 1 Warrior #"
+689,2020-07-17 11:49:34,Orange,I,5,End turn#Orange scores: 1 food - consumption: 1 (now 4) 3 resources (now 3) Orange draws 1 military card 2 culture (now 3) 3 science (now 5) #
+690,2020-07-17 11:49:18,Orange,I,5,Orange takes Monarchy in hand#1 civil action used#
+691,2020-07-17 11:21:08,Orange,I,5,Orange builds 2 stages of Library of Alexandria#Orange spends 3 resources Wonder completed #
+692,2020-07-17 11:21:03,Orange,I,5,Orange builds 2 stages of Library of Alexandria#Orange spends 3 resources #
+693,2020-07-17 11:20:57,Orange,I,5,Orange discovers Masonry#3 science spent #
+694,2020-07-17 11:20:50,Orange,I,5,Orange plays Tactics#I / Phalanx #
+695,2020-07-17 11:20:33,Orange,I,5,Action Phase begins##
+696,2020-07-17 11:20:33,Orange,I,5,Orange discards 4 cards ##
+697,2020-07-17 10:47:38,Orange,I,5,Discard Phase#4 military cards must be discarded#
+698,2020-07-17 10:47:38,Green,I,5,Green builds Religion##
+699,2020-07-17 10:45:51,Purple,I,5,Purple builds Religion##
+700,2020-07-17 10:31:42,Orange,I,5,Orange builds Religion##
+701,2020-07-17 10:31:35,Orange,I,5,Orange plays event#Orange scores 1 culture Current event: A / Development of Religion Each player with an unused worker may immediately build an Age A temple for free. #
+702,2020-07-17 10:12:54,Grey,I,5,End turn#Grey scores: 1 food - consumption: 1 (now 1) 3 resources (now 4) Grey draws 2 military cards 1 culture (now 4) 2 science (now 7) #
+703,2020-07-17 10:12:39,Grey,I,4,Grey builds 1 stage of Universitas Carolina#Grey spends 3 resources #
+704,2020-07-17 10:12:31,Grey,I,4,Grey takes Universitas Carolina in hand#1 civil action used#
+705,2020-07-17 10:12:26,Grey,I,4,Grey builds Philosophy using Ideal Building Site #Grey spends 2 resources #
+706,2020-07-17 10:12:10,Grey,I,4,Grey increases population #Grey spends 3 food #
+707,2020-07-17 10:12:04,Grey,I,4,Action Phase begins##
+708,2020-07-17 10:12:04,Grey,I,4,Grey discards 3 cards ##
+709,2020-07-17 08:14:14,Grey,I,4,Discard Phase#3 military cards must be discarded#
+710,2020-07-17 08:14:14,Green,I,4,Green produces 2 food#Green produces 2 food #
+711,2020-07-17 01:59:23,Purple,I,4,Purple produces 2 resources#Purple produces 2 resources #
+712,2020-07-17 01:58:23,Orange,I,4,Orange produces 2 food#Orange produces 2 food #
+713,2020-07-17 00:04:56,Grey,I,4,Grey produces 2 resources#Grey produces 2 resources #
+714,2020-07-17 00:03:48,Grey,I,4,Grey plays event#Grey scores 1 culture Current event: A / Development of Markets Each civilization produces 2 resources or 2 food (player's choice). #
+715,2020-07-16 21:25:31,Green,I,4,End turn#Green scores: 1 food - consumption: 1 (now 1) 3 resources (now 5) Green draws 1 military card 0 culture (now 1) 2 science (now 2) #
+716,2020-07-16 21:25:15,Green,I,4,Green plays Tactics#I / Fighting Band #
+717,2020-07-16 21:25:08,Green,I,4,Green discovers Bread & Circuses#3 science spent #
+718,2020-07-16 21:24:31,Green,I,4,Green takes Bread & Circuses in hand#1 civil action used#
+719,2020-07-16 21:22:40,Green,I,4,Green builds Philosophy using Ideal Building Site #Green spends 1 resource #
+720,2020-07-16 21:22:19,Green,I,4,Green increases population #Green spends 3 food #
+721,2020-07-16 21:22:04,Green,I,4,Green builds 1 stage of Pyramids# Wonder completed #
+722,2020-07-16 21:21:42,Green,I,4,No Discard Phase##
+723,2020-07-16 21:21:42,Green,I,4,Green plays event#Green scores 1 culture Current event: A / Development of Politics Each player draws 3 military cards. Active player does not discard military cards this round. Orange draws 3 military cards Purple draws 3 military cards Green draws 3 military cards Grey draws 3 military cards #
+724,2020-07-16 21:12:25,Purple,I,4,End turn#Purple scores: 2 food - consumption: 0 (now 6) 3 resources (now 3) Purple draws 3 military cards 0 culture (now 1) 2 science (now 5) #
+725,2020-07-16 21:12:11,Purple,I,4,Purple takes Iron in hand#1 civil action used#
+726,2020-07-16 21:12:09,Purple,I,4,Purple puts Rich Land back in the row#1 civil action recovered#
+727,2020-07-16 21:11:11,Purple,I,4,Purple builds Philosophy#Purple spends 3 resources #
+728,2020-07-16 21:11:05,Purple,I,4,Purple increases population #Purple spends 2 food #
+729,2020-07-16 21:10:44,Purple,I,4,Purple takes Leonardo Da Vinci in hand#1 civil action used#
+730,2020-07-16 21:10:40,Purple,I,4,Purple takes Rich Land in hand#1 civil action used#
+731,2020-07-16 21:10:31,Purple,I,4,No Discard Phase##
+732,2020-07-16 21:10:31,Purple,I,4,Purple passes Political Phase##
+733,2020-07-16 20:38:30,Orange,I,4,End turn#Orange scores: 1 food - consumption: 1 (now 1) 3 resources (now 6) Orange draws 2 military cards 0 culture (now 0) 2 science (now 5) #
+734,2020-07-16 20:36:45,Orange,I,4,Orange takes Knights in hand#1 civil action used#
+735,2020-07-16 20:36:43,Orange,I,4,Orange takes Masonry in hand#1 civil action used#
+736,2020-07-16 20:36:40,Orange,I,4,Orange builds Philosophy using Ideal Building Site #Orange spends 1 resource #
+737,2020-07-16 20:36:27,Orange,I,4,Orange increases population #Orange spends 3 food #
+738,2020-07-16 20:36:18,Orange,I,4,Action Phase begins##
+739,2020-07-16 20:36:18,Orange,I,4,Orange discards 1 cards ##
+740,2020-07-16 20:36:15,Orange,I,4,Discard Phase#1 military card must be discarded#
+741,2020-07-16 20:36:15,Orange,I,4,Orange passes Political Phase##
+742,2020-07-16 19:22:52,Grey,I,4,End turn#Grey scores: 1 food - consumption: 1 (now 3) 3 resources (now 4) Grey draws 2 military cards 1 culture (now 2) 1 science (now 5) #
+743,2020-07-16 19:22:37,Grey,I,3,Grey builds Religion#Grey spends 3 resources #
+744,2020-07-16 19:22:15,Grey,I,3,Grey takes Code of Laws in hand#1 civil action used Aristotle gives 1 science point #
+745,2020-07-16 19:22:10,Grey,I,3,Grey takes Alchemy in hand#1 civil action used Aristotle gives 1 science point #
+746,2020-07-16 19:21:57,Grey,I,3,Grey elects Aristotle##
+747,2020-07-16 19:17:07,Grey,I,3,No Discard Phase##
+748,2020-07-16 19:17:07,Green,I,3,Green builds Warrior##
+749,2020-07-16 17:40:58,Purple,I,3,Purple builds Warrior##
+750,2020-07-16 17:25:11,Orange,I,3,Orange builds Warrior##
+751,2020-07-16 17:20:45,Grey,I,3,Grey builds Warrior##
+752,2020-07-16 17:20:35,Grey,I,3,Grey plays event#Grey scores 1 culture Current event: A / Development of Warfare Each player with an unused worker may immediately build a Warrior unit for free. #
+753,2020-07-16 17:15:50,Green,I,3,End turn#Green scores: 1 food - consumption: 1 (now 3) 3 resources (now 3) Green draws 2 military cards 0 culture (now 0) 1 science (now 3) #
+754,2020-07-16 17:15:32,Green,I,3,Green takes Ideal Building Site in hand#1 civil action used#
+755,2020-07-16 17:15:28,Green,I,3,Green takes Swordsmen in hand#1 civil action used#
+756,2020-07-16 17:15:23,Green,I,3,Green puts Swordsmen back in the row#1 civil action recovered#
+757,2020-07-16 17:15:19,Green,I,3,Green puts Patriotism back in the row#1 civil action recovered#
+758,2020-07-16 17:15:15,Green,I,3,Green takes Swordsmen in hand#1 civil action used#
+759,2020-07-16 17:15:10,Green,I,3,Green takes Patriotism in hand#1 civil action used#
+760,2020-07-16 17:15:04,Green,I,3,Green builds 1 stage of Pyramids#Green spends 2 resources #
+761,2020-07-16 17:14:55,Green,I,3,Green builds 1 stage of Pyramids#Green spends 2 resources #
+762,2020-07-16 17:14:44,Green,I,3,No Discard Phase##
+763,2020-07-16 17:14:44,Green,I,3,Green passes Political Phase##
+764,2020-07-16 00:43:23,Purple,I,3,End turn#Purple scores: 2 food - consumption: 0 (now 6) 3 resources (now 3) Purple draws 2 military cards 0 culture (now 1) 1 science (now 3) #
+765,2020-07-16 00:43:17,Purple,I,3,Purple plays Tactics#I / Fighting Band #
+766,2020-07-16 00:41:22,Purple,I,3,Purple takes Breakthrough in hand#1 civil action used#
+767,2020-07-16 00:40:49,Purple,I,3,Purple builds 1 stage of Trade routes#Purple spends 2 resources Wonder completed #
+768,2020-07-16 00:40:43,Purple,I,3,Purple builds 1 stage of Trade routes#Purple spends 1 resource #
+769,2020-07-16 00:40:21,Purple,I,3,Purple takes Alchemy in hand#1 civil action used#
+770,2020-07-16 00:40:11,Purple,I,3,No Discard Phase##
+771,2020-07-16 00:40:11,Purple,I,3,Purple plays event#Purple scores 1 culture Current event: A / Development of Settlement Each civilization increases its population for free. #
+772,2020-07-16 00:36:02,Orange,I,3,End turn#Orange scores: 1 food - consumption: 1 (now 3) 3 resources (now 4) Orange draws 1 military card 0 culture (now 0) 1 science (now 3) #
+773,2020-07-16 00:35:54,Orange,I,3,Orange takes Rich Land in hand#1 civil action used#
+774,2020-07-16 00:32:59,Orange,I,3,Orange puts Rich Land back in the row#1 civil action recovered#
+775,2020-07-16 00:32:18,Orange,I,3,Orange builds Warrior#Orange spends 2 resources #
+776,2020-07-16 00:32:07,Orange,I,3,Orange takes Rich Land in hand#1 civil action used#
+777,2020-07-16 00:31:37,Orange,I,3,Orange plays Frugality#Orange increases population Orange spends 2 food Orange produces 2 food #
+778,2020-07-16 00:31:26,Orange,I,3,Orange elects Ramesses II##
+779,2020-07-16 00:31:17,Orange,I,3,Orange takes Ramesses II in hand#1 civil action used#
+780,2020-07-16 00:31:12,Orange,I,3,No Discard Phase##
+781,2020-07-16 00:31:12,Orange,I,3,Orange passes Political Phase##
+782,2020-07-15 20:55:29,Grey,I,3,End turn#Grey scores: 2 food - consumption: 0 (now 2) 3 resources (now 4) Grey draws 2 military cards 0 culture (now 0) 1 science (now 2) #
+783,2020-07-15 20:55:16,Grey,I,2,Grey takes Iron in hand#2 civil actions used#
+784,2020-07-15 20:54:38,Grey,I,2,Grey increases population #Grey spends 2 food #
+785,2020-07-15 20:53:56,Grey,I,2,Grey builds Bronze using Rich Land #Grey spends 1 resource #
+786,2020-07-15 20:52:49,Green,I,2,Action Phase begins##
+787,2020-07-15 20:52:49,Green,I,2,End turn#Green scores: 2 food - consumption: 0 (now 2) 3 resources (now 4) Green draws 2 military cards 0 culture (now 0) 1 science (now 2) #
+788,2020-07-15 20:52:23,Green,I,2,Green takes Pyramids in hand#2 civil actions used#
+789,2020-07-15 20:52:15,Green,I,2,Green puts Frugality back in the row#1 civil action recovered#
+790,2020-07-15 20:52:10,Green,I,2,Green puts Rich Land back in the row#1 civil action recovered#
+791,2020-07-15 20:51:39,Green,I,2,Green takes Rich Land in hand#1 civil action used#
+792,2020-07-15 20:51:30,Green,I,2,Green takes Frugality in hand#1 civil action used#
+793,2020-07-15 20:51:18,Green,I,2,Green builds Bronze#Green spends 1 resource #
+794,2020-07-15 20:51:05,Green,I,2,Green increases population #Green spends 2 food #
+795,2020-07-15 20:50:54,Green,I,2,Green elects Forefather Czech#Forefather Czech gives 1 civil action back #
+796,2020-07-15 12:07:20,Purple,I,2,Action Phase begins##
+797,2020-07-15 12:07:20,Purple,I,2,End turn#Purple scores: 2 food - consumption: 0 (now 4) 2 resources (now 3) Purple draws 3 military cards 0 culture (now 0) 1 science (now 2) #
+798,2020-07-15 12:05:49,Purple,I,2,Purple elects Julius Caesar##
+799,2020-07-15 12:05:40,Purple,I,2,Purple takes Julius Caesar in hand#2 civil actions used#
+800,2020-07-15 12:04:35,Purple,I,2,Purple plays Engineering Genius#Purple builds 1 stage of Trade routes Purple spends 1 resource #
+801,2020-07-15 11:58:15,Orange,I,2,Action Phase begins##
+802,2020-07-15 11:58:15,Orange,I,2,End turn#Orange scores: 2 food - consumption: 0 (now 2) 3 resources (now 3) Orange draws 2 military cards 0 culture (now 0) 1 science (now 2) #
+803,2020-07-15 11:57:36,Orange,I,2,Orange takes Frugality in hand#1 civil action used#
+804,2020-07-15 11:57:34,Orange,I,2,Orange takes Ideal Building Site in hand#1 civil action used#
+805,2020-07-15 11:55:26,Orange,I,2,Orange builds Bronze#Orange spends 2 resources #
+806,2020-07-15 11:55:04,Orange,I,2,Orange increases population #Orange spends 2 food #
+807,2020-07-15 11:14:08,Grey,I,2,Action Phase begins##
+808,2020-07-15 11:14:08,Grey,I,2,End turn#Grey scores: 2 food - consumption: 0 (now 2) 2 resources (now 2) 0 culture (now 0) 1 science (now 1) Age I begins. #
+809,2020-07-15 11:13:34,Grey,A,1,Grey takes Aristotle in hand#1 civil action used#
+810,2020-07-15 11:13:29,Grey,A,1,Grey takes Ideal Building Site in hand#1 civil action used#
+811,2020-07-15 11:13:24,Grey,A,1,Grey puts Ideal Building Site back in the row#1 civil action recovered#
+812,2020-07-15 11:13:21,Grey,A,1,Grey takes Ideal Building Site in hand#1 civil action used#
+813,2020-07-15 11:13:11,Grey,A,1,Grey takes Rich Land in hand#2 civil actions used#
+814,2020-07-15 09:42:49,Green,A,1,Action Phase begins##
+815,2020-07-15 09:42:49,Green,A,1,End turn#Green scores: 2 food - consumption: 0 (now 2) 2 resources (now 2) 0 culture (now 0) 1 science (now 1) #
+816,2020-07-15 09:40:07,Green,A,1,Green takes Forefather Czech in hand#3 civil actions used#
+817,2020-07-15 09:18:45,Purple,A,1,Action Phase begins##
+818,2020-07-15 09:18:45,Purple,A,1,End turn#Purple scores: 2 food - consumption: 0 (now 2) 2 resources (now 2) 0 culture (now 0) 1 science (now 1) #
+819,2020-07-15 09:04:35,Purple,A,1,Purple takes Trade routes in hand#1 civil action used#
+820,2020-07-15 09:04:33,Purple,A,1,Purple takes Engineering Genius in hand#1 civil action used#
+821,2020-07-15 08:38:44,Orange,A,1,Action Phase begins##
+822,2020-07-15 08:38:44,Orange,A,1,End turn#Orange scores: 2 food - consumption: 0 (now 2) 2 resources (now 2) 0 culture (now 0) 1 science (now 1) #
+823,2020-07-15 08:38:25,Orange,A,1,Orange takes Library of Alexandria in hand#1 civil action used#
+824,2020-07-15 03:07:31,Orange,A,1,Game 🐪 day - History Repeats Itself created.##
