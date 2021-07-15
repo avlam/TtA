@@ -1,62 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Context
-
-# Read game journals found in directory 'gamejournals'
-# Create the following tables:
-# - games
-# - scores
-# - players
-# - wonders
-# - leaders
-# - tactics
-
-# ### Columns
-
-# - game_id (pk)
-# - game_name
-# - ~~winner (player name)~~
-# - num_turns 
-# - start_date 
-# - end date
-
-# ### Scores
-
-# - game_id (pk)
-# - orange (1st player)
-# - purple (2nd player)
-# - green (3rd player)
-# - grey (4th player)
-
-# ### Players
-
-# - game_id (pk)
-# - orange (1st player)
-# - purple (2nd player)
-# - green (3rd player)
-# - grey (4th player)
-
-# # Setup
-
-# In[1]:
-
-
+# Setup
 import pandas as pd
 from pathlib import Path
 import re
+from parameters import locations
 
-
-# In[2]:
-
-
-staging_dir = Path(Path.cwd(),'staging')
-journal_dir = Path(Path.cwd(),'gamejournals')
-game_list = list(journal_dir.glob('*.csv'))
-
-
-# In[3]:
-
+output_dir = locations['staging']
+game_list = list(locations['raw'].glob('*.csv'))
 
 searches = {
     'outcome': re.compile(r'(\w+) is (.*?) as (\w+) \((.*?)\)', re.IGNORECASE),
@@ -65,11 +17,7 @@ searches = {
 }
 
 
-# ## Functions
-
-# In[35]:
-
-
+## Functions
 def get_str_from_journal(target_file, *targets):
     """
     helper to extract specific key strings from game journal. (e.g. summary text, game title)
@@ -142,11 +90,7 @@ def parse_summary(game_file):
     return summary_df.transpose()
 
 
-# # Generate Tables
-
-# In[36]:
-
-
+# Generate Tables
 games = pd.DataFrame(columns=['game_name', 'num_turns', 'start_date', 'end_date'])
 players = pd.DataFrame(columns=['orange', 'purple', 'green', 'grey'])
 scores = pd.DataFrame(columns=['orange', 'purple', 'green', 'grey'])
@@ -176,12 +120,8 @@ for game in game_list:
     scores = scores.append(pd.DataFrame(summary_df.loc['score',:].to_dict(),index=[game_id]))
 
 
-# # Store Tables
-
-# In[40]:
-
-
-players.to_csv(staging_dir.joinpath('players.csv'))
-scores.to_csv(staging_dir.joinpath('scores.csv'))
-games.to_csv(staging_dir.joinpath('games.csv'))
+# Store Tables
+players.to_csv(output_dir.joinpath('players.csv'))
+scores.to_csv(output_dir.joinpath('scores.csv'))
+games.to_csv(output_dir.joinpath('games.csv'))
 
