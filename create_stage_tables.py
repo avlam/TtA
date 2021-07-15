@@ -5,7 +5,7 @@
 import pandas as pd
 from pathlib import Path
 import re
-from parameters import locations
+from parameters import locations, SPACING_CHAR
 
 output_dir = locations['staging']
 game_list = list(locations['raw'].glob('*.csv'))
@@ -36,8 +36,8 @@ journal_phrases = {
 #     'population': ,
 #     'destroy': ,
 #     'treaty': ,
-    'leader_elects': r'(?P<player>\w+?) elects (?P<leader>.*?)',
-    'leader_replaces': r'(?P<player>\w+?) elects (?P<leader>.*?)  (?P<prev_leader>.*?) dies'
+    'leader_elects': fr'(?P<player>\w+?) elects (?P<leader>.*?)[{SPACING_CHAR}]*'
+#     'leader_replaces': fr'(?P<player>\w+?) elects (?P<leader>.*?) [{SPACING_CHAR}]+ (?P<prev_leader>.*?) dies'
 }
 
 ## Functions
@@ -113,6 +113,18 @@ def parse_summary(game_file):
     return summary_df.transpose()
 
 
+def generate_tables(game, *tables):
+    """
+    handler for stage table creation. reads game data based on Path object game and passes common information to each table generator.
+    game: Path object to game journal file
+    *tables: tables to generate
+    """
+    
+#     need to add arguments to pass through mode and save options
+    game_data = pd.read_csv(game, index_col=0)
+    game_id = game.stem
+
+
 def table_games(game, mode='add', save=False):
     """
     creates stage table 'games' or adds game to existing stage table 'games'
@@ -131,7 +143,7 @@ def table_games(game, mode='add', save=False):
     else:
         raise ValueError(f'mode {mode} not found. Must be either "add" or "create"')
     
-    game_id = games.stem
+    game_id = game.stem
     game_data = pd.read_csv(game, index_col=0)
     find_name = re.search(searches['game_name'], get_str_from_journal(game,'creation')['creation'])
     if find_name:
@@ -140,7 +152,7 @@ def table_games(game, mode='add', save=False):
         game_name = ''
     
     summary = {
-        'game_name': = game_name,
+        'game_name': game_name,
         'num_turns': game_data['round'].max()-1, # offset by one to account for post-game scoring listed as a turn in journal
         'end_time': game_data['time'].max(),
         'start_time':game_data['time'].min()
