@@ -18,6 +18,7 @@ from bs4 import BeautifulSoup as bs
 # from googleapiclient import discovery
 from pathlib import Path
 from bgo import login_data
+from parameters import locations, SPACING_CHAR
 
 
 # Google API
@@ -42,12 +43,16 @@ def create_BGO_session():
 
 
 # Function(s)
-def get_logs(session, game_id):
+def get_logs(session, game_id, save=False):
     """
     Retrieve game journal from Boardgaming-online.com provided an authenticated session.
     Outputs log as a dataframe
     game_id is expected to be an alphanumeric string
+    save: bool if true, saves log to file
     """
+    
+    OUTPUT_FILE = locations['raw'].joinpath(f'{game_id}.csv')
+    print(f'Collecting game data for {game}')
     
     def get_page_max(response):
         """
@@ -90,16 +95,17 @@ def get_logs(session, game_id):
         print('Something went wrong')
         pass
     
+    if save:
+        print(f'Saving to {OUTPUT_FILE}')
+        logs.to_csv(OUTPUT_FILE)
+    
     return logs
 
 
 # # Data Collection
 if __name__ == "__main__":
     # As written log collection will cycle through all ids in game_id_list and recreate .csv files. add arguments to use this same script for single game log collection
-    journal_path = Path('gamejournals')
     session = create_BGO_session()
     for game in game_id_list:
-        output_file = journal_path.joinpath(f'{game}.csv')
-        print(f'Collecting game data for {game}, saving to {output_file}')
-        get_logs(session, game).to_csv(output_file)
+        get_logs(session, game, save=True)
 
