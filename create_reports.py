@@ -5,16 +5,11 @@
 import pandas as pd
 from pathlib import Path
 from matplotlib import pyplot as plt
-
-locations = {
-    'staging':Path.cwd().joinpath('staging'),
-    'analysis':Path.cwd().joinpath('analysis'),
-    'reports':Path.cwd().joinpath('reports')
-}
+import parameters
 
 # Load Tables
-games = pd.read_csv(locations['staging'].joinpath('games.csv'), index_col=0)
-views = list(locations['analysis'].glob('*.csv'))
+games = pd.read_csv(parameters.locations['staging'].joinpath('games.csv'), index_col=0)
+views = list(parameters.locations['analysis'].glob('*.csv'))
 
 analysis_views={}
 for view in views:
