@@ -1,4 +1,4 @@
-from pathlab import Path
+from pathlib import Path
 
 root = Path.cwd()
 locations = {
@@ -7,3 +7,5 @@ locations = {
     'staging': root.joinpath('staging'),
     'raw': root.joinpath('gamejournals')
     }
+
+SPACING_CHAR = '#'
