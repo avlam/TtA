@@ -92,8 +92,7 @@ def get_logs(session, game_id, save=False):
         else:
             logs = logs_paged[0]
     else:
-        print('Something went wrong')
-        pass
+        raise(f'Received {response.status_code}')
     
     logs.iloc[:,:4] = logs.iloc[:,:4].applymap(lambda x: x.replace(SPACING_CHAR, ''))
     
