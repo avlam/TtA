@@ -31,7 +31,7 @@ journal_phrases = {
 #     'card_plays': ,
 #     'discovers_technology': ,
 #     'builds': ,
-#     'event': ,
+    'event': r'(?P<player>\w+?) plays event .* scores (?P<event_age>\d+) culture',
 #     'tactics': ,
 #     'population': ,
 #     'destroy': ,
@@ -134,12 +134,15 @@ def table_games(game, mode='add', save=False):
     save: bool - determines if resulting dataframe is saved to file
     overwrite: bool - if False, appends to existing file
     """
-    GAMES_PATH = locations['staging'].joinpath('games.csv')
-    
+    GAMES_FILENAME = 'games.csv'
+    GAMES_PATH = locations['staging'].joinpath(GAMES_FILENAME)
     if mode == 'create':
         games = pd.DataFrame(columns=['game_name', 'num_turns', 'start_date', 'end_date'])
     elif mode == 'add':
-        games = pd.read_csv(GAMES_PATH, index_col=0)
+        if GAMES_PATH.exists():
+            games = pd.read_csv(GAMES_PATH, index_col=0)
+        else:
+            raise(f'{GAMES_FILENAME} does not exist. Use mode=\'create\'')
     else:
         raise ValueError(f'mode {mode} not found. Must be either "add" or "create"')
     
@@ -154,16 +157,16 @@ def table_games(game, mode='add', save=False):
     summary = {
         'game_name': game_name,
         'num_turns': game_data['round'].max()-1, # offset by one to account for post-game scoring listed as a turn in journal
-        'end_time': game_data['time'].max(),
-        'start_time':game_data['time'].min()
+        'end_date': game_data['time'].max(),
+        'start_date':game_data['time'].min()
     }
     
-    games = games.append(pd.DataFrame(this_summary,index=[game_id]))
+    games = games.append(pd.DataFrame(summary,index=[game_id]))
     
     if save:
         games.to_csv(GAMES_PATH)
     return games
-
+    
 
 # Generate Tables
 # games = pd.DataFrame(columns=['game_name', 'num_turns', 'start_date', 'end_date'])
