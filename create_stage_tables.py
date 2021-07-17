@@ -172,7 +172,7 @@ def parse_journal(game, save=False):
     journal = pd.read_csv(game, index_col=0)
     journal['game_id'] = game.stem
     for phrase, template in journal_phrases.items():
-        print(f'parsing {phrase}')
+#         print(f'parsing {phrase}')
         file = f'{phrase}.csv'
         filepath = locations['staging'].joinpath(file)
         search = re.compile(template, re.IGNORECASE)
@@ -182,7 +182,7 @@ def parse_journal(game, save=False):
         parsed_df = parsed_df.join(journal[['time','age','round','game_id','text']])
         if filepath.exists():
             existing_data = pd.read_csv(filepath, index_col=0)
-            parsed_df = existing_data.append(parsed_df)
+            parsed_df = existing_data.append(parsed_df).reset_index()
         if save:
             parsed_df.to_csv(filepath)
     
