@@ -18,26 +18,26 @@ searches = {
 
 journal_phrases = {
     'impact': r'impact of (?P<impact_name>\w+)',
-    'production': r'end turn .*?(?P<player>\w+?) scores: .*?'
-        '(?P<culture_gen>\d+?) culture \(now (?P<culture>\d+?)\) '
-        '(?P<science_gen>\d+?) science \(now (?P<science>\d+?)\) '
-        '(?P<food_gen>\d+?) food - consumption: (?P<consumption>\d+?) \(now (?P<food>\d+?)\) '
-        '(?P<resource_gen>\d+?) resources \(now (?P<resource>\d+?)\)',
-    'aggression': r'(?P<attacker>\w+?) plays (?P<aggression>.*?) against (?P<target>\w+?)',
+#     'production': fr'end turn[{SPACING_CHAR}]+?.*?(?P<player>\w+?) scores: '\
+#         r'(?P<food_gen>\d+?) food - consumption: (?P<consumption>\d+?) \(now (?P<food>\d+?)\) '\
+#         r'(?P<resource_gen>\d+?) resources \(now (?P<resource>\d+?)\) '\
+#         r'(?P<culture_gen>\d+?) culture \(now (?P<culture>\d+?)\) '\
+#         r'(?P<science_gen>\d+?) science \(now (?P<science>\d+?)\) ',
+#         f'[{SPACING_CHAR}]+?'
+#     'aggression': r'(?P<attacker>\w+?) plays (?P<aggression>.*?) against (?P<target>\w+?)',
 #     'aggression_resolution': ,
-    'war': r'(?P<attacker>\w+?) declares war over (?P<war>.*?) on (?P<target>\w+?)',
+#     'war': r'(?P<attacker>\w+?) declares war over (?P<war>.*?) on (?P<target>\w+?)',
 #     'war_resolution': ,
 #     'card_takes': ,
 #     'card_plays': ,
 #     'discovers_technology': ,
 #     'builds': ,
-    'event': r'(?P<player>\w+?) plays event .* scores (?P<event_age>\d+) culture',
+    'event': r'(?P<player>\w+?) plays event.*?scores (?P<event_age>\d+) culture',
 #     'tactics': ,
 #     'population': ,
 #     'destroy': ,
 #     'treaty': ,
-    'leader_elects': fr'(?P<player>\w+?) elects (?P<leader>.*?)[{SPACING_CHAR}]*'
-#     'leader_replaces': fr'(?P<player>\w+?) elects (?P<leader>.*?) [{SPACING_CHAR}]+ (?P<prev_leader>.*?) dies'
+    'leader_elects': fr'(?P<player>\w+?) elects (?P<leader>.*?)[{SPACING_CHAR}]+?'
 }
 
 ## Functions
@@ -167,7 +167,26 @@ def table_games(game, mode='add', save=False):
         games.to_csv(GAMES_PATH)
     return games
     
-
+    
+def parse_journal(game, save=False):
+    journal = pd.read_csv(game, index_col=0)
+    journal['game_id'] = game.stem
+    for phrase, template in journal_phrases.items():
+        print(f'parsing {phrase}')
+        file = f'{phrase}.csv'
+        filepath = locations['staging'].joinpath(file)
+        search = re.compile(template, re.IGNORECASE)
+        matches = journal['text'].apply(lambda logentry: re.match(search, logentry))
+        matches.dropna(inplace=True)
+        parsed_df = pd.DataFrame(matches.apply(lambda x: x.groupdict()).to_list(), index=matches.index)
+        parsed_df = parsed_df.join(journal[['time','age','round','game_id','text']])
+        if filepath.exists():
+            existing_data = pd.read_csv(filepath, index_col=0)
+            parsed_df = existing_data.append(parsed_df)
+        if save:
+            parsed_df.to_csv(filepath)
+    
+    
 # Generate Tables
 # games = pd.DataFrame(columns=['game_name', 'num_turns', 'start_date', 'end_date'])
 players = pd.DataFrame(columns=['orange', 'purple', 'green', 'grey'])
@@ -190,7 +209,7 @@ for game in game_list:
 #         'start_date': start_time,
 #         'end_date': end_time
 #     }
-
+    parse_journal(game, save=True)
     summary_df = parse_summary(game)
 
 #     games = games.append(pd.DataFrame(this_summary,index=[game_id]))
@@ -199,7 +218,7 @@ for game in game_list:
 
 
 # Store Tables
-# players.to_csv(output_dir.joinpath('players.csv'))
+players.to_csv(output_dir.joinpath('players.csv'))
 scores.to_csv(output_dir.joinpath('scores.csv'))
-games.to_csv(output_dir.joinpath('games.csv'))
+# games.to_csv(output_dir.joinpath('games.csv'))
 
