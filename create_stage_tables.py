@@ -182,7 +182,8 @@ def parse_journal(game, save=False):
         parsed_df = parsed_df.join(journal[['time','age','round','game_id','text']])
         if filepath.exists():
             existing_data = pd.read_csv(filepath, index_col=0)
-            parsed_df = existing_data.append(parsed_df).reset_index()
+            parsed_df = existing_data.append(parsed_df)
+        parsed_df.reset_index(drop=True, inplace=True)
         if save:
             parsed_df.to_csv(filepath)
     
