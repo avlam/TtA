@@ -169,8 +169,14 @@ def table_games(game, mode='add', save=False):
     
     
 def parse_journal(game, save=False):
+    """
+    Create set of stage tables parsing each journal entry phrase defined in dict journal_phrases
+    Input is path to individual game file
+    returns a dict of dfs representing each generated table.
+    """
     journal = pd.read_csv(game, index_col=0)
     journal['game_id'] = game.stem
+    output = {}
     for phrase, template in journal_phrases.items():
 #         print(f'parsing {phrase}')
         file = f'{phrase}.csv'
@@ -184,36 +190,21 @@ def parse_journal(game, save=False):
             existing_data = pd.read_csv(filepath, index_col=0)
             parsed_df = existing_data.append(parsed_df)
         parsed_df.reset_index(drop=True, inplace=True)
+        output[phrase] = parsed_df
         if save:
             parsed_df.to_csv(filepath)
+    return output
     
     
 # Generate Tables
-# games = pd.DataFrame(columns=['game_name', 'num_turns', 'start_date', 'end_date'])
 players = pd.DataFrame(columns=['orange', 'purple', 'green', 'grey'])
 scores = pd.DataFrame(columns=['orange', 'purple', 'green', 'grey'])
 
 for game in game_list:
     game_data = pd.read_csv(game, index_col=0)
     game_id = game.stem
-#     try:
-#         game_name = re.search(searches['game_name'], get_str_from_journal(game,'creation')['creation']).group('name')
-#     except:
-#         game_name = ''
-#     num_turns = game_data['round'].max()-1 # offset by one to account for post-game scoring listed as a turn in journal
-#     end_time = game_data['time'].max()
-#     start_time = game_data['time'].min()
-
-#     this_summary = {
-#         'game_name': game_name,
-#         'num_turns': num_turns,
-#         'start_date': start_time,
-#         'end_date': end_time
-#     }
     parse_journal(game, save=True)
     summary_df = parse_summary(game)
-
-#     games = games.append(pd.DataFrame(this_summary,index=[game_id]))
     players = players.append(pd.DataFrame(summary_df.loc['name',:].to_dict(),index=[game_id]))
     scores = scores.append(pd.DataFrame(summary_df.loc['score',:].to_dict(),index=[game_id]))
 
@@ -221,5 +212,4 @@ for game in game_list:
 # Store Tables
 players.to_csv(output_dir.joinpath('players.csv'))
 scores.to_csv(output_dir.joinpath('scores.csv'))
-# games.to_csv(output_dir.joinpath('games.csv'))
 
