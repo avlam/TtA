@@ -34,8 +34,8 @@ journal_phrases = {
     'event': r'(?P<player>\w+?) plays event.*?scores (?P<event_age>\d+?) culture',
     'tactics': fr'(?P<player>\w+?) (?P<action>.+?) tactics[{SPACING_CHAR}]+?(?P<age>\w+?) / (?P<tactic>.*?)[{SPACING_CHAR}]+?',
     'population': r'(?P<player>\w+?) increases population.*? spends (?P<food>\d+?) food',
-#     'destroy': ,
+    'destroy': fr'(?P<player>\w+?) destroys (?P<unit>.*?)[{SPACING_CHAR}]+?',
     'treaty': fr'(?P<player>\w+?) proposes (?P<treaty>.*?) to (?P<recipient>\w+?)[{SPACING_CHAR}].*?(?P<a>\w+?) is A',
-    'treaty_response': fr'(?P<player>\w+?) (?P<response>\w+?) .*?offer[{SPACING_CHAR}]+?'
+    'treaty_response': fr'(?P<player>\w+?) (?P<response>\w+?) .*?offer[{SPACING_CHAR}]+?',
     'leader_elects': fr'(?P<player>\w+?) elects (?P<leader>.*?)[{SPACING_CHAR}]+?'
 }
