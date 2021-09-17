@@ -174,22 +174,23 @@ def parse_journal(game, save=False):
     
     
 # Generate Tables
-players = pd.DataFrame()
-scores = pd.DataFrame()
+if __name__ == "__main__":
+    players = pd.DataFrame()
+    scores = pd.DataFrame()
 
-for game in game_list:
-    game_data = pd.read_csv(game, index_col=0)
-    game_id = game.stem
-    parse_journal(game, save=True)
-    summary_df = parse_summary(game)
-    summary_df = summary_df.transpose().reset_index()
-    summary_df['game_id'] = game_id
-    players = players.append(summary_df.loc[:,['game_id','player','name']])
-    scores = players.append(summary_df)
+    for game in game_list:
+        game_data = pd.read_csv(game, index_col=0)
+        game_id = game.stem
+        parse_journal(game, save=True)
+        summary_df = parse_summary(game)
+        summary_df = summary_df.transpose().reset_index()
+        summary_df['game_id'] = game_id
+        players = players.append(summary_df.loc[:,['game_id','player','name']])
+        scores = players.append(summary_df)
 
 
-# Store Tables
+    # Store Tables
 
-players.reset_index().to_csv(output_dir.joinpath('players.csv'))
-scores.reset_index().to_csv(output_dir.joinpath('scores.csv'))
+    players.reset_index().drop('index').to_csv(output_dir.joinpath('players.csv'))
+    scores.reset_index().drop('index').to_csv(output_dir.joinpath('scores.csv'))
 
