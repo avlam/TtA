@@ -6,6 +6,7 @@ import pandas as pd
 from pathlib import Path
 import re
 from parameters import locations, SPACING_CHAR
+from journal_phrases import journal_phrases
 
 output_dir = locations['staging']
 game_list = list(locations['raw'].glob('*.csv'))
@@ -14,30 +15,6 @@ searches = {
     'outcome': re.compile(r'(\w+) is (.*?) as (\w+) \((.*?)\)', re.IGNORECASE),
     'game_name': re.compile(r'Game (?P<name>.*?) created.', re.IGNORECASE),
     'points': re.compile(r'(?P<points>\d+)', re.IGNORECASE)
-}
-
-journal_phrases = {
-    'impact': r'impact of (?P<impact_name>\w+)',
-#     'production': fr'end turn[{SPACING_CHAR}]+?.*?(?P<player>\w+?) scores: '\
-#         r'(?P<food_gen>\d+?) food - consumption: (?P<consumption>\d+?) \(now (?P<food>\d+?)\) '\
-#         r'(?P<resource_gen>\d+?) resources \(now (?P<resource>\d+?)\) '\
-#         r'(?P<culture_gen>\d+?) culture \(now (?P<culture>\d+?)\) '\
-#         r'(?P<science_gen>\d+?) science \(now (?P<science>\d+?)\) ',
-#         f'[{SPACING_CHAR}]+?'
-#     'aggression': r'(?P<attacker>\w+?) plays (?P<aggression>.*?) against (?P<target>\w+?)',
-#     'aggression_resolution': ,
-#     'war': r'(?P<attacker>\w+?) declares war over (?P<war>.*?) on (?P<target>\w+?)',
-#     'war_resolution': ,
-#     'card_takes': ,
-#     'card_plays': ,
-#     'discovers_technology': ,
-#     'builds': ,
-    'event': r'(?P<player>\w+?) plays event.*?scores (?P<event_age>\d+) culture',
-#     'tactics': ,
-#     'population': ,
-#     'destroy': ,
-#     'treaty': ,
-    'leader_elects': fr'(?P<player>\w+?) elects (?P<leader>.*?)[{SPACING_CHAR}]+?'
 }
 
 ## Functions
@@ -197,19 +174,22 @@ def parse_journal(game, save=False):
     
     
 # Generate Tables
-players = pd.DataFrame(columns=['orange', 'purple', 'green', 'grey'])
-scores = pd.DataFrame(columns=['orange', 'purple', 'green', 'grey'])
+players = pd.DataFrame()
+scores = pd.DataFrame()
 
 for game in game_list:
     game_data = pd.read_csv(game, index_col=0)
     game_id = game.stem
     parse_journal(game, save=True)
     summary_df = parse_summary(game)
-    players = players.append(pd.DataFrame(summary_df.loc['name',:].to_dict(),index=[game_id]))
-    scores = scores.append(pd.DataFrame(summary_df.loc['score',:].to_dict(),index=[game_id]))
+    summary_df = summary_df.transpose().reset_index()
+    summary_df['game_id'] = game_id
+    players = players.append(summary_df.loc[:,['game_id','player','name']])
+    scores = players.append(summary_df)
 
 
 # Store Tables
-players.to_csv(output_dir.joinpath('players.csv'))
-scores.to_csv(output_dir.joinpath('scores.csv'))
+
+players.reset_index().to_csv(output_dir.joinpath('players.csv'))
+scores.reset_index().to_csv(output_dir.joinpath('scores.csv'))
 
