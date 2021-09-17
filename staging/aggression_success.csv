@@ -1,0 +1,108 @@
+,time,age,round,game_id,text
+0,2020-04-14 18:15:57,IV,19,7473404,concedes defeat#Grey scores 7 culture Green loses 7 culture #
+1,2020-04-14 13:55:00,III,18,7473404,concedes defeat##
+2,2020-04-21 17:45:00,III,16,7473814,concedes defeat##
+3,2020-04-21 11:30:11,III,15,7473814,concedes defeat##
+4,2020-04-21 10:25:21,III,14,7473814,concedes defeat#Green gets 5 science Purple loses 5 science #
+5,2020-04-17 11:33:38,I,7,7473814,concedes defeat##
+6,2020-04-29 11:08:01,IV,17,7474472,concedes defeat#Green scores 7 culture Purple loses 7 culture #
+7,2020-04-28 21:02:16,III,16,7474472,concedes defeat##
+8,2020-04-28 17:46:14,III,16,7474472,concedes defeat##
+9,2020-04-28 15:04:54,III,15,7474472,concedes defeat##
+10,2020-05-04 20:46:07,III,16,7474996,concedes defeat##
+11,2020-05-04 14:31:44,III,15,7474996,concedes defeat##
+12,2020-05-04 07:32:30,III,14,7474996,concedes defeat#Green scores 7 culture Grey loses 7 culture #
+13,2020-05-03 15:25:15,III,13,7474996,concedes defeat##
+14,2020-05-02 10:43:15,II,11,7474996,concedes defeat#Isaac Newton is killed Purple scores 6 culture #
+15,2020-05-15 11:08:35,III,13,7475368,concedes defeat##
+16,2020-05-15 11:00:28,III,13,7475368,concedes defeat##
+17,2020-05-15 10:49:47,III,13,7475368,concedes defeat#Orange gets 5 science Grey loses 5 science #
+18,2020-05-14 12:57:13,II,10,7475368,concedes defeat##
+19,2020-05-11 18:32:24,IV,18,7475369,concedes defeat#Grey scores 7 culture Purple loses 7 culture #
+20,2020-05-11 17:08:13,IV,18,7475369,concedes defeat#Orange scores 7 culture Purple loses 7 culture #
+21,2020-05-11 12:58:14,III,14,7475369,concedes defeat##
+22,2020-05-09 15:28:04,II,8,7475369,concedes defeat#Purple loses 1 population Orange produces 2 food Orange produces 2 resources #
+23,2020-05-27 14:02:09,IV,19,7476107,concedes defeat#Grey scores 7 culture Purple loses 7 culture #
+24,2020-05-23 23:39:22,III,14,7476107,concedes defeat##
+25,2020-05-23 19:55:10,II,13,7476107,concedes defeat##
+26,2020-05-21 11:06:18,II,11,7476107,concedes defeat##
+27,2020-05-19 11:36:01,II,8,7476107,concedes defeat#Green loses 1 population Orange produces 2 food Orange produces 2 resources #
+28,2020-05-18 17:30:15,I,6,7476107,concedes defeat##
+29,2020-05-17 18:46:21,I,5,7476107,concedes defeat##
+30,2020-05-17 16:46:37,I,4,7476107,concedes defeat##
+31,2020-05-29 14:59:17,III,15,7476793,concedes defeat#Maximillien Robespierre is killed Purple scores 6 culture #
+32,2020-05-29 10:05:46,II,10,7476793,concedes defeat#Green gets 5 science Grey loses 5 science #
+33,2020-05-29 09:57:17,II,10,7476793,concedes defeat##
+34,2020-05-29 09:36:17,II,10,7476793,concedes defeat##
+35,2020-05-28 17:44:23,I,7,7476793,concedes defeat##
+36,2020-06-02 18:51:44,IV,17,7476918,concedes defeat#Orange scores 7 culture Purple loses 7 culture #
+37,2020-06-02 16:26:54,III,16,7476918,concedes defeat##
+38,2020-06-01 14:31:10,II,10,7476918,concedes defeat#Orange gets 5 science Grey loses 5 science #
+39,2020-06-01 10:16:53,II,9,7476918,concedes defeat##
+40,2020-06-01 09:57:53,II,9,7476918,concedes defeat#Grey loses 1 population Purple produces 2 food Purple produces 2 resources #
+41,2020-05-30 09:21:30,I,5,7476918,concedes defeat##
+42,2020-05-30 07:58:58,I,5,7476918,concedes defeat##
+43,2020-06-04 16:44:33,IV,18,7477184,concedes defeat##
+44,2020-06-04 16:40:57,IV,18,7477184,concedes defeat#Purple scores 7 culture Grey loses 7 culture #
+45,2020-06-04 16:23:53,IV,18,7477184,concedes defeat##
+46,2020-06-04 12:01:38,III,16,7477184,concedes defeat#Green scores 7 culture Grey loses 7 culture #
+47,2020-06-03 21:13:59,II,12,7477184,concedes defeat##
+48,2020-06-09 12:05:03,IV,18,7477255,concedes defeat#Green scores 7 culture Grey loses 7 culture #
+49,2020-06-09 11:50:20,IV,18,7477255,concedes defeat##
+50,2020-06-15 10:54:50,III,15,7477545,concedes defeat##
+51,2020-06-10 12:36:36,I,6,7477545,concedes defeat##
+52,2020-06-17 11:33:15,IV,18,7477831,concedes defeat#Green scores 7 culture Purple loses 7 culture #
+53,2020-06-16 20:20:36,III,14,7477831,concedes defeat##
+54,2020-06-16 15:04:31,II,10,7477831,concedes defeat##
+55,2020-06-16 14:24:11,II,9,7477831,concedes defeat#Orange loses 1 population Green produces 2 food Green produces 2 resources #
+56,2020-08-06 15:59:39,IV,17,7479938,concedes defeat##
+57,2020-08-14 11:30:36,IV,17,7480536,concedes defeat#Grey scores 7 culture Green loses 7 culture #
+58,2020-08-14 11:19:05,IV,17,7480536,concedes defeat##
+59,2020-08-14 10:35:51,III,16,7480536,concedes defeat##
+60,2020-08-13 23:11:39,III,14,7480536,concedes defeat#Purple takes II / Historic Territory from Grey #
+61,2020-08-19 10:47:01,IV,18,7480677,concedes defeat##
+62,2020-08-24 13:00:16,III,15,7480887,concedes defeat#Grey scores 7 culture Orange loses 7 culture #
+63,2020-08-24 08:31:46,III,12,7480887,concedes defeat#Grey gets 5 science Orange loses 5 science #
+64,2020-08-20 15:54:49,II,8,7480887,concedes defeat##
+65,2020-08-20 11:36:12,I,5,7480887,concedes defeat##
+66,2020-09-01 09:20:40,III,16,7481117,concedes defeat#Purple scores 7 culture Green loses 7 culture #
+67,2020-09-01 08:41:15,III,15,7481117,concedes defeat##
+68,2020-09-01 06:39:07,III,15,7481117,concedes defeat##
+69,2020-08-31 15:59:57,III,14,7481117,concedes defeat##
+70,2020-08-31 13:18:29,III,13,7481117,concedes defeat##
+71,2020-08-31 12:54:38,II,12,7481117,concedes defeat##
+72,2020-08-28 21:09:17,II,11,7481117,concedes defeat#Green loses 1 population Purple produces 2 food Purple produces 2 resources #
+73,2020-08-28 11:34:31,II,10,7481117,concedes defeat##
+74,2021-03-01 14:58:20,III,12,7488850,concedes defeat#Kremlin is destroyed Grey scores 6 culture #
+75,2021-03-11 16:28:33,IV,19,7489429,concedes defeat##
+76,2021-03-11 16:20:30,IV,18,7489429,concedes defeat#Grey scores 7 culture Green loses 7 culture #
+77,2021-03-08 18:05:31,II,9,7489429,concedes defeat##
+78,2021-03-17 06:16:50,IV,17,7489723,concedes defeat#Purple scores 7 culture Orange loses 7 culture #
+79,2021-03-16 21:04:03,III,16,7489723,concedes defeat##
+80,2021-03-16 17:16:52,III,16,7489723,concedes defeat#Mahatma Gandhi is killed Purple scores 9 culture #
+81,2021-03-15 07:50:43,II,9,7489723,concedes defeat##
+82,2021-03-28 10:34:16,IV,17,7489957,concedes defeat##
+83,2021-03-26 17:45:27,III,13,7489957,concedes defeat##
+84,2021-03-25 14:25:00,II,10,7489957,concedes defeat##
+85,2021-03-25 06:47:30,I,6,7489957,concedes defeat#Green loses 1 population Orange produces 2 food Orange produces 2 resources #
+86,2021-04-17 23:06:34,IV,17,7490649,concedes defeat#Grey scores 7 culture Green loses 7 culture #
+87,2021-04-17 13:27:48,III,16,7490649,concedes defeat#Purple scores 7 culture Green loses 7 culture #
+88,2021-04-09 11:14:05,I,5,7490649,concedes defeat##
+89,2021-04-27 13:49:26,III,16,7491046,concedes defeat##
+90,2021-04-27 12:05:02,III,16,7491046,concedes defeat##
+91,2021-04-27 09:00:08,III,15,7491046,concedes defeat##
+92,2021-05-20 08:36:19,III,14,7491505,concedes defeat##
+93,2021-05-05 09:50:20,I,7,7491505,concedes defeat#Grey loses 1 population Orange produces 2 food Orange produces 2 resources #
+94,2021-06-03 15:45:41,III,17,7492262,concedes defeat#Purple scores 7 culture Green loses 7 culture #
+95,2021-06-03 15:21:52,III,17,7492262,concedes defeat##
+96,2021-06-03 15:07:46,III,16,7492262,concedes defeat##
+97,2021-06-02 13:14:02,III,13,7492262,concedes defeat##
+98,2021-05-25 14:41:57,I,7,7492262,concedes defeat##
+99,2021-06-14 22:28:10,III,13,7492705,concedes defeat##
+100,2021-06-14 18:30:42,III,13,7492705,concedes defeat#Johannes Sebastian Bach is killed Green scores 6 culture #
+101,2021-06-14 17:03:36,III,13,7492705,concedes defeat##
+102,2021-06-13 21:48:12,II,12,7492705,concedes defeat##
+103,2021-06-11 05:53:08,II,10,7492705,concedes defeat#Grey gets 5 science Orange loses 5 science #
+104,2021-06-22 19:40:01,II,9,7493040,concedes defeat##
+105,2021-07-01 08:33:33,III,13,7493350,concedes defeat#Orange gets 5 science Green loses 5 science #
+106,2021-06-30 11:10:08,II,10,7493350,concedes defeat#Orange takes I / Vast Territory from Purple #

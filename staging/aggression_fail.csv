@@ -1,0 +1,124 @@
+,time,age,round,game_id,text,target
+0,2020-04-08 21:47:00,IV,19,7472434,Purple defends#1 Defense card +6 played Purple strength: 9 Grey strength: 5 #,Purple
+1,2020-04-07 12:37:22,II,12,7472434,Grey defends#Sacrificed Units: 1 Warrior 1 Defense card +4 played Grey strength: 7 Purple strength: 7 #,Grey
+2,2020-04-06 13:38:04,I,5,7472434,Orange defends#1 Defense card +2 played Orange strength: 4 Green strength: 3 #,Orange
+3,2020-04-05 22:31:56,I,4,7472434,Grey defends#Sacrificed Units: 1 Warrior 1 Defense card +2 played Grey strength: 5 Purple strength: 3 #,Grey
+4,2020-04-09 17:00:39,III,17,7473200,Grey defends#Sacrificed Units: 1 Knights 1 Defense card +6 played Grey strength: 20 Orange strength: 20 #,Grey
+5,2020-04-07 14:38:51,I,6,7473200,Green defends#1 Defense card +2 played Green strength: 4 Orange strength: 4 #,Green
+6,2020-04-14 16:31:28,IV,18,7473404,Purple defends#1 military card played Purple strength: 12 Grey strength: 12 #,Purple
+7,2020-04-13 17:59:50,III,15,7473404,Purple defends#1 Defense card +4 played 1 military card played Purple strength: 12 Grey strength: 12 #,Purple
+8,2020-04-13 11:18:49,II,12,7473404,Green defends#1 Defense card +4 played 1 military card played 1 military card played 1 military card played 1 military card played Green strength: 14 Orange strength: 14 #,Green
+9,2020-04-12 20:40:16,II,9,7473404,Orange defends#1 Defense card +2 played 1 military card played Orange strength: 9 Grey strength: 9 #,Orange
+10,2020-04-21 15:00:38,III,16,7473814,Purple defends#1 Defense card +6 played Purple strength: 13 Orange strength: 12 #,Purple
+11,2020-04-20 17:31:21,II,12,7473814,Orange defends#1 Defense card +2 played 1 military card played Orange strength: 9 Grey strength: 9 #,Orange
+12,2020-04-29 17:49:43,IV,18,7474472,Orange defends#1 Defense card +6 played 1 military card played 1 military card played Orange strength: 53 Grey strength: 6 #,Orange
+13,2020-04-27 16:51:29,III,12,7474472,Orange defends#1 military card played 1 military card played 1 military card played 1 military card played Orange strength: 12 Grey strength: 12 #,Orange
+14,2020-04-27 12:11:15,II,11,7474472,Green defends#1 Defense card +4 played 1 military card played Green strength: 14 Orange strength: 14 #,Green
+15,2020-04-27 11:39:13,II,10,7474472,Green defends#1 military card played Green strength: 10 Purple strength: 10 #,Green
+16,2020-05-02 22:22:18,II,12,7474996,Grey defends#1 Defense card +4 played Grey strength: 11 Green strength: 10 #,Grey
+17,2020-05-02 08:59:11,II,11,7474996,Grey defends#1 Defense card +4 played 1 Defense card +4 played Grey strength: 14 Orange strength: 13 #,Grey
+18,2020-05-01 16:41:07,II,9,7474996,Green defends#1 Defense card +2 played 1 military card played Green strength: 7 Purple strength: 7 #,Green
+19,2020-05-16 14:05:16,IV,17,7475368,Grey defends#1 Defense card +6 played 1 military card played 1 military card played 1 military card played Grey strength: 31 Green strength: 31 #,Grey
+20,2020-05-15 23:53:30,III,15,7475368,Grey defends#1 military card played 1 military card played 1 military card played 1 military card played Grey strength: 14 Purple strength: 14 #,Grey
+21,2020-05-14 21:47:12,II,12,7475368,Grey defends#1 military card played 1 military card played Grey strength: 9 Purple strength: 9 #,Grey
+22,2020-05-11 16:51:00,III,17,7475369,Purple defends#1 Defense card +6 played 1 military card played 1 military card played Purple strength: 23 Grey strength: 23 #,Purple
+23,2020-05-11 11:57:44,III,13,7475369,Grey defends#1 military card played Grey strength: 11 Purple strength: 11 #,Grey
+24,2020-05-11 10:45:35,II,12,7475369,Grey defends#1 Defense card +4 played 1 Defense card +4 played Grey strength: 15 Green strength: 13 #,Grey
+25,2020-05-09 16:47:18,II,8,7475369,Purple defends#1 military card played 1 military card played Purple strength: 6 Green strength: 6 #,Purple
+26,2020-05-29 14:52:17,III,15,7476793,Green defends#1 Defense card +4 played 1 military card played 1 military card played Green strength: 17 Orange strength: 17 #,Green
+27,2020-05-29 12:34:08,III,12,7476793,Green defends#Green strength: 13 Grey strength: 2 #,Green
+28,2020-06-02 12:57:46,III,15,7476918,Purple defends#1 Defense card +6 played 1 military card played 1 military card played Purple strength: 27 Green strength: 27 #,Purple
+29,2020-06-01 21:37:13,III,13,7476918,Orange defends#1 Defense card +4 played 1 military card played Orange strength: 19 Purple strength: 19 #,Orange
+30,2020-06-01 21:21:23,II,12,7476918,Orange defends#1 Defense card +4 played 1 military card played 1 military card played Orange strength: 18 Green strength: 18 #,Orange
+31,2020-06-04 12:20:17,III,17,7477184,Grey defends#1 Defense card +6 played Grey strength: 22 Orange strength: 22 #,Grey
+32,2020-06-04 11:52:27,III,16,7477184,Grey defends#1 Defense card +6 played Grey strength: 22 Purple strength: 22 #,Grey
+33,2020-06-03 21:00:22,II,11,7477184,Purple defends#1 Defense card +4 played 1 military card played Purple strength: 17 Green strength: 17 #,Purple
+34,2020-06-03 16:33:44,I,8,7477184,Purple defends#1 Defense card +2 played 1 military card played Purple strength: 9 Orange strength: 9 #,Purple
+35,2020-06-09 11:39:34,IV,17,7477255,Grey defends#1 Defense card +6 played 1 Defense card +6 played Grey strength: 32 Green strength: 30 #,Grey
+36,2020-06-09 10:39:10,III,17,7477255,Grey defends#1 Defense card +6 played 1 military card played 1 military card played 1 military card played Grey strength: 29 Orange strength: 29 #,Grey
+37,2020-06-08 17:05:59,III,13,7477255,Green defends#1 Defense card +4 played 1 military card played 1 military card played 1 military card played Green strength: 18 Purple strength: 18 #,Green
+38,2020-06-15 12:50:53,IV,17,7477545,Grey defends#1 Defense card +6 played 1 military card played Grey strength: 23 Green strength: 23 #,Grey
+39,2020-06-12 19:25:32,III,13,7477545,Purple defends#1 Defense card +4 played 1 military card played 1 military card played Purple strength: 18 Orange strength: 18 #,Purple
+40,2020-06-10 15:59:30,I,7,7477545,Grey defends#1 Defense card +2 played 1 military card played Grey strength: 5 Orange strength: 5 #,Grey
+41,2020-06-16 15:33:15,II,11,7477831,Grey defends#1 Defense card +4 played 1 military card played Grey strength: 12 Purple strength: 12 #,Grey
+42,2020-06-21 11:21:24,III,15,7477939,Purple defends#Sacrificed Units: 1 Knights 1 Riflemen 1 Defense card +4 played 1 Defense card +4 played 1 Defense card +4 played Purple strength: 30 Grey strength: 28 #,Purple
+43,2020-06-26 11:02:36,III,17,7478280,Grey defends#1 Defense card +4 played 1 Defense card +6 played Grey strength: 20 Purple strength: 19 #,Grey
+44,2020-06-25 10:29:18,II,10,7478280,Purple defends#1 Defense card +2 played 1 Defense card +2 played Purple strength: 11 Orange strength: 10 #,Purple
+45,2020-06-24 14:34:09,I,6,7478280,Grey defends#1 Defense card +2 played Grey strength: 8 Green strength: 7 #,Grey
+46,2020-07-17 12:10:48,I,5,7479251,Orange defends#Sacrificed Units: 1 Warrior 1 Warrior Orange strength: 5 Purple strength: 5 #,Orange
+47,2020-07-28 22:30:36,IV,19,7479593,Orange defends#1 Defense card +6 played 1 Defense card +6 played Orange strength: 40 Green strength: 39 #,Orange
+48,2020-07-28 12:17:54,III,17,7479593,Orange defends#Sacrificed Units: 1 Knights 1 Defense card +4 played 1 Defense card +6 played 1 Defense card +6 played Orange strength: 43 Grey strength: 42 #,Orange
+49,2020-07-24 13:57:42,II,10,7479593,Orange defends#1 Defense card +4 played Orange strength: 11 Green strength: 11 #,Orange
+50,2020-08-03 07:20:05,I,3,7479938,Orange defends#1 Defense card +2 played Orange strength: 4 Green strength: 4 #,Orange
+51,2020-08-13 14:48:47,II,11,7480536,Purple defends#1 Defense card +4 played 1 military card played Purple strength: 17 Grey strength: 17 #,Purple
+52,2020-08-19 10:37:37,IV,18,7480677,Purple defends#Purple strength: 28 Green strength: 28 #,Purple
+53,2020-08-18 19:35:19,III,14,7480677,Orange defends#1 Defense card +6 played 1 military card played 1 military card played 1 military card played 1 military card played Orange strength: 27 Grey strength: 27 #,Orange
+54,2020-08-18 11:04:37,III,13,7480677,Green defends#1 military card played Green strength: 14 Orange strength: 14 #,Green
+55,2020-08-24 10:35:45,III,13,7480887,Orange defends#1 Defense card +6 played Orange strength: 20 Grey strength: 19 #,Orange
+56,2020-08-24 10:03:35,III,13,7480887,Orange defends#1 Defense card +4 played Orange strength: 18 Purple strength: 18 #,Orange
+57,2020-08-27 18:50:01,II,9,7481117,Grey defends#1 Defense card +2 played 1 Defense card +2 played Grey strength: 10 Green strength: 10 #,Grey
+58,2020-08-25 17:57:34,I,4,7481117,Grey defends#1 Defense card +2 played 1 military card played Grey strength: 4 Green strength: 4 #,Grey
+59,2020-09-10 10:18:07,IV,19,7481459,Orange defends#Orange strength: 28 Green strength: 28 #,Orange
+60,2020-09-10 10:05:50,IV,19,7481459,Purple defends#1 Defense card +6 played Purple strength: 28 Orange strength: 28 #,Purple
+61,2020-09-10 08:29:12,III,18,7481459,Green defends#1 Defense card +6 played Green strength: 24 Orange strength: 23 #,Green
+62,2020-09-08 15:10:26,II,13,7481459,Green defends#1 Defense card +4 played Green strength: 17 Purple strength: 17 #,Green
+63,2020-09-14 21:02:25,IV,19,7481844,Grey defends#1 Defense card +6 played 1 Defense card +6 played 1 Defense card +6 played Grey strength: 46 Purple strength: 42 #,Grey
+64,2020-09-14 20:55:28,IV,19,7481844,Green defends#1 Defense card +6 played Winston Churchill's bonus : +6 Green strength: 36 Orange strength: 29 #,Green
+65,2020-09-12 23:13:23,II,8,7481844,Purple defends#Sacrificed Units: 1 Warrior Purple strength: 4 Orange strength: 4 #,Purple
+66,2020-09-21 16:13:08,IV,18,7482019,Purple defends#1 Defense card +6 played Purple strength: 27 Orange strength: 23 #,Purple
+67,2020-09-21 14:09:21,III,16,7482019,Orange defends#Sacrificed Units: 1 Riflemen Orange strength: 22 Grey strength: 21 #,Orange
+68,2020-09-21 12:33:23,III,15,7482019,Purple defends#1 Defense card +4 played 1 Defense card +6 played Purple strength: 26 Green strength: 23 #,Purple
+69,2020-09-20 23:01:00,II,13,7482019,Grey defends#Sacrificed Units: 1 Knights 1 Knights 1 Warrior Grey strength: 16 Purple strength: 16 #,Grey
+70,2020-09-18 20:23:04,II,11,7482019,Purple defends#Sacrificed Units: 1 Swordsmen Purple strength: 10 Orange strength: 10 #,Purple
+71,2020-09-18 09:05:14,II,10,7482019,Purple defends#1 Defense card +2 played Purple strength: 10 Grey strength: 9 #,Purple
+72,2020-09-15 17:09:35,I,7,7482019,Orange defends#1 Defense card +2 played Orange strength: 7 Grey strength: 7 #,Orange
+73,2020-10-02 17:34:17,III,16,7482338,Orange defends#1 Defense card +6 played 1 Defense card +6 played Orange strength: 32 Purple strength: 27 #,Orange
+74,2020-09-28 09:31:07,II,8,7482338,Orange defends#1 Defense card +2 played Orange strength: 7 Green strength: 7 #,Orange
+75,2020-10-14 15:21:37,III,16,7482908,Green defends#Sacrificed Units: 1 Swordsmen 1 Swordsmen 1 Swordsmen Green strength: 20 Purple strength: 19 #,Green
+76,2020-10-14 11:13:18,III,14,7482908,Green defends#1 Defense card +6 played Green strength: 16 Grey strength: 13 #,Green
+77,2020-10-14 10:53:57,III,14,7482908,Green defends#Sacrificed Units: 1 Swordsmen Green strength: 12 Purple strength: 12 #,Green
+78,2020-10-31 21:19:54,IV,20,7483387,Grey defends#1 Defense card +6 played Grey strength: 6 Green strength: 5 #,Grey
+79,2020-10-30 10:11:11,III,17,7483387,Green defends#Sacrificed Units: 1 Riflemen 1 Riflemen Green strength: 25 Orange strength: 25 #,Green
+80,2020-10-29 08:38:53,III,15,7483387,Green defends#Sacrificed Units: 1 Knights 1 Defense card +4 played Green strength: 13 Purple strength: 13 #,Green
+81,2020-10-19 11:04:28,I,5,7483387,Green defends#Sacrificed Units: 1 Warrior 1 Defense card +2 played Green strength: 5 Purple strength: 5 #,Green
+82,2020-11-16 19:23:32,IV,19,7484166,Purple defends#1 Defense card +6 played 1 Defense card +6 played Purple strength: 29 Orange strength: 29 #,Purple
+83,2020-11-10 11:36:10,I,6,7484166,Purple defends#Sacrificed Units: 1 Warrior 1 Defense card +2 played Purple strength: 6 Grey strength: 6 #,Purple
+84,2020-11-09 17:15:52,I,5,7484166,Orange defends#1 Defense card +2 played 1 Defense card +2 played Orange strength: 6 Grey strength: 6 #,Orange
+85,2020-11-09 12:27:58,I,5,7484166,Green defends#1 Defense card +2 played Green strength: 4 Purple strength: 3 #,Green
+86,2020-11-30 22:32:21,IV,18,7484894,Purple defends#Sacrificed Units: 1 Knights 1 Knights 1 Riflemen Purple strength: 39 Grey strength: 39 #,Purple
+87,2020-11-30 12:44:05,III,17,7484894,Green defends#Sacrificed Units: 1 Knights 1 Knights 1 Defense card +4 played 1 Defense card +6 played Green strength: 25 Purple strength: 24 #,Green
+88,2020-12-22 11:55:15,IV,20,7485891,Orange defends#1 Defense card +6 played Orange strength: 40 Grey strength: 35 #,Orange
+89,2020-12-19 17:37:29,III,15,7485891,Orange defends#1 Defense card +6 played Orange strength: 23 Green strength: 22 #,Orange
+90,2021-01-06 12:41:58,III,18,7486444,Purple defends#1 Defense card +6 played Purple strength: 25 Grey strength: 20 #,Purple
+91,2021-01-05 11:07:56,III,17,7486444,Green defends#Sacrificed Units: 1 Swordsmen 1 Defense card +6 played Green strength: 35 Orange strength: 34 #,Green
+92,2021-01-04 15:21:13,II,12,7486444,Purple defends#Sacrificed Units: 1 Riflemen 1 Defense card +2 played Purple strength: 16 Grey strength: 16 #,Purple
+93,2021-01-04 14:14:19,II,11,7486444,Orange defends#Sacrificed Units: 1 Warrior 1 Defense card +2 played 1 Defense card +4 played Orange strength: 16 Grey strength: 16 #,Orange
+94,2021-01-30 13:59:39,III,18,7487030,Green defends#1 Defense card +6 played 1 Defense card +6 played Green strength: 35 Orange strength: 35 #,Green
+95,2021-01-29 19:34:37,III,17,7487030,Grey defends#1 Defense card +6 played 1 Defense card +6 played Grey strength: 36 Orange strength: 35 #,Grey
+96,2021-01-21 17:24:18,I,8,7487030,Green defends#1 Defense card +2 played Green strength: 7 Orange strength: 7 #,Green
+97,2021-01-13 10:37:08,I,5,7487030,Purple defends#1 Defense card +2 played Purple strength: 3 Orange strength: 2 #,Purple
+98,2021-03-02 17:23:29,IV,17,7488850,Grey defends#1 Defense card +6 played Grey strength: 22 Orange strength: 22 #,Grey
+99,2021-02-21 21:21:33,I,6,7488850,Green defends#1 Defense card +2 played Green strength: 7 Orange strength: 7 #,Green
+100,2021-03-16 09:34:54,III,15,7489723,Green defends#1 Defense card +6 played 1 military card played Green strength: 28 Grey strength: 28 #,Green
+101,2021-03-15 22:09:07,III,14,7489723,Green defends#1 Defense card +6 played 1 military card played 1 military card played 1 military card played Green strength: 25 Purple strength: 25 #,Green
+102,2021-03-25 15:59:27,II,10,7489957,Orange defends#1 military card played Orange strength: 11 Grey strength: 11 #,Orange
+103,2021-03-31 17:13:28,I,7,7490386,Grey defends#1 Defense card +2 played 1 military card played Grey strength: 8 Purple strength: 8 #,Grey
+104,2021-04-16 22:46:52,III,14,7490649,Orange defends#1 Defense card +4 played 1 Defense card +6 played Orange strength: 26 Grey strength: 26 #,Orange
+105,2021-04-16 18:29:17,III,14,7490649,Green defends#1 Defense card +6 played 1 Defense card +6 played Green strength: 25 Purple strength: 25 #,Green
+106,2021-04-09 11:10:42,I,5,7490649,Green defends#1 Defense card +2 played 1 military card played Green strength: 5 Purple strength: 5 #,Green
+107,2021-04-25 20:58:43,II,12,7491046,Green defends#1 military card played Green strength: 13 Purple strength: 13 #,Green
+108,2021-04-20 09:39:25,I,5,7491046,Orange defends#1 Defense card +2 played 1 military card played Orange strength: 6 Green strength: 6 #,Orange
+109,2021-05-19 09:27:57,III,14,7491505,Grey defends#1 Defense card +6 played Grey strength: 17 Orange strength: 16 #,Grey
+110,2021-05-18 22:54:49,III,13,7491505,Grey defends#Grey strength: 14 Green strength: 13 #,Grey
+111,2021-05-18 00:20:24,II,12,7491505,Grey defends#1 Defense card +4 played Grey strength: 17 Purple strength: 16 #,Grey
+112,2021-06-04 09:23:00,IV,18,7492262,Orange defends#1 Defense card +6 played 1 Defense card +6 played Orange strength: 50 Purple strength: 47 #,Orange
+113,2021-06-03 14:44:10,III,16,7492262,Green defends#1 Defense card +4 played 1 Defense card +6 played 1 Defense card +6 played 1 Defense card +6 played Green strength: 39 Orange strength: 38 #,Green
+114,2021-06-15 06:58:25,III,16,7492705,Green defends#1 Defense card +6 played Green strength: 25 Orange strength: 24 #,Green
+115,2021-06-26 13:33:47,IV,18,7493040,Purple defends#1 Defense card +6 played 1 Defense card +6 played 1 Defense card +6 played 1 Defense card +6 played 1 Defense card +6 played Purple strength: 55 Grey strength: 36 #,Purple
+116,2021-06-26 08:48:40,IV,18,7493040,Orange defends#1 military card played Orange strength: 26 Green strength: 26 #,Orange
+117,2021-06-22 12:33:32,II,8,7493040,Green defends#1 Defense card +2 played 1 military card played Green strength: 9 Purple strength: 9 #,Green
+118,2021-06-22 07:42:16,I,7,7493040,Green defends#1 Defense card +2 played 1 Defense card +2 played Green strength: 10 Purple strength: 10 #,Green
+119,2021-07-01 14:02:18,IV,17,7493350,Grey defends#1 Defense card +6 played 1 Defense card +6 played Grey strength: 42 Purple strength: 41 #,Grey
+120,2021-07-01 11:16:54,III,15,7493350,Orange defends#1 military card played 1 military card played Orange strength: 28 Grey strength: 28 #,Orange
+121,2021-07-01 10:52:39,III,14,7493350,Orange defends#1 Defense card +4 played 1 military card played 1 military card played Orange strength: 28 Grey strength: 28 #,Orange
+122,2021-07-01 08:30:15,II,12,7493350,Green defends#1 Defense card +2 played 1 Defense card +4 played Green strength: 22 Grey strength: 22 #,Green

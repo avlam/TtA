@@ -1,0 +1,959 @@
+,player,action,tactic_age,tactic,time,age,round,game_id,text
+0,Green,plays,I,Fighting Band ,2020-03-28 14:49:03,I,8,7472433,Green plays Tactics#I / Fighting Band #
+1,Orange,plays,I,Legion ,2020-03-28 14:39:26,I,8,7472433,Orange plays Tactics#I / Legion #
+2,Grey,plays,I,Fighting Band ,2020-03-28 14:16:26,I,6,7472433,Grey plays Tactics#I / Fighting Band #
+3,Orange,plays,I,Medieval Army ,2020-03-28 14:01:16,I,6,7472433,Orange plays Tactics#I / Medieval Army #
+4,Green,plays,I,Phalanx ,2020-03-28 13:48:03,I,5,7472433,Green plays Tactics#I / Phalanx #
+5,Purple,plays,I,Heavy Cavalry ,2020-03-28 13:23:22,I,4,7472433,Purple plays Tactics#I / Heavy Cavalry #
+6,Orange,plays,I,Legion ,2020-03-28 13:19:18,I,4,7472433,Orange plays Tactics#I / Legion #
+7,Green,plays,I,Phalanx ,2020-03-28 13:09:09,I,3,7472433,Green plays Tactics#I / Phalanx #
+8,Orange,plays,III,Shock Troops ,2020-04-08 17:24:33,III,17,7472434,Orange plays Tactics#III / Shock Troops #
+9,Orange,plays,II,Conquistadors ,2020-04-07 17:49:13,III,15,7472434,Orange plays Tactics#II / Conquistadors #
+10,Green,plays,I,Legion ,2020-04-06 17:24:11,I,6,7472434,Green plays Tactics#I / Legion #
+11,Grey,plays,I,Fighting Band ,2020-04-06 14:20:57,I,5,7472434,Grey plays Tactics#I / Fighting Band #
+12,Orange,plays,I,Medieval Army ,2020-04-06 12:38:25,I,5,7472434,Orange plays Tactics#I / Medieval Army #
+13,Grey,plays,I,Heavy Cavalry ,2020-04-06 12:34:59,I,4,7472434,Grey plays Tactics#I / Heavy Cavalry #
+14,Green,plays,I,Phalanx ,2020-04-05 21:36:30,I,3,7472434,Green plays Tactics#I / Phalanx #
+15,Purple,plays,I,Fighting Band ,2020-04-05 17:53:31,I,3,7472434,Purple plays Tactics#I / Fighting Band #
+16,Purple,plays,II,Classic Army ,2020-04-08 21:48:30,II,13,7473200,Purple plays Tactics#II / Classic Army #
+17,Grey,plays,II,Conquistadors ,2020-04-08 20:37:31,II,12,7473200,Grey plays Tactics#II / Conquistadors #
+18,Orange,plays,I,Medieval Army ,2020-04-08 13:10:14,II,10,7473200,Orange plays Tactics#I / Medieval Army #
+19,Purple,plays,I,Medieval Army ,2020-04-08 12:00:46,II,9,7473200,Purple plays Tactics#I / Medieval Army #
+20,Green,plays,I,Legion ,2020-04-08 10:58:34,II,8,7473200,Green plays Tactics#I / Legion #
+21,Grey,plays,I,Phalanx ,2020-04-07 16:58:14,I,6,7473200,Grey plays Tactics#I / Phalanx #
+22,Purple,plays,I,Fighting Band ,2020-04-07 11:44:47,I,4,7473200,Purple plays Tactics#I / Fighting Band #
+23,Orange,plays,I,Fighting Band ,2020-04-07 11:33:45,I,4,7473200,Orange plays Tactics#I / Fighting Band #
+24,Orange,sets up new,III,Modern Army ,2020-04-14 10:59:41,III,17,7473404,Orange sets up new tactics#III / Modern Army #
+25,Green,adopts existing,I,Legion ,2020-04-13 16:31:46,III,14,7473404,Green adopts existing tactics#I / Legion #
+26,Orange,sets up new,II,Napoleonic Army ,2020-04-13 14:40:11,III,14,7473404,Orange sets up new tactics#II / Napoleonic Army #
+27,Green,adopts existing,I,Fighting Band ,2020-04-13 13:27:44,II,13,7473404,Green adopts existing tactics#I / Fighting Band #
+28,Green,adopts existing,I,Legion ,2020-04-13 11:05:05,II,11,7473404,Green adopts existing tactics#I / Legion #
+29,Orange,adopts existing,I,Medieval Army ,2020-04-13 10:30:05,II,11,7473404,Orange adopts existing tactics#I / Medieval Army #
+30,Purple,adopts existing,I,Medieval Army ,2020-04-12 14:24:03,II,9,7473404,Purple adopts existing tactics#I / Medieval Army #
+31,Orange,adopts existing,I,Fighting Band ,2020-04-12 14:18:00,II,9,7473404,Orange adopts existing tactics#I / Fighting Band #
+32,Purple,sets up new,I,Legion ,2020-04-10 18:31:33,I,7,7473404,Purple sets up new tactics#I / Legion #
+33,Purple,sets up new,I,Fighting Band ,2020-04-10 11:59:44,I,6,7473404,Purple sets up new tactics#I / Fighting Band #
+34,Grey,adopts existing,I,Medieval Army ,2020-04-10 10:32:03,I,5,7473404,Grey adopts existing tactics#I / Medieval Army #
+35,Orange,sets up new,I,Medieval Army ,2020-04-09 13:01:26,I,3,7473404,Orange sets up new tactics#I / Medieval Army #
+36,Orange,sets up new,III,Shock Troops ,2020-04-22 14:49:23,III,18,7473814,Orange sets up new tactics#III / Shock Troops #
+37,Grey,adopts existing,II,Mobile Artillery ,2020-04-22 12:09:58,III,17,7473814,Grey adopts existing tactics#II / Mobile Artillery #
+38,Purple,adopts existing,I,Medieval Army ,2020-04-21 15:14:34,III,16,7473814,Purple adopts existing tactics#I / Medieval Army #
+39,Green,sets up new,II,Mobile Artillery ,2020-04-21 10:33:46,III,14,7473814,Green sets up new tactics#II / Mobile Artillery #
+40,Grey,sets up new,II,Defensive Army ,2020-04-20 19:24:50,II,12,7473814,Grey sets up new tactics#II / Defensive Army #
+41,Orange,adopts existing,I,Medieval Army ,2020-04-20 14:37:44,II,12,7473814,Orange adopts existing tactics#I / Medieval Army #
+42,Green,sets up new,I,Medieval Army ,2020-04-17 15:28:36,II,9,7473814,Green sets up new tactics#I / Medieval Army #
+43,Grey,sets up new,I,Phalanx ,2020-04-17 12:59:03,II,8,7473814,Grey sets up new tactics#I / Phalanx #
+44,Orange,adopts existing,I,Phalanx ,2020-04-17 11:57:46,I,8,7473814,Orange adopts existing tactics#I / Phalanx #
+45,Orange,adopts existing,I,Fighting Band ,2020-04-16 14:49:54,I,6,7473814,Orange adopts existing tactics#I / Fighting Band #
+46,Grey,adopts existing,I,Fighting Band ,2020-04-16 14:30:25,I,5,7473814,Grey adopts existing tactics#I / Fighting Band #
+47,Green,sets up new,I,Fighting Band ,2020-04-15 20:46:36,I,4,7473814,Green sets up new tactics#I / Fighting Band #
+48,Purple,sets up new,I,Legion ,2020-04-15 10:32:13,I,3,7473814,Purple sets up new tactics#I / Legion #
+49,Orange,sets up new,I,Phalanx ,2020-04-15 09:59:47,I,3,7473814,Orange sets up new tactics#I / Phalanx #
+50,Purple,sets up new,III,Shock Troops ,2020-04-29 17:40:54,IV,18,7474472,Purple sets up new tactics#III / Shock Troops #
+51,Orange,sets up new,III,Entrenchments ,2020-04-28 17:49:48,III,16,7474472,Orange sets up new tactics#III / Entrenchments #
+52,Green,sets up new,III,Modern Army ,2020-04-28 17:29:06,III,15,7474472,Green sets up new tactics#III / Modern Army #
+53,Green,adopts existing,I,Legion ,2020-04-27 16:47:43,II,12,7474472,Green adopts existing tactics#I / Legion #
+54,Orange,adopts existing,I,Medieval Army ,2020-04-27 15:53:27,II,12,7474472,Orange adopts existing tactics#I / Medieval Army #
+55,Orange,adopts existing,I,Legion ,2020-04-25 12:04:26,I,7,7474472,Orange adopts existing tactics#I / Legion #
+56,Purple,sets up new,I,Medieval Army ,2020-04-24 18:51:44,I,6,7474472,Purple sets up new tactics#I / Medieval Army #
+57,Grey,sets up new,I,Legion ,2020-04-24 14:34:45,I,4,7474472,Grey sets up new tactics#I / Legion #
+58,Green,sets up new,I,Medieval Army ,2020-04-24 13:24:42,I,4,7474472,Green sets up new tactics#I / Medieval Army #
+59,Purple,adopts existing,I,Fighting Band ,2020-05-03 15:02:03,III,13,7474996,Purple adopts existing tactics#I / Fighting Band #
+60,Green,sets up new,II,Classic Army ,2020-05-02 22:25:42,II,12,7474996,Green sets up new tactics#II / Classic Army #
+61,Green,adopts existing,I,Phalanx ,2020-05-02 15:59:54,II,11,7474996,Green adopts existing tactics#I / Phalanx #
+62,Grey,adopts existing,I,Fighting Band ,2020-05-01 14:39:25,II,8,7474996,Grey adopts existing tactics#I / Fighting Band #
+63,Orange,adopts existing,I,Phalanx ,2020-05-01 10:41:49,I,7,7474996,Orange adopts existing tactics#I / Phalanx #
+64,Green,sets up new,I,Fighting Band ,2020-04-30 15:04:49,I,5,7474996,Green sets up new tactics#I / Fighting Band #
+65,Purple,sets up new,I,Phalanx ,2020-04-30 15:00:40,I,5,7474996,Purple sets up new tactics#I / Phalanx #
+66,Grey,adopts existing,II,Classic Army ,2020-05-16 18:10:44,IV,17,7475368,Grey adopts existing tactics#II / Classic Army #
+67,Purple,adopts existing,II,Classic Army ,2020-05-16 13:49:08,IV,17,7475368,Purple adopts existing tactics#II / Classic Army #
+68,Grey,adopts existing,I,Medieval Army ,2020-05-16 12:58:40,III,16,7475368,Grey adopts existing tactics#I / Medieval Army #
+69,Orange,sets up new,II,Classic Army ,2020-05-16 11:07:28,III,16,7475368,Orange sets up new tactics#II / Classic Army #
+70,Grey,adopts existing,I,Fighting Band ,2020-05-13 14:00:47,II,8,7475368,Grey adopts existing tactics#I / Fighting Band #
+71,Purple,sets up new,I,Medieval Army ,2020-05-12 17:13:12,II,8,7475368,Purple sets up new tactics#I / Medieval Army #
+72,Green,sets up new,I,Fighting Band ,2020-05-12 14:36:08,I,5,7475368,Green sets up new tactics#I / Fighting Band #
+73,Orange,sets up new,I,Fighting Band ,2020-05-12 11:33:06,I,5,7475368,Orange sets up new tactics#I / Fighting Band #
+74,Purple,sets up new,III,Shock Troops ,2020-05-11 18:06:56,IV,18,7475369,Purple sets up new tactics#III / Shock Troops #
+75,Grey,sets up new,III,Modern Army ,2020-05-11 16:23:32,III,16,7475369,Grey sets up new tactics#III / Modern Army #
+76,Green,sets up new,II,Classic Army ,2020-05-11 15:36:43,III,16,7475369,Green sets up new tactics#II / Classic Army #
+77,Orange,sets up new,III,Entrenchments ,2020-05-11 13:54:32,III,16,7475369,Orange sets up new tactics#III / Entrenchments #
+78,Purple,sets up new,II,Conquistadors ,2020-05-11 13:33:24,III,15,7475369,Purple sets up new tactics#II / Conquistadors #
+79,Grey,adopts existing,I,Phalanx ,2020-05-11 10:53:08,II,12,7475369,Grey adopts existing tactics#I / Phalanx #
+80,Purple,sets up new,I,Phalanx ,2020-05-09 15:46:13,II,8,7475369,Purple sets up new tactics#I / Phalanx #
+81,Grey,adopts existing,I,Legion ,2020-05-09 15:11:25,II,7,7475369,Grey adopts existing tactics#I / Legion #
+82,Orange,sets up new,I,Legion ,2020-05-08 22:27:27,I,7,7475369,Orange sets up new tactics#I / Legion #
+83,Green,sets up new,I,Legion ,2020-05-07 12:38:55,I,6,7475369,Green sets up new tactics#I / Legion #
+84,Orange,adopts existing,I,Phalanx ,2020-05-27 13:36:16,IV,19,7476107,Orange adopts existing tactics#I / Phalanx #
+85,Green,sets up new,III,Shock Troops ,2020-05-27 13:15:08,IV,18,7476107,Green sets up new tactics#III / Shock Troops #
+86,Purple,adopts existing,II,Mobile Artillery ,2020-05-27 12:02:21,III,17,7476107,Purple adopts existing tactics#II / Mobile Artillery #
+87,Purple,sets up new,III,Modern Army ,2020-05-27 10:16:56,III,16,7476107,Purple sets up new tactics#III / Modern Army #
+88,Grey,sets up new,II,Mobile Artillery ,2020-05-24 17:22:52,III,14,7476107,Grey sets up new tactics#II / Mobile Artillery #
+89,Grey,adopts existing,I,Medieval Army ,2020-05-23 08:04:52,II,12,7476107,Grey adopts existing tactics#I / Medieval Army #
+90,Green,adopts existing,I,Phalanx ,2020-05-22 20:11:00,II,12,7476107,Green adopts existing tactics#I / Phalanx #
+91,Grey,sets up new,I,Phalanx ,2020-05-19 03:42:51,II,7,7476107,Grey sets up new tactics#I / Phalanx #
+92,Orange,adopts existing,I,Medieval Army ,2020-05-18 19:18:01,I,7,7476107,Orange adopts existing tactics#I / Medieval Army #
+93,Green,adopts existing,I,Fighting Band ,2020-05-18 09:42:28,I,5,7476107,Green adopts existing tactics#I / Fighting Band #
+94,Purple,sets up new,I,Medieval Army ,2020-05-18 09:31:32,I,5,7476107,Purple sets up new tactics#I / Medieval Army #
+95,Grey,sets up new,I,Fighting Band ,2020-05-17 18:43:48,I,4,7476107,Grey sets up new tactics#I / Fighting Band #
+96,Purple,sets up new,I,Fighting Band ,2020-05-17 17:08:25,I,4,7476107,Purple sets up new tactics#I / Fighting Band #
+97,Grey,adopts existing,II,Classic Army ,2020-05-29 18:04:50,IV,19,7476793,Grey adopts existing tactics#II / Classic Army #
+98,Orange,adopts existing,II,Classic Army ,2020-05-29 16:59:24,III,18,7476793,Orange adopts existing tactics#II / Classic Army #
+99,Green,sets up new,II,Classic Army ,2020-05-29 15:43:08,III,16,7476793,Green sets up new tactics#II / Classic Army #
+100,Orange,adopts existing,I,Phalanx ,2020-05-29 12:45:02,III,13,7476793,Orange adopts existing tactics#I / Phalanx #
+101,Purple,adopts existing,I,Phalanx ,2020-05-29 12:03:53,II,12,7476793,Purple adopts existing tactics#I / Phalanx #
+102,Grey,adopts existing,I,Legion ,2020-05-28 18:21:36,II,7,7476793,Grey adopts existing tactics#I / Legion #
+103,Purple,adopts existing,I,Legion ,2020-05-28 17:13:51,I,6,7476793,Purple adopts existing tactics#I / Legion #
+104,Green,sets up new,I,Phalanx ,2020-05-27 22:05:11,I,5,7476793,Green sets up new tactics#I / Phalanx #
+105,Orange,sets up new,I,Legion ,2020-05-27 19:48:59,I,4,7476793,Orange sets up new tactics#I / Legion #
+106,Orange,adopts existing,II,Classic Army ,2020-06-02 09:48:06,III,14,7476918,Orange adopts existing tactics#II / Classic Army #
+107,Green,sets up new,II,Mobile Artillery ,2020-06-02 08:36:04,III,13,7476918,Green sets up new tactics#II / Mobile Artillery #
+108,Purple,sets up new,II,Classic Army ,2020-06-01 21:09:07,II,12,7476918,Purple sets up new tactics#II / Classic Army #
+109,Green,adopts existing,I,Medieval Army ,2020-05-30 14:38:28,I,6,7476918,Green adopts existing tactics#I / Medieval Army #
+110,Purple,adopts existing,I,Medieval Army ,2020-05-30 13:33:45,I,6,7476918,Purple adopts existing tactics#I / Medieval Army #
+111,Orange,sets up new,I,Medieval Army ,2020-05-29 19:23:09,I,4,7476918,Orange sets up new tactics#I / Medieval Army #
+112,Orange,sets up new,II,Classic Army ,2020-06-04 12:23:07,III,17,7477184,Orange sets up new tactics#II / Classic Army #
+113,Grey,adopts existing,I,Legion ,2020-06-04 08:56:39,III,13,7477184,Grey adopts existing tactics#I / Legion #
+114,Green,sets up new,I,Legion ,2020-06-03 16:45:14,II,8,7477184,Green sets up new tactics#I / Legion #
+115,Purple,sets up new,I,Medieval Army ,2020-06-03 16:40:17,II,8,7477184,Purple sets up new tactics#I / Medieval Army #
+116,Grey,sets up new,I,Medieval Army ,2020-06-03 16:29:03,I,7,7477184,Grey sets up new tactics#I / Medieval Army #
+117,Orange,sets up new,I,Legion ,2020-06-03 14:23:54,I,5,7477184,Orange sets up new tactics#I / Legion #
+118,Grey,sets up new,II,Classic Army ,2020-06-08 17:32:03,III,13,7477255,Grey sets up new tactics#II / Classic Army #
+119,Purple,sets up new,I,Medieval Army ,2020-06-07 21:34:07,II,8,7477255,Purple sets up new tactics#I / Medieval Army #
+120,Orange,adopts existing,I,Phalanx ,2020-06-06 17:57:38,I,7,7477255,Orange adopts existing tactics#I / Phalanx #
+121,Green,sets up new,I,Phalanx ,2020-06-06 16:25:16,I,6,7477255,Green sets up new tactics#I / Phalanx #
+122,Orange,adopts existing,I,Legion ,2020-06-06 10:03:34,I,6,7477255,Orange adopts existing tactics#I / Legion #
+123,Grey,sets up new,I,Phalanx ,2020-06-05 23:44:36,I,5,7477255,Grey sets up new tactics#I / Phalanx #
+124,Purple,sets up new,I,Heavy Cavalry ,2020-06-05 21:02:37,I,5,7477255,Purple sets up new tactics#I / Heavy Cavalry #
+125,Green,sets up new,I,Legion ,2020-06-05 18:30:54,I,4,7477255,Green sets up new tactics#I / Legion #
+126,Grey,sets up new,I,Fighting Band ,2020-06-05 12:28:52,I,3,7477255,Grey sets up new tactics#I / Fighting Band #
+127,Orange,sets up new,III,Modern Army ,2020-06-15 13:21:33,IV,18,7477545,Orange sets up new tactics#III / Modern Army #
+128,Orange,sets up new,III,Mechanized Army ,2020-06-15 13:21:18,IV,18,7477545,Orange sets up new tactics#III / Mechanized Army #
+129,Green,adopts existing,II,Napoleonic Army ,2020-06-15 11:14:06,III,15,7477545,Green adopts existing tactics#II / Napoleonic Army #
+130,Grey,adopts existing,I,Phalanx ,2020-06-14 11:40:43,III,13,7477545,Grey adopts existing tactics#I / Phalanx #
+131,Grey,adopts existing,I,Fighting Band ,2020-06-12 15:42:19,III,12,7477545,Grey adopts existing tactics#I / Fighting Band #
+132,Green,adopts existing,I,Phalanx ,2020-06-12 11:24:18,III,12,7477545,Green adopts existing tactics#I / Phalanx #
+133,Orange,sets up new,II,Napoleonic Army ,2020-06-12 10:11:51,II,12,7477545,Orange sets up new tactics#II / Napoleonic Army #
+134,Orange,adopts existing,I,Phalanx ,2020-06-11 18:53:28,II,10,7477545,Orange adopts existing tactics#I / Phalanx #
+135,Purple,adopts existing,I,Phalanx ,2020-06-11 10:01:48,II,8,7477545,Purple adopts existing tactics#I / Phalanx #
+136,Orange,adopts existing,I,Fighting Band ,2020-06-11 09:53:19,II,8,7477545,Orange adopts existing tactics#I / Fighting Band #
+137,Purple,sets up new,I,Fighting Band ,2020-06-10 12:34:50,I,6,7477545,Purple sets up new tactics#I / Fighting Band #
+138,Green,sets up new,I,Legion ,2020-06-10 11:12:45,I,5,7477545,Green sets up new tactics#I / Legion #
+139,Grey,sets up new,I,Phalanx ,2020-06-09 19:49:20,I,4,7477545,Grey sets up new tactics#I / Phalanx #
+140,Green,adopts existing,II,Classic Army ,2020-06-16 20:25:41,III,14,7477831,Green adopts existing tactics#II / Classic Army #
+141,Grey,sets up new,II,Defensive Army ,2020-06-16 19:02:30,III,13,7477831,Grey sets up new tactics#II / Defensive Army #
+142,Purple,sets up new,II,Classic Army ,2020-06-16 17:08:48,III,13,7477831,Purple sets up new tactics#II / Classic Army #
+143,Purple,sets up new,I,Medieval Army ,2020-06-16 16:22:39,II,12,7477831,Purple sets up new tactics#I / Medieval Army #
+144,Green,sets up new,I,Medieval Army ,2020-06-16 11:08:38,II,8,7477831,Green sets up new tactics#I / Medieval Army #
+145,Purple,adopts existing,I,Legion ,2020-06-16 10:44:32,II,8,7477831,Purple adopts existing tactics#I / Legion #
+146,Purple,adopts existing,I,Fighting Band ,2020-06-16 09:56:31,I,7,7477831,Purple adopts existing tactics#I / Fighting Band #
+147,Grey,adopts existing,I,Fighting Band ,2020-06-16 06:53:18,I,6,7477831,Grey adopts existing tactics#I / Fighting Band #
+148,Green,sets up new,I,Legion ,2020-06-15 18:37:23,I,6,7477831,Green sets up new tactics#I / Legion #
+149,Orange,sets up new,I,Fighting Band ,2020-06-15 16:39:24,I,4,7477831,Orange sets up new tactics#I / Fighting Band #
+150,Green,plays,III,Shock Troops ,2020-06-21 14:08:00,III,16,7477939,Green plays Tactics#III / Shock Troops #
+151,Orange,plays,II,Conquistadors ,2020-06-19 18:17:11,III,15,7477939,Orange plays Tactics#II / Conquistadors #
+152,Grey,plays,II,Classic Army ,2020-06-18 17:33:28,III,13,7477939,Grey plays Tactics#II / Classic Army #
+153,Orange,plays,I,Phalanx ,2020-06-17 20:00:37,I,7,7477939,Orange plays Tactics#I / Phalanx #
+154,Green,plays,I,Fighting Band ,2020-06-17 19:03:02,I,6,7477939,Green plays Tactics#I / Fighting Band #
+155,Purple,plays,I,Medieval Army ,2020-06-17 17:34:02,I,5,7477939,Purple plays Tactics#I / Medieval Army #
+156,Orange,plays,I,Fighting Band ,2020-06-17 17:29:54,I,5,7477939,Orange plays Tactics#I / Fighting Band #
+157,Grey,plays,I,Medieval Army ,2020-06-17 16:31:55,I,3,7477939,Grey plays Tactics#I / Medieval Army #
+158,Orange,plays,I,Medieval Army ,2020-06-23 10:12:05,II,9,7478150,Orange plays Tactics#I / Medieval Army #
+159,Orange,plays,I,Fighting Band ,2020-06-22 12:53:05,I,6,7478150,Orange plays Tactics#I / Fighting Band #
+160,Grey,plays,I,Medieval Army ,2020-06-22 10:05:28,I,3,7478150,Grey plays Tactics#I / Medieval Army #
+161,Purple,plays,I,Fighting Band ,2020-06-22 09:57:07,I,3,7478150,Purple plays Tactics#I / Fighting Band #
+162,Purple,plays,II,Tercios ,2020-06-25 12:31:46,II,13,7478280,Purple plays Tactics#II / Tercios #
+163,Orange,plays,II,Conquistadors ,2020-06-25 12:21:11,II,13,7478280,Orange plays Tactics#II / Conquistadors #
+164,Grey,plays,II,Napoleonic Army ,2020-06-25 12:14:11,II,12,7478280,Grey plays Tactics#II / Napoleonic Army #
+165,Green,plays,II,Classic Army ,2020-06-25 12:10:57,II,12,7478280,Green plays Tactics#II / Classic Army #
+166,Grey,plays,I,Legion ,2020-06-25 09:13:42,II,8,7478280,Grey plays Tactics#I / Legion #
+167,Purple,plays,I,Fighting Band ,2020-06-24 22:34:47,I,8,7478280,Purple plays Tactics#I / Fighting Band #
+168,Orange,plays,I,Medieval Army ,2020-06-24 14:08:23,I,6,7478280,Orange plays Tactics#I / Medieval Army #
+169,Grey,plays,I,Fighting Band ,2020-06-24 14:03:38,I,5,7478280,Grey plays Tactics#I / Fighting Band #
+170,Green,plays,I,Phalanx ,2020-06-24 13:53:58,I,5,7478280,Green plays Tactics#I / Phalanx #
+171,Orange,plays,I,Legion ,2020-06-24 13:42:51,I,5,7478280,Orange plays Tactics#I / Legion #
+172,Green,plays,I,Fighting Band ,2020-06-24 13:04:47,I,4,7478280,Green plays Tactics#I / Fighting Band #
+173,Purple,plays,I,Medieval Army ,2020-06-24 11:58:07,I,3,7478280,Purple plays Tactics#I / Medieval Army #
+174,Grey,plays,I,Legion ,2020-07-13 12:08:26,II,11,7478389,Grey plays Tactics#I / Legion #
+175,Purple,plays,I,Medieval Army ,2020-07-06 16:17:49,II,8,7478389,Purple plays Tactics#I / Medieval Army #
+176,Orange,plays,I,Fighting Band ,2020-06-28 18:13:06,I,5,7478389,Orange plays Tactics#I / Fighting Band #
+177,Purple,plays,I,Fighting Band ,2020-06-28 11:23:37,I,4,7478389,Purple plays Tactics#I / Fighting Band #
+178,Green,plays,II,Classic Army ,2020-07-21 12:38:08,III,14,7479251,Green plays Tactics#II / Classic Army #
+179,Grey,plays,II,Napoleonic Army ,2020-07-20 20:58:53,III,13,7479251,Grey plays Tactics#II / Napoleonic Army #
+180,Grey,plays,I,Medieval Army ,2020-07-18 17:05:22,I,7,7479251,Grey plays Tactics#I / Medieval Army #
+181,Orange,plays,I,Phalanx ,2020-07-17 11:20:50,I,5,7479251,Orange plays Tactics#I / Phalanx #
+182,Green,plays,I,Fighting Band ,2020-07-16 21:25:15,I,4,7479251,Green plays Tactics#I / Fighting Band #
+183,Purple,plays,I,Fighting Band ,2020-07-16 00:43:17,I,3,7479251,Purple plays Tactics#I / Fighting Band #
+184,Green,plays,II,Tercios ,2020-07-25 19:32:11,II,12,7479593,Green plays Tactics#II / Tercios #
+185,Grey,plays,II,Classic Army ,2020-07-24 14:01:31,II,10,7479593,Grey plays Tactics#II / Classic Army #
+186,Purple,plays,I,Medieval Army ,2020-07-23 21:13:47,I,7,7479593,Purple plays Tactics#I / Medieval Army #
+187,Orange,plays,I,Phalanx ,2020-07-23 20:35:12,I,7,7479593,Orange plays Tactics#I / Phalanx #
+188,Grey,plays,I,Fighting Band ,2020-07-23 08:50:04,I,5,7479593,Grey plays Tactics#I / Fighting Band #
+189,Green,plays,I,Legion ,2020-07-22 23:26:18,I,5,7479593,Green plays Tactics#I / Legion #
+190,Grey,sets up new,III,Entrenchments ,2020-08-06 11:55:54,III,15,7479938,Grey sets up new tactics#III / Entrenchments #
+191,Green,sets up new,II,Fortifications ,2020-08-06 11:20:21,III,15,7479938,Green sets up new tactics#II / Fortifications #
+192,Orange,sets up new,II,Conquistadors ,2020-08-06 11:05:01,III,15,7479938,Orange sets up new tactics#II / Conquistadors #
+193,Purple,sets up new,I,Medieval Army ,2020-08-04 19:13:33,II,8,7479938,Purple sets up new tactics#I / Medieval Army #
+194,Orange,sets up new,I,Medieval Army ,2020-08-04 15:38:01,I,7,7479938,Orange sets up new tactics#I / Medieval Army #
+195,Green,adopts existing,I,Fighting Band ,2020-08-04 11:16:59,I,5,7479938,Green adopts existing tactics#I / Fighting Band #
+196,Purple,sets up new,I,Fighting Band ,2020-08-03 23:51:33,I,5,7479938,Purple sets up new tactics#I / Fighting Band #
+197,Grey,sets up new,I,Fighting Band ,2020-08-03 11:40:26,I,3,7479938,Grey sets up new tactics#I / Fighting Band #
+198,Orange,sets up new,II,Fortifications ,2020-08-10 22:53:45,III,13,7480288,Orange sets up new tactics#II / Fortifications #
+199,Grey,adopts existing,I,Fighting Band ,2020-08-10 15:33:29,I,6,7480288,Grey adopts existing tactics#I / Fighting Band #
+200,Orange,adopts existing,I,Fighting Band ,2020-08-09 22:28:49,I,6,7480288,Orange adopts existing tactics#I / Fighting Band #
+201,Purple,sets up new,I,Fighting Band ,2020-08-09 13:18:03,I,5,7480288,Purple sets up new tactics#I / Fighting Band #
+202,Green,sets up new,I,Fighting Band ,2020-08-07 14:57:15,I,4,7480288,Green sets up new tactics#I / Fighting Band #
+203,Green,adopts existing,I,Heavy Cavalry ,2020-08-14 01:12:19,III,14,7480536,Green adopts existing tactics#I / Heavy Cavalry #
+204,Orange,sets up new,II,Defensive Army ,2020-08-13 20:49:01,III,14,7480536,Orange sets up new tactics#II / Defensive Army #
+205,Purple,sets up new,II,Mobile Artillery ,2020-08-13 17:41:21,III,13,7480536,Purple sets up new tactics#II / Mobile Artillery #
+206,Orange,sets up new,II,Fortifications ,2020-08-13 16:58:36,III,13,7480536,Orange sets up new tactics#II / Fortifications #
+207,Green,adopts existing,I,Medieval Army ,2020-08-13 12:20:44,II,9,7480536,Green adopts existing tactics#I / Medieval Army #
+208,Grey,adopts existing,I,Legion ,2020-08-13 08:32:26,II,7,7480536,Grey adopts existing tactics#I / Legion #
+209,Purple,sets up new,I,Heavy Cavalry ,2020-08-12 20:51:44,II,7,7480536,Purple sets up new tactics#I / Heavy Cavalry #
+210,Green,sets up new,I,Legion ,2020-08-12 16:00:56,I,6,7480536,Green sets up new tactics#I / Legion #
+211,Orange,adopts existing,I,Fighting Band ,2020-08-12 13:00:08,I,6,7480536,Orange adopts existing tactics#I / Fighting Band #
+212,Grey,sets up new,I,Fighting Band ,2020-08-12 10:16:22,I,4,7480536,Grey sets up new tactics#I / Fighting Band #
+213,Purple,sets up new,I,Medieval Army ,2020-08-11 22:04:03,I,3,7480536,Purple sets up new tactics#I / Medieval Army #
+214,Grey,sets up new,III,Mechanized Army ,2020-08-19 10:10:55,IV,17,7480677,Grey sets up new tactics#III / Mechanized Army #
+215,Purple,sets up new,II,Fortifications ,2020-08-18 16:22:36,III,14,7480677,Purple sets up new tactics#II / Fortifications #
+216,Grey,adopts existing,II,Mobile Artillery ,2020-08-18 14:12:30,III,13,7480677,Grey adopts existing tactics#II / Mobile Artillery #
+217,Green,sets up new,II,Conquistadors ,2020-08-18 14:06:12,III,13,7480677,Green sets up new tactics#II / Conquistadors #
+218,Purple,adopts existing,I,Fighting Band ,2020-08-18 09:29:06,II,12,7480677,Purple adopts existing tactics#I / Fighting Band #
+219,Orange,sets up new,II,Mobile Artillery ,2020-08-18 09:20:22,II,12,7480677,Orange sets up new tactics#II / Mobile Artillery #
+220,Orange,adopts existing,I,Medieval Army ,2020-08-17 21:09:57,II,11,7480677,Orange adopts existing tactics#I / Medieval Army #
+221,Green,sets up new,I,Heavy Cavalry ,2020-08-17 13:53:00,I,7,7480677,Green sets up new tactics#I / Heavy Cavalry #
+222,Purple,sets up new,I,Medieval Army ,2020-08-17 12:44:17,I,7,7480677,Purple sets up new tactics#I / Medieval Army #
+223,Grey,adopts existing,I,Fighting Band ,2020-08-17 12:18:18,I,6,7480677,Grey adopts existing tactics#I / Fighting Band #
+224,Orange,sets up new,I,Fighting Band ,2020-08-17 11:45:08,I,5,7480677,Orange sets up new tactics#I / Fighting Band #
+225,Purple,sets up new,III,Modern Army ,2020-08-24 14:46:07,IV,17,7480887,Purple sets up new tactics#III / Modern Army #
+226,Purple,adopts existing,III,Entrenchments ,2020-08-24 13:28:01,III,16,7480887,Purple adopts existing tactics#III / Entrenchments #
+227,Green,sets up new,III,Entrenchments ,2020-08-24 11:57:52,III,14,7480887,Green sets up new tactics#III / Entrenchments #
+228,Grey,sets up new,II,Napoleonic Army ,2020-08-24 10:38:36,III,13,7480887,Grey sets up new tactics#II / Napoleonic Army #
+229,Green,sets up new,II,Defensive Army ,2020-08-24 10:30:46,III,13,7480887,Green sets up new tactics#II / Defensive Army #
+230,Grey,adopts existing,I,Medieval Army ,2020-08-23 21:36:50,II,11,7480887,Grey adopts existing tactics#I / Medieval Army #
+231,Orange,adopts existing,I,Legion ,2020-08-22 17:23:14,II,11,7480887,Orange adopts existing tactics#I / Legion #
+232,Grey,adopts existing,I,Phalanx ,2020-08-21 10:50:06,II,9,7480887,Grey adopts existing tactics#I / Phalanx #
+233,Green,sets up new,I,Phalanx ,2020-08-20 15:45:23,I,7,7480887,Green sets up new tactics#I / Phalanx #
+234,Green,sets up new,I,Fighting Band ,2020-08-20 14:54:24,I,6,7480887,Green sets up new tactics#I / Fighting Band #
+235,Orange,sets up new,I,Heavy Cavalry ,2020-08-20 14:24:41,I,6,7480887,Orange sets up new tactics#I / Heavy Cavalry #
+236,Grey,sets up new,I,Medieval Army ,2020-08-20 12:50:42,I,5,7480887,Grey sets up new tactics#I / Medieval Army #
+237,Orange,sets up new,I,Fighting Band ,2020-08-20 11:20:46,I,5,7480887,Orange sets up new tactics#I / Fighting Band #
+238,Purple,sets up new,I,Legion ,2020-08-19 18:41:46,I,4,7480887,Purple sets up new tactics#I / Legion #
+239,Green,adopts existing,II,Classic Army ,2020-08-31 21:35:01,III,14,7481117,Green adopts existing tactics#II / Classic Army #
+240,Orange,sets up new,II,Defensive Army ,2020-08-31 11:29:21,II,12,7481117,Orange sets up new tactics#II / Defensive Army #
+241,Grey,adopts existing,I,Fighting Band ,2020-08-31 10:39:07,II,11,7481117,Grey adopts existing tactics#I / Fighting Band #
+242,Green,adopts existing,I,Fighting Band ,2020-08-31 10:09:06,II,11,7481117,Green adopts existing tactics#I / Fighting Band #
+243,Purple,sets up new,II,Classic Army ,2020-08-27 18:29:58,II,9,7481117,Purple sets up new tactics#II / Classic Army #
+244,Purple,adopts existing,I,Phalanx ,2020-08-26 14:22:30,I,6,7481117,Purple adopts existing tactics#I / Phalanx #
+245,Green,sets up new,I,Medieval Army ,2020-08-26 13:59:27,I,5,7481117,Green sets up new tactics#I / Medieval Army #
+246,Purple,sets up new,I,Fighting Band ,2020-08-25 14:15:50,I,4,7481117,Purple sets up new tactics#I / Fighting Band #
+247,Orange,sets up new,I,Phalanx ,2020-08-25 14:13:34,I,4,7481117,Orange sets up new tactics#I / Phalanx #
+248,Orange,plays,II,Napoleonic Army ,2020-09-08 18:43:01,III,16,7481459,Orange plays Tactics#II / Napoleonic Army #
+249,Purple,plays,II,Classic Army ,2020-09-08 12:51:21,II,12,7481459,Purple plays Tactics#II / Classic Army #
+250,Grey,plays,II,Defensive Army ,2020-09-08 11:19:42,II,10,7481459,Grey plays Tactics#II / Defensive Army #
+251,Purple,plays,I,Medieval Army ,2020-09-03 14:57:32,I,7,7481459,Purple plays Tactics#I / Medieval Army #
+252,Green,plays,I,Fighting Band ,2020-09-03 13:06:18,I,6,7481459,Green plays Tactics#I / Fighting Band #
+253,Grey,plays,I,Fighting Band ,2020-09-03 12:07:06,I,5,7481459,Grey plays Tactics#I / Fighting Band #
+254,Orange,plays,I,Medieval Army ,2020-09-02 12:43:23,I,4,7481459,Orange plays Tactics#I / Medieval Army #
+255,Grey,plays,II,Mobile Artillery ,2020-09-14 16:37:39,III,17,7481844,Grey plays Tactics#II / Mobile Artillery #
+256,Green,plays,III,Entrenchments ,2020-09-14 16:33:19,III,17,7481844,Green plays Tactics#III / Entrenchments #
+257,Purple,plays,II,Classic Army ,2020-09-14 07:32:23,III,14,7481844,Purple plays Tactics#II / Classic Army #
+258,Orange,plays,II,Tercios ,2020-09-13 22:26:09,II,12,7481844,Orange plays Tactics#II / Tercios #
+259,Grey,plays,II,Conquistadors ,2020-09-13 22:19:43,II,11,7481844,Grey plays Tactics#II / Conquistadors #
+260,Green,plays,I,Phalanx ,2020-09-13 09:42:17,II,8,7481844,Green plays Tactics#I / Phalanx #
+261,Purple,plays,I,Medieval Army ,2020-09-12 23:56:16,II,8,7481844,Purple plays Tactics#I / Medieval Army #
+262,Orange,plays,I,Fighting Band ,2020-09-11 10:17:39,I,4,7481844,Orange plays Tactics#I / Fighting Band #
+263,Grey,plays,I,Phalanx ,2020-09-10 21:28:35,I,3,7481844,Grey plays Tactics#I / Phalanx #
+264,Green,plays,I,Fighting Band ,2020-09-10 21:22:58,I,3,7481844,Green plays Tactics#I / Fighting Band #
+265,Orange,plays,III,Modern Army ,2020-09-21 14:15:33,III,17,7482019,Orange plays Tactics#III / Modern Army #
+266,Green,plays,III,Shock Troops ,2020-09-21 10:52:46,III,14,7482019,Green plays Tactics#III / Shock Troops #
+267,Grey,plays,II,Classic Army ,2020-09-20 22:20:07,II,12,7482019,Grey plays Tactics#II / Classic Army #
+268,Purple,plays,II,Defensive Army ,2020-09-18 20:29:06,II,11,7482019,Purple plays Tactics#II / Defensive Army #
+269,Orange,plays,I,Phalanx ,2020-09-15 17:19:16,I,8,7482019,Orange plays Tactics#I / Phalanx #
+270,Purple,plays,I,Fighting Band ,2020-09-15 12:38:26,I,5,7482019,Purple plays Tactics#I / Fighting Band #
+271,Orange,plays,I,Legion ,2020-09-15 12:35:14,I,5,7482019,Orange plays Tactics#I / Legion #
+272,Grey,plays,I,Phalanx ,2020-09-15 12:27:47,I,4,7482019,Grey plays Tactics#I / Phalanx #
+273,Green,plays,I,Phalanx ,2020-09-15 12:17:58,I,4,7482019,Green plays Tactics#I / Phalanx #
+274,Purple,plays,I,Medieval Army ,2020-09-15 08:51:41,I,3,7482019,Purple plays Tactics#I / Medieval Army #
+275,Purple,plays,III,Modern Army ,2020-10-03 01:00:45,III,17,7482338,Purple plays Tactics#III / Modern Army #
+276,Purple,plays,II,Tercios ,2020-10-02 15:11:22,III,15,7482338,Purple plays Tactics#II / Tercios #
+277,Orange,plays,II,Hussars ,2020-09-30 15:47:10,II,13,7482338,Orange plays Tactics#II / Hussars #
+278,Green,plays,II,Classic Army ,2020-09-29 23:21:47,II,12,7482338,Green plays Tactics#II / Classic Army #
+279,Green,plays,I,Medieval Army ,2020-09-29 10:30:20,II,9,7482338,Green plays Tactics#I / Medieval Army #
+280,Purple,plays,I,Medieval Army ,2020-09-28 07:18:13,I,8,7482338,Purple plays Tactics#I / Medieval Army #
+281,Grey,plays,I,Medieval Army ,2020-09-26 14:23:54,I,7,7482338,Grey plays Tactics#I / Medieval Army #
+282,Green,plays,I,Fighting Band ,2020-09-22 15:14:03,I,4,7482338,Green plays Tactics#I / Fighting Band #
+283,Grey,plays,I,Fighting Band ,2020-09-22 14:58:30,I,3,7482338,Grey plays Tactics#I / Fighting Band #
+284,Orange,plays,III,Entrenchments ,2020-10-14 14:54:08,III,16,7482908,Orange plays Tactics#III / Entrenchments #
+285,Purple,plays,II,Classic Army ,2020-10-14 10:55:44,III,14,7482908,Purple plays Tactics#II / Classic Army #
+286,Orange,plays,II,Tercios ,2020-10-12 13:49:01,II,11,7482908,Orange plays Tactics#II / Tercios #
+287,Grey,plays,I,Phalanx ,2020-10-11 09:38:16,II,8,7482908,Grey plays Tactics#I / Phalanx #
+288,Green,plays,I,Legion ,2020-10-08 10:26:56,I,5,7482908,Green plays Tactics#I / Legion #
+289,Orange,plays,I,Fighting Band ,2020-10-07 17:15:35,I,5,7482908,Orange plays Tactics#I / Fighting Band #
+290,Purple,plays,I,Medieval Army ,2020-10-07 16:40:22,I,4,7482908,Purple plays Tactics#I / Medieval Army #
+291,Green,plays,II,Napoleonic Army ,2020-10-30 06:37:13,III,16,7483387,Green plays Tactics#II / Napoleonic Army #
+292,Purple,plays,II,Conquistadors ,2020-10-28 20:00:36,II,14,7483387,Purple plays Tactics#II / Conquistadors #
+293,Orange,plays,II,Mobile Artillery ,2020-10-28 13:39:17,II,12,7483387,Orange plays Tactics#II / Mobile Artillery #
+294,Purple,plays,I,Light Cavalry ,2020-10-20 18:02:35,II,8,7483387,Purple plays Tactics#I / Light Cavalry #
+295,Green,plays,I,Phalanx ,2020-10-19 20:40:59,I,6,7483387,Green plays Tactics#I / Phalanx #
+296,Grey,plays,I,Fighting Band ,2020-10-19 12:26:15,I,5,7483387,Grey plays Tactics#I / Fighting Band #
+297,Orange,plays,I,Medieval Army ,2020-10-19 08:28:51,I,5,7483387,Orange plays Tactics#I / Medieval Army #
+298,Orange,plays,III,Modern Army ,2020-11-16 16:43:52,III,18,7484166,Orange plays Tactics#III / Modern Army #
+299,Purple,plays,II,Tercios ,2020-11-16 08:05:58,III,15,7484166,Purple plays Tactics#II / Tercios #
+300,Grey,plays,II,Defensive Army ,2020-11-13 15:46:05,II,13,7484166,Grey plays Tactics#II / Defensive Army #
+301,Green,plays,II,Mobile Artillery ,2020-11-13 15:11:12,II,13,7484166,Green plays Tactics#II / Mobile Artillery #
+302,Grey,plays,I,Medieval Army ,2020-11-08 00:58:46,I,4,7484166,Grey plays Tactics#I / Medieval Army #
+303,Green,plays,I,Legion ,2020-11-06 13:49:19,I,3,7484166,Green plays Tactics#I / Legion #
+304,Purple,plays,I,Fighting Band ,2020-11-06 13:38:47,I,3,7484166,Purple plays Tactics#I / Fighting Band #
+305,Orange,plays,I,Medieval Army ,2020-11-06 13:30:41,I,3,7484166,Orange plays Tactics#I / Medieval Army #
+306,Green,plays,III,Modern Army ,2020-12-01 09:35:17,IV,19,7484894,Green plays Tactics#III / Modern Army #
+307,Orange,plays,III,Shock Troops ,2020-11-30 12:00:47,III,17,7484894,Orange plays Tactics#III / Shock Troops #
+308,Grey,plays,II,Classic Army ,2020-11-28 00:03:24,III,14,7484894,Grey plays Tactics#II / Classic Army #
+309,Purple,plays,II,Conquistadors ,2020-11-26 08:35:56,II,14,7484894,Purple plays Tactics#II / Conquistadors #
+310,Orange,plays,II,Conquistadors ,2020-11-26 00:17:01,II,14,7484894,Orange plays Tactics#II / Conquistadors #
+311,Green,plays,I,Phalanx ,2020-11-21 09:14:04,II,9,7484894,Green plays Tactics#I / Phalanx #
+312,Orange,plays,I,Phalanx ,2020-11-19 23:09:12,I,8,7484894,Orange plays Tactics#I / Phalanx #
+313,Purple,plays,I,Medieval Army ,2020-11-19 13:29:11,I,7,7484894,Purple plays Tactics#I / Medieval Army #
+314,Grey,plays,I,Legion ,2020-11-19 09:56:46,I,6,7484894,Grey plays Tactics#I / Legion #
+315,Grey,plays,I,Fighting Band ,2020-11-19 07:40:28,I,5,7484894,Grey plays Tactics#I / Fighting Band #
+316,Purple,plays,I,Fighting Band ,2020-11-18 17:38:46,I,5,7484894,Purple plays Tactics#I / Fighting Band #
+317,Green,plays,I,Fighting Band ,2020-11-18 08:28:35,I,4,7484894,Green plays Tactics#I / Fighting Band #
+318,Grey,plays,III,Shock Troops ,2020-12-22 11:20:35,IV,19,7485891,Grey plays Tactics#III / Shock Troops #
+319,Green,plays,II,Classic Army ,2020-12-18 07:36:38,III,14,7485891,Green plays Tactics#II / Classic Army #
+320,Grey,plays,II,Tercios ,2020-12-17 21:29:22,II,13,7485891,Grey plays Tactics#II / Tercios #
+321,Purple,plays,II,Conquistadors ,2020-12-17 20:22:02,II,13,7485891,Purple plays Tactics#II / Conquistadors #
+322,Grey,plays,I,Medieval Army ,2020-12-17 10:16:25,II,10,7485891,Grey plays Tactics#I / Medieval Army #
+323,Purple,plays,I,Medieval Army ,2020-12-17 08:56:03,II,10,7485891,Purple plays Tactics#I / Medieval Army #
+324,Orange,plays,I,Phalanx ,2020-12-17 07:44:45,II,10,7485891,Orange plays Tactics#I / Phalanx #
+325,Orange,plays,I,Fighting Band ,2020-12-10 13:19:59,I,5,7485891,Orange plays Tactics#I / Fighting Band #
+326,Grey,plays,I,Legion ,2020-12-10 13:18:02,I,4,7485891,Grey plays Tactics#I / Legion #
+327,Green,plays,I,Fighting Band ,2020-12-10 12:44:51,I,4,7485891,Green plays Tactics#I / Fighting Band #
+328,Purple,plays,I,Legion ,2020-12-10 12:42:13,I,4,7485891,Purple plays Tactics#I / Legion #
+329,Grey,plays,I,Medieval Army ,2020-12-10 11:18:38,I,3,7485891,Grey plays Tactics#I / Medieval Army #
+330,Orange,plays,III,Modern Army ,2021-01-05 11:19:31,III,17,7486444,Orange plays Tactics#III / Modern Army #
+331,Green,plays,II,Fortifications ,2021-01-04 16:55:37,III,14,7486444,Green plays Tactics#II / Fortifications #
+332,Purple,plays,II,Classic Army ,2021-01-04 16:48:55,III,14,7486444,Purple plays Tactics#II / Classic Army #
+333,Purple,plays,II,Conquistadors ,2021-01-04 15:59:54,II,13,7486444,Purple plays Tactics#II / Conquistadors #
+334,Grey,plays,II,Napoleonic Army ,2021-01-04 09:56:43,II,10,7486444,Grey plays Tactics#II / Napoleonic Army #
+335,Green,plays,I,Fighting Band ,2020-12-29 16:15:01,I,7,7486444,Green plays Tactics#I / Fighting Band #
+336,Purple,plays,I,Phalanx ,2020-12-29 08:30:59,I,6,7486444,Purple plays Tactics#I / Phalanx #
+337,Orange,plays,I,Phalanx ,2020-12-24 13:49:02,I,5,7486444,Orange plays Tactics#I / Phalanx #
+338,Grey,plays,I,Medieval Army ,2020-12-23 09:12:51,I,3,7486444,Grey plays Tactics#I / Medieval Army #
+339,Purple,plays,III,Modern Army ,2021-01-30 20:07:53,IV,19,7487030,Purple plays Tactics#III / Modern Army #
+340,Grey,plays,II,Napoleonic Army ,2021-01-30 12:21:04,III,17,7487030,Grey plays Tactics#II / Napoleonic Army #
+341,Purple,plays,III,Shock Troops ,2021-01-29 16:13:15,III,15,7487030,Purple plays Tactics#III / Shock Troops #
+342,Orange,plays,II,Classic Army ,2021-01-27 20:38:22,II,14,7487030,Orange plays Tactics#II / Classic Army #
+343,Orange,plays,II,Conquistadors ,2021-01-26 07:27:14,II,11,7487030,Orange plays Tactics#II / Conquistadors #
+344,Green,plays,I,Phalanx ,2021-01-23 11:34:18,II,8,7487030,Green plays Tactics#I / Phalanx #
+345,Orange,plays,I,Medieval Army ,2021-01-13 14:02:59,I,6,7487030,Orange plays Tactics#I / Medieval Army #
+346,Purple,plays,I,Medieval Army ,2021-01-13 13:39:41,I,5,7487030,Purple plays Tactics#I / Medieval Army #
+347,Grey,plays,I,Medieval Army ,2021-01-13 10:01:15,I,4,7487030,Grey plays Tactics#I / Medieval Army #
+348,Green,plays,I,Fighting Band ,2021-01-11 22:20:33,I,3,7487030,Green plays Tactics#I / Fighting Band #
+349,Green,plays,III,Mechanized Army ,2021-02-16 10:40:19,III,16,7488202,Green plays Tactics#III / Mechanized Army #
+350,Grey,plays,II,Napoleonic Army ,2021-02-11 12:25:56,III,13,7488202,Grey plays Tactics#II / Napoleonic Army #
+351,Orange,plays,II,Classic Army ,2021-02-11 10:18:03,II,13,7488202,Orange plays Tactics#II / Classic Army #
+352,Green,plays,II,Mobile Artillery ,2021-02-07 10:40:34,II,10,7488202,Green plays Tactics#II / Mobile Artillery #
+353,Purple,plays,II,Tercios ,2021-02-06 02:04:28,II,10,7488202,Purple plays Tactics#II / Tercios #
+354,Purple,plays,I,Fighting Band ,2021-02-03 15:53:28,I,5,7488202,Purple plays Tactics#I / Fighting Band #
+355,Orange,plays,I,Legion ,2021-02-03 15:41:13,I,5,7488202,Orange plays Tactics#I / Legion #
+356,Grey,plays,I,Phalanx ,2021-02-03 14:16:10,I,4,7488202,Grey plays Tactics#I / Phalanx #
+357,Grey,plays,I,Light Cavalry ,2021-02-03 10:56:34,I,3,7488202,Grey plays Tactics#I / Light Cavalry #
+358,Green,plays,I,Medieval Army ,2021-02-02 17:42:58,I,3,7488202,Green plays Tactics#I / Medieval Army #
+359,Grey,adopts existing,II,Classic Army ,2021-03-02 15:19:13,III,15,7488850,Grey adopts existing tactics#II / Classic Army #
+360,Green,sets up new,II,Classic Army ,2021-03-01 16:35:56,III,13,7488850,Green sets up new tactics#II / Classic Army #
+361,Orange,sets up new,II,Napoleonic Army ,2021-03-01 15:07:48,III,13,7488850,Orange sets up new tactics#II / Napoleonic Army #
+362,Grey,adopts existing,I,Phalanx ,2021-02-26 07:36:36,II,9,7488850,Grey adopts existing tactics#I / Phalanx #
+363,Green,sets up new,I,Phalanx ,2021-02-22 15:35:34,II,8,7488850,Green sets up new tactics#I / Phalanx #
+364,Grey,adopts existing,I,Fighting Band ,2021-02-21 17:53:59,I,5,7488850,Grey adopts existing tactics#I / Fighting Band #
+365,Orange,sets up new,I,Heavy Cavalry ,2021-02-21 09:24:46,I,5,7488850,Orange sets up new tactics#I / Heavy Cavalry #
+366,Green,sets up new,I,Fighting Band ,2021-02-19 10:42:00,I,3,7488850,Green sets up new tactics#I / Fighting Band #
+367,Purple,sets up new,I,Fighting Band ,2021-02-19 09:16:38,I,3,7488850,Purple sets up new tactics#I / Fighting Band #
+368,Grey,adopts existing,II,Mobile Artillery ,2021-03-11 15:48:00,III,17,7489429,Grey adopts existing tactics#II / Mobile Artillery #
+369,Grey,sets up new,III,Mechanized Army ,2021-03-11 15:06:39,III,16,7489429,Grey sets up new tactics#III / Mechanized Army #
+370,Green,sets up new,II,Mobile Artillery ,2021-03-10 22:13:18,III,14,7489429,Green sets up new tactics#II / Mobile Artillery #
+371,Green,sets up new,I,Medieval Army ,2021-03-10 09:21:27,II,10,7489429,Green sets up new tactics#I / Medieval Army #
+372,Orange,sets up new,I,Heavy Cavalry ,2021-03-08 09:21:20,I,8,7489429,Orange sets up new tactics#I / Heavy Cavalry #
+373,Grey,sets up new,I,Phalanx ,2021-03-08 07:55:23,I,6,7489429,Grey sets up new tactics#I / Phalanx #
+374,Grey,sets up new,II,Classic Army ,2021-03-16 09:39:24,III,15,7489723,Grey sets up new tactics#II / Classic Army #
+375,Green,sets up new,III,Shock Troops ,2021-03-15 22:30:14,III,14,7489723,Green sets up new tactics#III / Shock Troops #
+376,Purple,sets up new,III,Entrenchments ,2021-03-15 14:52:35,III,13,7489723,Purple sets up new tactics#III / Entrenchments #
+377,Orange,sets up new,II,Mobile Artillery ,2021-03-15 14:40:10,III,13,7489723,Orange sets up new tactics#II / Mobile Artillery #
+378,Grey,adopts existing,I,Legion ,2021-03-15 12:41:07,II,11,7489723,Grey adopts existing tactics#I / Legion #
+379,Orange,adopts existing,I,Medieval Army ,2021-03-15 09:47:04,II,10,7489723,Orange adopts existing tactics#I / Medieval Army #
+380,Purple,sets up new,I,Legion ,2021-03-14 09:40:34,I,6,7489723,Purple sets up new tactics#I / Legion #
+381,Orange,sets up new,I,Phalanx ,2021-03-14 08:24:45,I,6,7489723,Orange sets up new tactics#I / Phalanx #
+382,Grey,sets up new,I,Fighting Band ,2021-03-13 01:38:14,I,4,7489723,Grey sets up new tactics#I / Fighting Band #
+383,Green,sets up new,I,Medieval Army ,2021-03-12 23:08:50,I,4,7489723,Green sets up new tactics#I / Medieval Army #
+384,Purple,sets up new,I,Fighting Band ,2021-03-12 17:30:17,I,4,7489723,Purple sets up new tactics#I / Fighting Band #
+385,Orange,adopts existing,II,Napoleonic Army ,2021-03-28 09:31:51,III,17,7489957,Orange adopts existing tactics#II / Napoleonic Army #
+386,Purple,adopts existing,II,Napoleonic Army ,2021-03-27 19:05:18,III,16,7489957,Purple adopts existing tactics#II / Napoleonic Army #
+387,Orange,sets up new,II,Mobile Artillery ,2021-03-27 09:33:29,III,15,7489957,Orange sets up new tactics#II / Mobile Artillery #
+388,Grey,adopts existing,I,Phalanx ,2021-03-25 20:19:52,II,11,7489957,Grey adopts existing tactics#I / Phalanx #
+389,Green,sets up new,II,Napoleonic Army ,2021-03-25 20:09:09,II,11,7489957,Green sets up new tactics#II / Napoleonic Army #
+390,Green,sets up new,I,Phalanx ,2021-03-25 09:31:03,II,7,7489957,Green sets up new tactics#I / Phalanx #
+391,Green,adopts existing,I,Medieval Army ,2021-03-25 08:32:05,I,6,7489957,Green adopts existing tactics#I / Medieval Army #
+392,Purple,sets up new,I,Medieval Army ,2021-03-24 14:12:11,I,5,7489957,Purple sets up new tactics#I / Medieval Army #
+393,Orange,sets up new,I,Medieval Army ,2021-03-24 12:48:29,I,5,7489957,Orange sets up new tactics#I / Medieval Army #
+394,Grey,sets up new,I,Fighting Band ,2021-03-24 12:32:18,I,4,7489957,Grey sets up new tactics#I / Fighting Band #
+395,Green,adopts existing,I,Fighting Band ,2021-03-28 19:38:17,II,8,7490325,Green adopts existing tactics#I / Fighting Band #
+396,Orange,sets up new,I,Fighting Band ,2021-03-28 19:22:00,I,7,7490325,Orange sets up new tactics#I / Fighting Band #
+397,Grey,sets up new,I,Fighting Band ,2021-03-28 19:07:44,I,5,7490325,Grey sets up new tactics#I / Fighting Band #
+398,Purple,sets up new,I,Medieval Army ,2021-03-28 18:51:39,I,4,7490325,Purple sets up new tactics#I / Medieval Army #
+399,Orange,adopts existing,II,Napoleonic Army ,2021-04-06 08:59:53,III,17,7490386,Orange adopts existing tactics#II / Napoleonic Army #
+400,Green,adopts existing,II,Napoleonic Army ,2021-04-05 11:33:19,III,13,7490386,Green adopts existing tactics#II / Napoleonic Army #
+401,Orange,sets up new,I,Medieval Army ,2021-04-02 08:31:11,II,11,7490386,Orange sets up new tactics#I / Medieval Army #
+402,Purple,sets up new,II,Napoleonic Army ,2021-03-31 23:34:21,II,10,7490386,Purple sets up new tactics#II / Napoleonic Army #
+403,Orange,adopts existing,I,Legion ,2021-03-31 16:05:02,I,7,7490386,Orange adopts existing tactics#I / Legion #
+404,Purple,sets up new,I,Medieval Army ,2021-03-31 13:41:42,I,6,7490386,Purple sets up new tactics#I / Medieval Army #
+405,Grey,sets up new,I,Legion ,2021-03-31 07:01:08,I,4,7490386,Grey sets up new tactics#I / Legion #
+406,Green,sets up new,I,Phalanx ,2021-03-31 00:42:44,I,4,7490386,Green sets up new tactics#I / Phalanx #
+407,Purple,sets up new,I,Fighting Band ,2021-03-30 22:24:26,I,4,7490386,Purple sets up new tactics#I / Fighting Band #
+408,Orange,adopts existing,II,Defensive Army ,2021-04-17 00:38:18,III,15,7490649,Orange adopts existing tactics#II / Defensive Army #
+409,Orange,adopts existing,II,Mobile Artillery ,2021-04-16 13:07:07,III,14,7490649,Orange adopts existing tactics#II / Mobile Artillery #
+410,Purple,sets up new,II,Defensive Army ,2021-04-15 15:36:49,III,13,7490649,Purple sets up new tactics#II / Defensive Army #
+411,Grey,sets up new,II,Mobile Artillery ,2021-04-15 11:44:29,III,12,7490649,Grey sets up new tactics#II / Mobile Artillery #
+412,Purple,adopts existing,I,Heavy Cavalry ,2021-04-14 21:45:17,II,11,7490649,Purple adopts existing tactics#I / Heavy Cavalry #
+413,Grey,adopts existing,I,Medieval Army ,2021-04-12 12:01:54,II,9,7490649,Grey adopts existing tactics#I / Medieval Army #
+414,Purple,sets up new,I,Medieval Army ,2021-04-09 23:49:23,II,7,7490649,Purple sets up new tactics#I / Medieval Army #
+415,Orange,sets up new,I,Phalanx ,2021-04-09 17:00:20,I,6,7490649,Orange sets up new tactics#I / Phalanx #
+416,Grey,sets up new,I,Fighting Band ,2021-04-09 10:51:20,I,4,7490649,Grey sets up new tactics#I / Fighting Band #
+417,Green,sets up new,I,Heavy Cavalry ,2021-04-09 10:44:21,I,4,7490649,Green sets up new tactics#I / Heavy Cavalry #
+418,Purple,sets up new,I,Fighting Band ,2021-04-09 10:29:12,I,4,7490649,Purple sets up new tactics#I / Fighting Band #
+419,Orange,sets up new,II,Defensive Army ,2021-04-27 11:35:58,III,16,7491046,Orange sets up new tactics#II / Defensive Army #
+420,Purple,sets up new,II,Napoleonic Army ,2021-04-27 04:16:19,III,15,7491046,Purple sets up new tactics#II / Napoleonic Army #
+421,Green,sets up new,II,Conquistadors ,2021-04-26 12:30:41,III,14,7491046,Green sets up new tactics#II / Conquistadors #
+422,Grey,adopts existing,I,Legion ,2021-04-25 22:29:35,III,12,7491046,Grey adopts existing tactics#I / Legion #
+423,Orange,adopts existing,I,Legion ,2021-04-20 22:51:48,II,8,7491046,Orange adopts existing tactics#I / Legion #
+424,Purple,adopts existing,I,Legion ,2021-04-20 18:51:24,I,7,7491046,Purple adopts existing tactics#I / Legion #
+425,Orange,sets up new,I,Fighting Band ,2021-04-20 16:41:23,I,6,7491046,Orange sets up new tactics#I / Fighting Band #
+426,Grey,sets up new,I,Heavy Cavalry ,2021-04-20 14:30:43,I,5,7491046,Grey sets up new tactics#I / Heavy Cavalry #
+427,Green,sets up new,I,Legion ,2021-04-20 14:21:36,I,5,7491046,Green sets up new tactics#I / Legion #
+428,Grey,sets up new,I,Fighting Band ,2021-04-20 07:35:41,I,4,7491046,Grey sets up new tactics#I / Fighting Band #
+429,Purple,adopts existing,III,Entrenchments ,2021-05-21 09:51:01,III,15,7491505,Purple adopts existing tactics#III / Entrenchments #
+430,Orange,sets up new,II,Classic Army ,2021-05-21 09:16:46,III,15,7491505,Orange sets up new tactics#II / Classic Army #
+431,Green,sets up new,III,Entrenchments ,2021-05-20 23:53:31,III,14,7491505,Green sets up new tactics#III / Entrenchments #
+432,Purple,sets up new,II,Defensive Army ,2021-05-12 12:29:31,II,10,7491505,Purple sets up new tactics#II / Defensive Army #
+433,Orange,adopts existing,I,Heavy Cavalry ,2021-05-11 10:39:21,II,9,7491505,Orange adopts existing tactics#I / Heavy Cavalry #
+434,Green,adopts existing,I,Legion ,2021-05-05 11:49:36,II,7,7491505,Green adopts existing tactics#I / Legion #
+435,Grey,adopts existing,I,Legion ,2021-05-04 16:27:26,I,6,7491505,Grey adopts existing tactics#I / Legion #
+436,Purple,sets up new,I,Legion ,2021-05-04 11:21:56,I,5,7491505,Purple sets up new tactics#I / Legion #
+437,Orange,sets up new,I,Phalanx ,2021-05-04 10:06:04,I,5,7491505,Orange sets up new tactics#I / Phalanx #
+438,Grey,sets up new,I,Heavy Cavalry ,2021-05-04 09:33:42,I,4,7491505,Grey sets up new tactics#I / Heavy Cavalry #
+439,Green,sets up new,I,Fighting Band ,2021-05-03 17:20:26,I,4,7491505,Green sets up new tactics#I / Fighting Band #
+440,Purple,sets up new,II,Napoleonic Army ,2021-06-01 11:18:01,II,12,7492262,Purple sets up new tactics#II / Napoleonic Army #
+441,Orange,sets up new,II,Mobile Artillery ,2021-05-31 09:57:45,II,12,7492262,Orange sets up new tactics#II / Mobile Artillery #
+442,Orange,adopts existing,I,Medieval Army ,2021-05-25 23:50:08,II,10,7492262,Orange adopts existing tactics#I / Medieval Army #
+443,Purple,sets up new,I,Medieval Army ,2021-05-25 14:56:57,I,7,7492262,Purple sets up new tactics#I / Medieval Army #
+444,Green,sets up new,I,Legion ,2021-05-25 14:29:36,I,6,7492262,Green sets up new tactics#I / Legion #
+445,Orange,adopts existing,I,Fighting Band ,2021-05-25 13:39:43,I,6,7492262,Orange adopts existing tactics#I / Fighting Band #
+446,Grey,sets up new,I,Medieval Army ,2021-05-24 22:53:36,I,4,7492262,Grey sets up new tactics#I / Medieval Army #
+447,Green,sets up new,I,Fighting Band ,2021-05-24 22:46:19,I,4,7492262,Green sets up new tactics#I / Fighting Band #
+448,Green,sets up new,III,Entrenchments ,2021-06-15 11:28:01,IV,17,7492705,Green sets up new tactics#III / Entrenchments #
+449,Orange,adopts existing,II,Defensive Army ,2021-06-14 16:39:00,III,13,7492705,Orange adopts existing tactics#II / Defensive Army #
+450,Grey,adopts existing,II,Classic Army ,2021-06-14 13:44:58,III,12,7492705,Grey adopts existing tactics#II / Classic Army #
+451,Green,sets up new,II,Defensive Army ,2021-06-11 09:30:21,II,11,7492705,Green sets up new tactics#II / Defensive Army #
+452,Purple,sets up new,II,Classic Army ,2021-06-11 09:03:25,II,11,7492705,Purple sets up new tactics#II / Classic Army #
+453,Orange,adopts existing,I,Legion ,2021-06-09 17:04:06,II,9,7492705,Orange adopts existing tactics#I / Legion #
+454,Green,sets up new,I,Legion ,2021-06-09 11:08:14,II,7,7492705,Green sets up new tactics#I / Legion #
+455,Grey,sets up new,I,Heavy Cavalry ,2021-06-08 06:53:44,I,5,7492705,Grey sets up new tactics#I / Heavy Cavalry #
+456,Purple,sets up new,I,Medieval Army ,2021-06-07 12:41:37,I,3,7492705,Purple sets up new tactics#I / Medieval Army #
+457,Purple,adopts existing,II,Defensive Army ,2021-06-25 15:21:25,III,15,7493040,Purple adopts existing tactics#II / Defensive Army #
+458,Grey,sets up new,II,Defensive Army ,2021-06-25 14:12:18,III,13,7493040,Grey sets up new tactics#II / Defensive Army #
+459,Orange,sets up new,II,Napoleonic Army ,2021-06-25 08:14:55,III,13,7493040,Orange sets up new tactics#II / Napoleonic Army #
+460,Orange,sets up new,I,Phalanx ,2021-06-22 11:58:58,II,8,7493040,Orange sets up new tactics#I / Phalanx #
+461,Grey,adopts existing,I,Legion ,2021-06-22 09:17:50,II,7,7493040,Grey adopts existing tactics#I / Legion #
+462,Purple,sets up new,I,Legion ,2021-06-21 12:55:12,I,5,7493040,Purple sets up new tactics#I / Legion #
+463,Orange,sets up new,I,Fighting Band ,2021-06-21 11:40:13,I,5,7493040,Orange sets up new tactics#I / Fighting Band #
+464,Purple,sets up new,I,Fighting Band ,2021-06-20 20:38:36,I,4,7493040,Purple sets up new tactics#I / Fighting Band #
+465,Green,sets up new,I,Legion ,2021-06-18 18:44:09,I,3,7493040,Green sets up new tactics#I / Legion #
+466,Grey,adopts existing,II,Napoleonic Army ,2021-07-01 14:23:19,IV,17,7493350,Grey adopts existing tactics#II / Napoleonic Army #
+467,Orange,sets up new,III,Mechanized Army ,2021-07-01 13:58:03,III,17,7493350,Orange sets up new tactics#III / Mechanized Army #
+468,Grey,adopts existing,II,Classic Army ,2021-07-01 13:42:11,III,16,7493350,Grey adopts existing tactics#II / Classic Army #
+469,Purple,sets up new,II,Classic Army ,2021-07-01 11:13:40,III,15,7493350,Purple sets up new tactics#II / Classic Army #
+470,Orange,sets up new,II,Fortifications ,2021-07-01 09:45:37,III,14,7493350,Orange sets up new tactics#II / Fortifications #
+471,Grey,sets up new,II,Napoleonic Army ,2021-07-01 08:55:52,III,13,7493350,Grey sets up new tactics#II / Napoleonic Army #
+472,Purple,sets up new,I,Medieval Army ,2021-07-01 08:05:20,II,12,7493350,Purple sets up new tactics#I / Medieval Army #
+473,Green,adopts existing,I,Medieval Army ,2021-06-30 23:05:35,II,11,7493350,Green adopts existing tactics#I / Medieval Army #
+474,Green,adopts existing,I,Fighting Band ,2021-06-29 23:04:52,I,7,7493350,Green adopts existing tactics#I / Fighting Band #
+475,Orange,adopts existing,I,Fighting Band ,2021-06-29 07:57:40,I,6,7493350,Orange adopts existing tactics#I / Fighting Band #
+476,Grey,sets up new,I,Medieval Army ,2021-06-29 07:46:47,I,5,7493350,Grey sets up new tactics#I / Medieval Army #
+477,Purple,sets up new,I,Phalanx ,2021-06-29 00:33:25,I,5,7493350,Purple sets up new tactics#I / Phalanx #
+478,Grey,sets up new,I,Fighting Band ,2021-06-28 18:43:46,I,4,7493350,Grey sets up new tactics#I / Fighting Band #
+479,Green,plays,I,Fighting Band ,2020-03-28 14:49:03,I,8,7472433,Green plays Tactics#I / Fighting Band #
+480,Orange,plays,I,Legion ,2020-03-28 14:39:26,I,8,7472433,Orange plays Tactics#I / Legion #
+481,Grey,plays,I,Fighting Band ,2020-03-28 14:16:26,I,6,7472433,Grey plays Tactics#I / Fighting Band #
+482,Orange,plays,I,Medieval Army ,2020-03-28 14:01:16,I,6,7472433,Orange plays Tactics#I / Medieval Army #
+483,Green,plays,I,Phalanx ,2020-03-28 13:48:03,I,5,7472433,Green plays Tactics#I / Phalanx #
+484,Purple,plays,I,Heavy Cavalry ,2020-03-28 13:23:22,I,4,7472433,Purple plays Tactics#I / Heavy Cavalry #
+485,Orange,plays,I,Legion ,2020-03-28 13:19:18,I,4,7472433,Orange plays Tactics#I / Legion #
+486,Green,plays,I,Phalanx ,2020-03-28 13:09:09,I,3,7472433,Green plays Tactics#I / Phalanx #
+487,Orange,plays,III,Shock Troops ,2020-04-08 17:24:33,III,17,7472434,Orange plays Tactics#III / Shock Troops #
+488,Orange,plays,II,Conquistadors ,2020-04-07 17:49:13,III,15,7472434,Orange plays Tactics#II / Conquistadors #
+489,Green,plays,I,Legion ,2020-04-06 17:24:11,I,6,7472434,Green plays Tactics#I / Legion #
+490,Grey,plays,I,Fighting Band ,2020-04-06 14:20:57,I,5,7472434,Grey plays Tactics#I / Fighting Band #
+491,Orange,plays,I,Medieval Army ,2020-04-06 12:38:25,I,5,7472434,Orange plays Tactics#I / Medieval Army #
+492,Grey,plays,I,Heavy Cavalry ,2020-04-06 12:34:59,I,4,7472434,Grey plays Tactics#I / Heavy Cavalry #
+493,Green,plays,I,Phalanx ,2020-04-05 21:36:30,I,3,7472434,Green plays Tactics#I / Phalanx #
+494,Purple,plays,I,Fighting Band ,2020-04-05 17:53:31,I,3,7472434,Purple plays Tactics#I / Fighting Band #
+495,Purple,plays,II,Classic Army ,2020-04-08 21:48:30,II,13,7473200,Purple plays Tactics#II / Classic Army #
+496,Grey,plays,II,Conquistadors ,2020-04-08 20:37:31,II,12,7473200,Grey plays Tactics#II / Conquistadors #
+497,Orange,plays,I,Medieval Army ,2020-04-08 13:10:14,II,10,7473200,Orange plays Tactics#I / Medieval Army #
+498,Purple,plays,I,Medieval Army ,2020-04-08 12:00:46,II,9,7473200,Purple plays Tactics#I / Medieval Army #
+499,Green,plays,I,Legion ,2020-04-08 10:58:34,II,8,7473200,Green plays Tactics#I / Legion #
+500,Grey,plays,I,Phalanx ,2020-04-07 16:58:14,I,6,7473200,Grey plays Tactics#I / Phalanx #
+501,Purple,plays,I,Fighting Band ,2020-04-07 11:44:47,I,4,7473200,Purple plays Tactics#I / Fighting Band #
+502,Orange,plays,I,Fighting Band ,2020-04-07 11:33:45,I,4,7473200,Orange plays Tactics#I / Fighting Band #
+503,Orange,sets up new,III,Modern Army ,2020-04-14 10:59:41,III,17,7473404,Orange sets up new tactics#III / Modern Army #
+504,Green,adopts existing,I,Legion ,2020-04-13 16:31:46,III,14,7473404,Green adopts existing tactics#I / Legion #
+505,Orange,sets up new,II,Napoleonic Army ,2020-04-13 14:40:11,III,14,7473404,Orange sets up new tactics#II / Napoleonic Army #
+506,Green,adopts existing,I,Fighting Band ,2020-04-13 13:27:44,II,13,7473404,Green adopts existing tactics#I / Fighting Band #
+507,Green,adopts existing,I,Legion ,2020-04-13 11:05:05,II,11,7473404,Green adopts existing tactics#I / Legion #
+508,Orange,adopts existing,I,Medieval Army ,2020-04-13 10:30:05,II,11,7473404,Orange adopts existing tactics#I / Medieval Army #
+509,Purple,adopts existing,I,Medieval Army ,2020-04-12 14:24:03,II,9,7473404,Purple adopts existing tactics#I / Medieval Army #
+510,Orange,adopts existing,I,Fighting Band ,2020-04-12 14:18:00,II,9,7473404,Orange adopts existing tactics#I / Fighting Band #
+511,Purple,sets up new,I,Legion ,2020-04-10 18:31:33,I,7,7473404,Purple sets up new tactics#I / Legion #
+512,Purple,sets up new,I,Fighting Band ,2020-04-10 11:59:44,I,6,7473404,Purple sets up new tactics#I / Fighting Band #
+513,Grey,adopts existing,I,Medieval Army ,2020-04-10 10:32:03,I,5,7473404,Grey adopts existing tactics#I / Medieval Army #
+514,Orange,sets up new,I,Medieval Army ,2020-04-09 13:01:26,I,3,7473404,Orange sets up new tactics#I / Medieval Army #
+515,Orange,sets up new,III,Shock Troops ,2020-04-22 14:49:23,III,18,7473814,Orange sets up new tactics#III / Shock Troops #
+516,Grey,adopts existing,II,Mobile Artillery ,2020-04-22 12:09:58,III,17,7473814,Grey adopts existing tactics#II / Mobile Artillery #
+517,Purple,adopts existing,I,Medieval Army ,2020-04-21 15:14:34,III,16,7473814,Purple adopts existing tactics#I / Medieval Army #
+518,Green,sets up new,II,Mobile Artillery ,2020-04-21 10:33:46,III,14,7473814,Green sets up new tactics#II / Mobile Artillery #
+519,Grey,sets up new,II,Defensive Army ,2020-04-20 19:24:50,II,12,7473814,Grey sets up new tactics#II / Defensive Army #
+520,Orange,adopts existing,I,Medieval Army ,2020-04-20 14:37:44,II,12,7473814,Orange adopts existing tactics#I / Medieval Army #
+521,Green,sets up new,I,Medieval Army ,2020-04-17 15:28:36,II,9,7473814,Green sets up new tactics#I / Medieval Army #
+522,Grey,sets up new,I,Phalanx ,2020-04-17 12:59:03,II,8,7473814,Grey sets up new tactics#I / Phalanx #
+523,Orange,adopts existing,I,Phalanx ,2020-04-17 11:57:46,I,8,7473814,Orange adopts existing tactics#I / Phalanx #
+524,Orange,adopts existing,I,Fighting Band ,2020-04-16 14:49:54,I,6,7473814,Orange adopts existing tactics#I / Fighting Band #
+525,Grey,adopts existing,I,Fighting Band ,2020-04-16 14:30:25,I,5,7473814,Grey adopts existing tactics#I / Fighting Band #
+526,Green,sets up new,I,Fighting Band ,2020-04-15 20:46:36,I,4,7473814,Green sets up new tactics#I / Fighting Band #
+527,Purple,sets up new,I,Legion ,2020-04-15 10:32:13,I,3,7473814,Purple sets up new tactics#I / Legion #
+528,Orange,sets up new,I,Phalanx ,2020-04-15 09:59:47,I,3,7473814,Orange sets up new tactics#I / Phalanx #
+529,Purple,sets up new,III,Shock Troops ,2020-04-29 17:40:54,IV,18,7474472,Purple sets up new tactics#III / Shock Troops #
+530,Orange,sets up new,III,Entrenchments ,2020-04-28 17:49:48,III,16,7474472,Orange sets up new tactics#III / Entrenchments #
+531,Green,sets up new,III,Modern Army ,2020-04-28 17:29:06,III,15,7474472,Green sets up new tactics#III / Modern Army #
+532,Green,adopts existing,I,Legion ,2020-04-27 16:47:43,II,12,7474472,Green adopts existing tactics#I / Legion #
+533,Orange,adopts existing,I,Medieval Army ,2020-04-27 15:53:27,II,12,7474472,Orange adopts existing tactics#I / Medieval Army #
+534,Orange,adopts existing,I,Legion ,2020-04-25 12:04:26,I,7,7474472,Orange adopts existing tactics#I / Legion #
+535,Purple,sets up new,I,Medieval Army ,2020-04-24 18:51:44,I,6,7474472,Purple sets up new tactics#I / Medieval Army #
+536,Grey,sets up new,I,Legion ,2020-04-24 14:34:45,I,4,7474472,Grey sets up new tactics#I / Legion #
+537,Green,sets up new,I,Medieval Army ,2020-04-24 13:24:42,I,4,7474472,Green sets up new tactics#I / Medieval Army #
+538,Purple,adopts existing,I,Fighting Band ,2020-05-03 15:02:03,III,13,7474996,Purple adopts existing tactics#I / Fighting Band #
+539,Green,sets up new,II,Classic Army ,2020-05-02 22:25:42,II,12,7474996,Green sets up new tactics#II / Classic Army #
+540,Green,adopts existing,I,Phalanx ,2020-05-02 15:59:54,II,11,7474996,Green adopts existing tactics#I / Phalanx #
+541,Grey,adopts existing,I,Fighting Band ,2020-05-01 14:39:25,II,8,7474996,Grey adopts existing tactics#I / Fighting Band #
+542,Orange,adopts existing,I,Phalanx ,2020-05-01 10:41:49,I,7,7474996,Orange adopts existing tactics#I / Phalanx #
+543,Green,sets up new,I,Fighting Band ,2020-04-30 15:04:49,I,5,7474996,Green sets up new tactics#I / Fighting Band #
+544,Purple,sets up new,I,Phalanx ,2020-04-30 15:00:40,I,5,7474996,Purple sets up new tactics#I / Phalanx #
+545,Grey,adopts existing,II,Classic Army ,2020-05-16 18:10:44,IV,17,7475368,Grey adopts existing tactics#II / Classic Army #
+546,Purple,adopts existing,II,Classic Army ,2020-05-16 13:49:08,IV,17,7475368,Purple adopts existing tactics#II / Classic Army #
+547,Grey,adopts existing,I,Medieval Army ,2020-05-16 12:58:40,III,16,7475368,Grey adopts existing tactics#I / Medieval Army #
+548,Orange,sets up new,II,Classic Army ,2020-05-16 11:07:28,III,16,7475368,Orange sets up new tactics#II / Classic Army #
+549,Grey,adopts existing,I,Fighting Band ,2020-05-13 14:00:47,II,8,7475368,Grey adopts existing tactics#I / Fighting Band #
+550,Purple,sets up new,I,Medieval Army ,2020-05-12 17:13:12,II,8,7475368,Purple sets up new tactics#I / Medieval Army #
+551,Green,sets up new,I,Fighting Band ,2020-05-12 14:36:08,I,5,7475368,Green sets up new tactics#I / Fighting Band #
+552,Orange,sets up new,I,Fighting Band ,2020-05-12 11:33:06,I,5,7475368,Orange sets up new tactics#I / Fighting Band #
+553,Purple,sets up new,III,Shock Troops ,2020-05-11 18:06:56,IV,18,7475369,Purple sets up new tactics#III / Shock Troops #
+554,Grey,sets up new,III,Modern Army ,2020-05-11 16:23:32,III,16,7475369,Grey sets up new tactics#III / Modern Army #
+555,Green,sets up new,II,Classic Army ,2020-05-11 15:36:43,III,16,7475369,Green sets up new tactics#II / Classic Army #
+556,Orange,sets up new,III,Entrenchments ,2020-05-11 13:54:32,III,16,7475369,Orange sets up new tactics#III / Entrenchments #
+557,Purple,sets up new,II,Conquistadors ,2020-05-11 13:33:24,III,15,7475369,Purple sets up new tactics#II / Conquistadors #
+558,Grey,adopts existing,I,Phalanx ,2020-05-11 10:53:08,II,12,7475369,Grey adopts existing tactics#I / Phalanx #
+559,Purple,sets up new,I,Phalanx ,2020-05-09 15:46:13,II,8,7475369,Purple sets up new tactics#I / Phalanx #
+560,Grey,adopts existing,I,Legion ,2020-05-09 15:11:25,II,7,7475369,Grey adopts existing tactics#I / Legion #
+561,Orange,sets up new,I,Legion ,2020-05-08 22:27:27,I,7,7475369,Orange sets up new tactics#I / Legion #
+562,Green,sets up new,I,Legion ,2020-05-07 12:38:55,I,6,7475369,Green sets up new tactics#I / Legion #
+563,Orange,adopts existing,I,Phalanx ,2020-05-27 13:36:16,IV,19,7476107,Orange adopts existing tactics#I / Phalanx #
+564,Green,sets up new,III,Shock Troops ,2020-05-27 13:15:08,IV,18,7476107,Green sets up new tactics#III / Shock Troops #
+565,Purple,adopts existing,II,Mobile Artillery ,2020-05-27 12:02:21,III,17,7476107,Purple adopts existing tactics#II / Mobile Artillery #
+566,Purple,sets up new,III,Modern Army ,2020-05-27 10:16:56,III,16,7476107,Purple sets up new tactics#III / Modern Army #
+567,Grey,sets up new,II,Mobile Artillery ,2020-05-24 17:22:52,III,14,7476107,Grey sets up new tactics#II / Mobile Artillery #
+568,Grey,adopts existing,I,Medieval Army ,2020-05-23 08:04:52,II,12,7476107,Grey adopts existing tactics#I / Medieval Army #
+569,Green,adopts existing,I,Phalanx ,2020-05-22 20:11:00,II,12,7476107,Green adopts existing tactics#I / Phalanx #
+570,Grey,sets up new,I,Phalanx ,2020-05-19 03:42:51,II,7,7476107,Grey sets up new tactics#I / Phalanx #
+571,Orange,adopts existing,I,Medieval Army ,2020-05-18 19:18:01,I,7,7476107,Orange adopts existing tactics#I / Medieval Army #
+572,Green,adopts existing,I,Fighting Band ,2020-05-18 09:42:28,I,5,7476107,Green adopts existing tactics#I / Fighting Band #
+573,Purple,sets up new,I,Medieval Army ,2020-05-18 09:31:32,I,5,7476107,Purple sets up new tactics#I / Medieval Army #
+574,Grey,sets up new,I,Fighting Band ,2020-05-17 18:43:48,I,4,7476107,Grey sets up new tactics#I / Fighting Band #
+575,Purple,sets up new,I,Fighting Band ,2020-05-17 17:08:25,I,4,7476107,Purple sets up new tactics#I / Fighting Band #
+576,Grey,adopts existing,II,Classic Army ,2020-05-29 18:04:50,IV,19,7476793,Grey adopts existing tactics#II / Classic Army #
+577,Orange,adopts existing,II,Classic Army ,2020-05-29 16:59:24,III,18,7476793,Orange adopts existing tactics#II / Classic Army #
+578,Green,sets up new,II,Classic Army ,2020-05-29 15:43:08,III,16,7476793,Green sets up new tactics#II / Classic Army #
+579,Orange,adopts existing,I,Phalanx ,2020-05-29 12:45:02,III,13,7476793,Orange adopts existing tactics#I / Phalanx #
+580,Purple,adopts existing,I,Phalanx ,2020-05-29 12:03:53,II,12,7476793,Purple adopts existing tactics#I / Phalanx #
+581,Grey,adopts existing,I,Legion ,2020-05-28 18:21:36,II,7,7476793,Grey adopts existing tactics#I / Legion #
+582,Purple,adopts existing,I,Legion ,2020-05-28 17:13:51,I,6,7476793,Purple adopts existing tactics#I / Legion #
+583,Green,sets up new,I,Phalanx ,2020-05-27 22:05:11,I,5,7476793,Green sets up new tactics#I / Phalanx #
+584,Orange,sets up new,I,Legion ,2020-05-27 19:48:59,I,4,7476793,Orange sets up new tactics#I / Legion #
+585,Orange,adopts existing,II,Classic Army ,2020-06-02 09:48:06,III,14,7476918,Orange adopts existing tactics#II / Classic Army #
+586,Green,sets up new,II,Mobile Artillery ,2020-06-02 08:36:04,III,13,7476918,Green sets up new tactics#II / Mobile Artillery #
+587,Purple,sets up new,II,Classic Army ,2020-06-01 21:09:07,II,12,7476918,Purple sets up new tactics#II / Classic Army #
+588,Green,adopts existing,I,Medieval Army ,2020-05-30 14:38:28,I,6,7476918,Green adopts existing tactics#I / Medieval Army #
+589,Purple,adopts existing,I,Medieval Army ,2020-05-30 13:33:45,I,6,7476918,Purple adopts existing tactics#I / Medieval Army #
+590,Orange,sets up new,I,Medieval Army ,2020-05-29 19:23:09,I,4,7476918,Orange sets up new tactics#I / Medieval Army #
+591,Orange,sets up new,II,Classic Army ,2020-06-04 12:23:07,III,17,7477184,Orange sets up new tactics#II / Classic Army #
+592,Grey,adopts existing,I,Legion ,2020-06-04 08:56:39,III,13,7477184,Grey adopts existing tactics#I / Legion #
+593,Green,sets up new,I,Legion ,2020-06-03 16:45:14,II,8,7477184,Green sets up new tactics#I / Legion #
+594,Purple,sets up new,I,Medieval Army ,2020-06-03 16:40:17,II,8,7477184,Purple sets up new tactics#I / Medieval Army #
+595,Grey,sets up new,I,Medieval Army ,2020-06-03 16:29:03,I,7,7477184,Grey sets up new tactics#I / Medieval Army #
+596,Orange,sets up new,I,Legion ,2020-06-03 14:23:54,I,5,7477184,Orange sets up new tactics#I / Legion #
+597,Grey,sets up new,II,Classic Army ,2020-06-08 17:32:03,III,13,7477255,Grey sets up new tactics#II / Classic Army #
+598,Purple,sets up new,I,Medieval Army ,2020-06-07 21:34:07,II,8,7477255,Purple sets up new tactics#I / Medieval Army #
+599,Orange,adopts existing,I,Phalanx ,2020-06-06 17:57:38,I,7,7477255,Orange adopts existing tactics#I / Phalanx #
+600,Green,sets up new,I,Phalanx ,2020-06-06 16:25:16,I,6,7477255,Green sets up new tactics#I / Phalanx #
+601,Orange,adopts existing,I,Legion ,2020-06-06 10:03:34,I,6,7477255,Orange adopts existing tactics#I / Legion #
+602,Grey,sets up new,I,Phalanx ,2020-06-05 23:44:36,I,5,7477255,Grey sets up new tactics#I / Phalanx #
+603,Purple,sets up new,I,Heavy Cavalry ,2020-06-05 21:02:37,I,5,7477255,Purple sets up new tactics#I / Heavy Cavalry #
+604,Green,sets up new,I,Legion ,2020-06-05 18:30:54,I,4,7477255,Green sets up new tactics#I / Legion #
+605,Grey,sets up new,I,Fighting Band ,2020-06-05 12:28:52,I,3,7477255,Grey sets up new tactics#I / Fighting Band #
+606,Orange,sets up new,III,Modern Army ,2020-06-15 13:21:33,IV,18,7477545,Orange sets up new tactics#III / Modern Army #
+607,Orange,sets up new,III,Mechanized Army ,2020-06-15 13:21:18,IV,18,7477545,Orange sets up new tactics#III / Mechanized Army #
+608,Green,adopts existing,II,Napoleonic Army ,2020-06-15 11:14:06,III,15,7477545,Green adopts existing tactics#II / Napoleonic Army #
+609,Grey,adopts existing,I,Phalanx ,2020-06-14 11:40:43,III,13,7477545,Grey adopts existing tactics#I / Phalanx #
+610,Grey,adopts existing,I,Fighting Band ,2020-06-12 15:42:19,III,12,7477545,Grey adopts existing tactics#I / Fighting Band #
+611,Green,adopts existing,I,Phalanx ,2020-06-12 11:24:18,III,12,7477545,Green adopts existing tactics#I / Phalanx #
+612,Orange,sets up new,II,Napoleonic Army ,2020-06-12 10:11:51,II,12,7477545,Orange sets up new tactics#II / Napoleonic Army #
+613,Orange,adopts existing,I,Phalanx ,2020-06-11 18:53:28,II,10,7477545,Orange adopts existing tactics#I / Phalanx #
+614,Purple,adopts existing,I,Phalanx ,2020-06-11 10:01:48,II,8,7477545,Purple adopts existing tactics#I / Phalanx #
+615,Orange,adopts existing,I,Fighting Band ,2020-06-11 09:53:19,II,8,7477545,Orange adopts existing tactics#I / Fighting Band #
+616,Purple,sets up new,I,Fighting Band ,2020-06-10 12:34:50,I,6,7477545,Purple sets up new tactics#I / Fighting Band #
+617,Green,sets up new,I,Legion ,2020-06-10 11:12:45,I,5,7477545,Green sets up new tactics#I / Legion #
+618,Grey,sets up new,I,Phalanx ,2020-06-09 19:49:20,I,4,7477545,Grey sets up new tactics#I / Phalanx #
+619,Green,adopts existing,II,Classic Army ,2020-06-16 20:25:41,III,14,7477831,Green adopts existing tactics#II / Classic Army #
+620,Grey,sets up new,II,Defensive Army ,2020-06-16 19:02:30,III,13,7477831,Grey sets up new tactics#II / Defensive Army #
+621,Purple,sets up new,II,Classic Army ,2020-06-16 17:08:48,III,13,7477831,Purple sets up new tactics#II / Classic Army #
+622,Purple,sets up new,I,Medieval Army ,2020-06-16 16:22:39,II,12,7477831,Purple sets up new tactics#I / Medieval Army #
+623,Green,sets up new,I,Medieval Army ,2020-06-16 11:08:38,II,8,7477831,Green sets up new tactics#I / Medieval Army #
+624,Purple,adopts existing,I,Legion ,2020-06-16 10:44:32,II,8,7477831,Purple adopts existing tactics#I / Legion #
+625,Purple,adopts existing,I,Fighting Band ,2020-06-16 09:56:31,I,7,7477831,Purple adopts existing tactics#I / Fighting Band #
+626,Grey,adopts existing,I,Fighting Band ,2020-06-16 06:53:18,I,6,7477831,Grey adopts existing tactics#I / Fighting Band #
+627,Green,sets up new,I,Legion ,2020-06-15 18:37:23,I,6,7477831,Green sets up new tactics#I / Legion #
+628,Orange,sets up new,I,Fighting Band ,2020-06-15 16:39:24,I,4,7477831,Orange sets up new tactics#I / Fighting Band #
+629,Green,plays,III,Shock Troops ,2020-06-21 14:08:00,III,16,7477939,Green plays Tactics#III / Shock Troops #
+630,Orange,plays,II,Conquistadors ,2020-06-19 18:17:11,III,15,7477939,Orange plays Tactics#II / Conquistadors #
+631,Grey,plays,II,Classic Army ,2020-06-18 17:33:28,III,13,7477939,Grey plays Tactics#II / Classic Army #
+632,Orange,plays,I,Phalanx ,2020-06-17 20:00:37,I,7,7477939,Orange plays Tactics#I / Phalanx #
+633,Green,plays,I,Fighting Band ,2020-06-17 19:03:02,I,6,7477939,Green plays Tactics#I / Fighting Band #
+634,Purple,plays,I,Medieval Army ,2020-06-17 17:34:02,I,5,7477939,Purple plays Tactics#I / Medieval Army #
+635,Orange,plays,I,Fighting Band ,2020-06-17 17:29:54,I,5,7477939,Orange plays Tactics#I / Fighting Band #
+636,Grey,plays,I,Medieval Army ,2020-06-17 16:31:55,I,3,7477939,Grey plays Tactics#I / Medieval Army #
+637,Orange,plays,I,Medieval Army ,2020-06-23 10:12:05,II,9,7478150,Orange plays Tactics#I / Medieval Army #
+638,Orange,plays,I,Fighting Band ,2020-06-22 12:53:05,I,6,7478150,Orange plays Tactics#I / Fighting Band #
+639,Grey,plays,I,Medieval Army ,2020-06-22 10:05:28,I,3,7478150,Grey plays Tactics#I / Medieval Army #
+640,Purple,plays,I,Fighting Band ,2020-06-22 09:57:07,I,3,7478150,Purple plays Tactics#I / Fighting Band #
+641,Purple,plays,II,Tercios ,2020-06-25 12:31:46,II,13,7478280,Purple plays Tactics#II / Tercios #
+642,Orange,plays,II,Conquistadors ,2020-06-25 12:21:11,II,13,7478280,Orange plays Tactics#II / Conquistadors #
+643,Grey,plays,II,Napoleonic Army ,2020-06-25 12:14:11,II,12,7478280,Grey plays Tactics#II / Napoleonic Army #
+644,Green,plays,II,Classic Army ,2020-06-25 12:10:57,II,12,7478280,Green plays Tactics#II / Classic Army #
+645,Grey,plays,I,Legion ,2020-06-25 09:13:42,II,8,7478280,Grey plays Tactics#I / Legion #
+646,Purple,plays,I,Fighting Band ,2020-06-24 22:34:47,I,8,7478280,Purple plays Tactics#I / Fighting Band #
+647,Orange,plays,I,Medieval Army ,2020-06-24 14:08:23,I,6,7478280,Orange plays Tactics#I / Medieval Army #
+648,Grey,plays,I,Fighting Band ,2020-06-24 14:03:38,I,5,7478280,Grey plays Tactics#I / Fighting Band #
+649,Green,plays,I,Phalanx ,2020-06-24 13:53:58,I,5,7478280,Green plays Tactics#I / Phalanx #
+650,Orange,plays,I,Legion ,2020-06-24 13:42:51,I,5,7478280,Orange plays Tactics#I / Legion #
+651,Green,plays,I,Fighting Band ,2020-06-24 13:04:47,I,4,7478280,Green plays Tactics#I / Fighting Band #
+652,Purple,plays,I,Medieval Army ,2020-06-24 11:58:07,I,3,7478280,Purple plays Tactics#I / Medieval Army #
+653,Grey,plays,I,Legion ,2020-07-13 12:08:26,II,11,7478389,Grey plays Tactics#I / Legion #
+654,Purple,plays,I,Medieval Army ,2020-07-06 16:17:49,II,8,7478389,Purple plays Tactics#I / Medieval Army #
+655,Orange,plays,I,Fighting Band ,2020-06-28 18:13:06,I,5,7478389,Orange plays Tactics#I / Fighting Band #
+656,Purple,plays,I,Fighting Band ,2020-06-28 11:23:37,I,4,7478389,Purple plays Tactics#I / Fighting Band #
+657,Green,plays,II,Classic Army ,2020-07-21 12:38:08,III,14,7479251,Green plays Tactics#II / Classic Army #
+658,Grey,plays,II,Napoleonic Army ,2020-07-20 20:58:53,III,13,7479251,Grey plays Tactics#II / Napoleonic Army #
+659,Grey,plays,I,Medieval Army ,2020-07-18 17:05:22,I,7,7479251,Grey plays Tactics#I / Medieval Army #
+660,Orange,plays,I,Phalanx ,2020-07-17 11:20:50,I,5,7479251,Orange plays Tactics#I / Phalanx #
+661,Green,plays,I,Fighting Band ,2020-07-16 21:25:15,I,4,7479251,Green plays Tactics#I / Fighting Band #
+662,Purple,plays,I,Fighting Band ,2020-07-16 00:43:17,I,3,7479251,Purple plays Tactics#I / Fighting Band #
+663,Green,plays,II,Tercios ,2020-07-25 19:32:11,II,12,7479593,Green plays Tactics#II / Tercios #
+664,Grey,plays,II,Classic Army ,2020-07-24 14:01:31,II,10,7479593,Grey plays Tactics#II / Classic Army #
+665,Purple,plays,I,Medieval Army ,2020-07-23 21:13:47,I,7,7479593,Purple plays Tactics#I / Medieval Army #
+666,Orange,plays,I,Phalanx ,2020-07-23 20:35:12,I,7,7479593,Orange plays Tactics#I / Phalanx #
+667,Grey,plays,I,Fighting Band ,2020-07-23 08:50:04,I,5,7479593,Grey plays Tactics#I / Fighting Band #
+668,Green,plays,I,Legion ,2020-07-22 23:26:18,I,5,7479593,Green plays Tactics#I / Legion #
+669,Grey,sets up new,III,Entrenchments ,2020-08-06 11:55:54,III,15,7479938,Grey sets up new tactics#III / Entrenchments #
+670,Green,sets up new,II,Fortifications ,2020-08-06 11:20:21,III,15,7479938,Green sets up new tactics#II / Fortifications #
+671,Orange,sets up new,II,Conquistadors ,2020-08-06 11:05:01,III,15,7479938,Orange sets up new tactics#II / Conquistadors #
+672,Purple,sets up new,I,Medieval Army ,2020-08-04 19:13:33,II,8,7479938,Purple sets up new tactics#I / Medieval Army #
+673,Orange,sets up new,I,Medieval Army ,2020-08-04 15:38:01,I,7,7479938,Orange sets up new tactics#I / Medieval Army #
+674,Green,adopts existing,I,Fighting Band ,2020-08-04 11:16:59,I,5,7479938,Green adopts existing tactics#I / Fighting Band #
+675,Purple,sets up new,I,Fighting Band ,2020-08-03 23:51:33,I,5,7479938,Purple sets up new tactics#I / Fighting Band #
+676,Grey,sets up new,I,Fighting Band ,2020-08-03 11:40:26,I,3,7479938,Grey sets up new tactics#I / Fighting Band #
+677,Orange,sets up new,II,Fortifications ,2020-08-10 22:53:45,III,13,7480288,Orange sets up new tactics#II / Fortifications #
+678,Grey,adopts existing,I,Fighting Band ,2020-08-10 15:33:29,I,6,7480288,Grey adopts existing tactics#I / Fighting Band #
+679,Orange,adopts existing,I,Fighting Band ,2020-08-09 22:28:49,I,6,7480288,Orange adopts existing tactics#I / Fighting Band #
+680,Purple,sets up new,I,Fighting Band ,2020-08-09 13:18:03,I,5,7480288,Purple sets up new tactics#I / Fighting Band #
+681,Green,sets up new,I,Fighting Band ,2020-08-07 14:57:15,I,4,7480288,Green sets up new tactics#I / Fighting Band #
+682,Green,adopts existing,I,Heavy Cavalry ,2020-08-14 01:12:19,III,14,7480536,Green adopts existing tactics#I / Heavy Cavalry #
+683,Orange,sets up new,II,Defensive Army ,2020-08-13 20:49:01,III,14,7480536,Orange sets up new tactics#II / Defensive Army #
+684,Purple,sets up new,II,Mobile Artillery ,2020-08-13 17:41:21,III,13,7480536,Purple sets up new tactics#II / Mobile Artillery #
+685,Orange,sets up new,II,Fortifications ,2020-08-13 16:58:36,III,13,7480536,Orange sets up new tactics#II / Fortifications #
+686,Green,adopts existing,I,Medieval Army ,2020-08-13 12:20:44,II,9,7480536,Green adopts existing tactics#I / Medieval Army #
+687,Grey,adopts existing,I,Legion ,2020-08-13 08:32:26,II,7,7480536,Grey adopts existing tactics#I / Legion #
+688,Purple,sets up new,I,Heavy Cavalry ,2020-08-12 20:51:44,II,7,7480536,Purple sets up new tactics#I / Heavy Cavalry #
+689,Green,sets up new,I,Legion ,2020-08-12 16:00:56,I,6,7480536,Green sets up new tactics#I / Legion #
+690,Orange,adopts existing,I,Fighting Band ,2020-08-12 13:00:08,I,6,7480536,Orange adopts existing tactics#I / Fighting Band #
+691,Grey,sets up new,I,Fighting Band ,2020-08-12 10:16:22,I,4,7480536,Grey sets up new tactics#I / Fighting Band #
+692,Purple,sets up new,I,Medieval Army ,2020-08-11 22:04:03,I,3,7480536,Purple sets up new tactics#I / Medieval Army #
+693,Grey,sets up new,III,Mechanized Army ,2020-08-19 10:10:55,IV,17,7480677,Grey sets up new tactics#III / Mechanized Army #
+694,Purple,sets up new,II,Fortifications ,2020-08-18 16:22:36,III,14,7480677,Purple sets up new tactics#II / Fortifications #
+695,Grey,adopts existing,II,Mobile Artillery ,2020-08-18 14:12:30,III,13,7480677,Grey adopts existing tactics#II / Mobile Artillery #
+696,Green,sets up new,II,Conquistadors ,2020-08-18 14:06:12,III,13,7480677,Green sets up new tactics#II / Conquistadors #
+697,Purple,adopts existing,I,Fighting Band ,2020-08-18 09:29:06,II,12,7480677,Purple adopts existing tactics#I / Fighting Band #
+698,Orange,sets up new,II,Mobile Artillery ,2020-08-18 09:20:22,II,12,7480677,Orange sets up new tactics#II / Mobile Artillery #
+699,Orange,adopts existing,I,Medieval Army ,2020-08-17 21:09:57,II,11,7480677,Orange adopts existing tactics#I / Medieval Army #
+700,Green,sets up new,I,Heavy Cavalry ,2020-08-17 13:53:00,I,7,7480677,Green sets up new tactics#I / Heavy Cavalry #
+701,Purple,sets up new,I,Medieval Army ,2020-08-17 12:44:17,I,7,7480677,Purple sets up new tactics#I / Medieval Army #
+702,Grey,adopts existing,I,Fighting Band ,2020-08-17 12:18:18,I,6,7480677,Grey adopts existing tactics#I / Fighting Band #
+703,Orange,sets up new,I,Fighting Band ,2020-08-17 11:45:08,I,5,7480677,Orange sets up new tactics#I / Fighting Band #
+704,Purple,sets up new,III,Modern Army ,2020-08-24 14:46:07,IV,17,7480887,Purple sets up new tactics#III / Modern Army #
+705,Purple,adopts existing,III,Entrenchments ,2020-08-24 13:28:01,III,16,7480887,Purple adopts existing tactics#III / Entrenchments #
+706,Green,sets up new,III,Entrenchments ,2020-08-24 11:57:52,III,14,7480887,Green sets up new tactics#III / Entrenchments #
+707,Grey,sets up new,II,Napoleonic Army ,2020-08-24 10:38:36,III,13,7480887,Grey sets up new tactics#II / Napoleonic Army #
+708,Green,sets up new,II,Defensive Army ,2020-08-24 10:30:46,III,13,7480887,Green sets up new tactics#II / Defensive Army #
+709,Grey,adopts existing,I,Medieval Army ,2020-08-23 21:36:50,II,11,7480887,Grey adopts existing tactics#I / Medieval Army #
+710,Orange,adopts existing,I,Legion ,2020-08-22 17:23:14,II,11,7480887,Orange adopts existing tactics#I / Legion #
+711,Grey,adopts existing,I,Phalanx ,2020-08-21 10:50:06,II,9,7480887,Grey adopts existing tactics#I / Phalanx #
+712,Green,sets up new,I,Phalanx ,2020-08-20 15:45:23,I,7,7480887,Green sets up new tactics#I / Phalanx #
+713,Green,sets up new,I,Fighting Band ,2020-08-20 14:54:24,I,6,7480887,Green sets up new tactics#I / Fighting Band #
+714,Orange,sets up new,I,Heavy Cavalry ,2020-08-20 14:24:41,I,6,7480887,Orange sets up new tactics#I / Heavy Cavalry #
+715,Grey,sets up new,I,Medieval Army ,2020-08-20 12:50:42,I,5,7480887,Grey sets up new tactics#I / Medieval Army #
+716,Orange,sets up new,I,Fighting Band ,2020-08-20 11:20:46,I,5,7480887,Orange sets up new tactics#I / Fighting Band #
+717,Purple,sets up new,I,Legion ,2020-08-19 18:41:46,I,4,7480887,Purple sets up new tactics#I / Legion #
+718,Green,adopts existing,II,Classic Army ,2020-08-31 21:35:01,III,14,7481117,Green adopts existing tactics#II / Classic Army #
+719,Orange,sets up new,II,Defensive Army ,2020-08-31 11:29:21,II,12,7481117,Orange sets up new tactics#II / Defensive Army #
+720,Grey,adopts existing,I,Fighting Band ,2020-08-31 10:39:07,II,11,7481117,Grey adopts existing tactics#I / Fighting Band #
+721,Green,adopts existing,I,Fighting Band ,2020-08-31 10:09:06,II,11,7481117,Green adopts existing tactics#I / Fighting Band #
+722,Purple,sets up new,II,Classic Army ,2020-08-27 18:29:58,II,9,7481117,Purple sets up new tactics#II / Classic Army #
+723,Purple,adopts existing,I,Phalanx ,2020-08-26 14:22:30,I,6,7481117,Purple adopts existing tactics#I / Phalanx #
+724,Green,sets up new,I,Medieval Army ,2020-08-26 13:59:27,I,5,7481117,Green sets up new tactics#I / Medieval Army #
+725,Purple,sets up new,I,Fighting Band ,2020-08-25 14:15:50,I,4,7481117,Purple sets up new tactics#I / Fighting Band #
+726,Orange,sets up new,I,Phalanx ,2020-08-25 14:13:34,I,4,7481117,Orange sets up new tactics#I / Phalanx #
+727,Orange,plays,II,Napoleonic Army ,2020-09-08 18:43:01,III,16,7481459,Orange plays Tactics#II / Napoleonic Army #
+728,Purple,plays,II,Classic Army ,2020-09-08 12:51:21,II,12,7481459,Purple plays Tactics#II / Classic Army #
+729,Grey,plays,II,Defensive Army ,2020-09-08 11:19:42,II,10,7481459,Grey plays Tactics#II / Defensive Army #
+730,Purple,plays,I,Medieval Army ,2020-09-03 14:57:32,I,7,7481459,Purple plays Tactics#I / Medieval Army #
+731,Green,plays,I,Fighting Band ,2020-09-03 13:06:18,I,6,7481459,Green plays Tactics#I / Fighting Band #
+732,Grey,plays,I,Fighting Band ,2020-09-03 12:07:06,I,5,7481459,Grey plays Tactics#I / Fighting Band #
+733,Orange,plays,I,Medieval Army ,2020-09-02 12:43:23,I,4,7481459,Orange plays Tactics#I / Medieval Army #
+734,Grey,plays,II,Mobile Artillery ,2020-09-14 16:37:39,III,17,7481844,Grey plays Tactics#II / Mobile Artillery #
+735,Green,plays,III,Entrenchments ,2020-09-14 16:33:19,III,17,7481844,Green plays Tactics#III / Entrenchments #
+736,Purple,plays,II,Classic Army ,2020-09-14 07:32:23,III,14,7481844,Purple plays Tactics#II / Classic Army #
+737,Orange,plays,II,Tercios ,2020-09-13 22:26:09,II,12,7481844,Orange plays Tactics#II / Tercios #
+738,Grey,plays,II,Conquistadors ,2020-09-13 22:19:43,II,11,7481844,Grey plays Tactics#II / Conquistadors #
+739,Green,plays,I,Phalanx ,2020-09-13 09:42:17,II,8,7481844,Green plays Tactics#I / Phalanx #
+740,Purple,plays,I,Medieval Army ,2020-09-12 23:56:16,II,8,7481844,Purple plays Tactics#I / Medieval Army #
+741,Orange,plays,I,Fighting Band ,2020-09-11 10:17:39,I,4,7481844,Orange plays Tactics#I / Fighting Band #
+742,Grey,plays,I,Phalanx ,2020-09-10 21:28:35,I,3,7481844,Grey plays Tactics#I / Phalanx #
+743,Green,plays,I,Fighting Band ,2020-09-10 21:22:58,I,3,7481844,Green plays Tactics#I / Fighting Band #
+744,Orange,plays,III,Modern Army ,2020-09-21 14:15:33,III,17,7482019,Orange plays Tactics#III / Modern Army #
+745,Green,plays,III,Shock Troops ,2020-09-21 10:52:46,III,14,7482019,Green plays Tactics#III / Shock Troops #
+746,Grey,plays,II,Classic Army ,2020-09-20 22:20:07,II,12,7482019,Grey plays Tactics#II / Classic Army #
+747,Purple,plays,II,Defensive Army ,2020-09-18 20:29:06,II,11,7482019,Purple plays Tactics#II / Defensive Army #
+748,Orange,plays,I,Phalanx ,2020-09-15 17:19:16,I,8,7482019,Orange plays Tactics#I / Phalanx #
+749,Purple,plays,I,Fighting Band ,2020-09-15 12:38:26,I,5,7482019,Purple plays Tactics#I / Fighting Band #
+750,Orange,plays,I,Legion ,2020-09-15 12:35:14,I,5,7482019,Orange plays Tactics#I / Legion #
+751,Grey,plays,I,Phalanx ,2020-09-15 12:27:47,I,4,7482019,Grey plays Tactics#I / Phalanx #
+752,Green,plays,I,Phalanx ,2020-09-15 12:17:58,I,4,7482019,Green plays Tactics#I / Phalanx #
+753,Purple,plays,I,Medieval Army ,2020-09-15 08:51:41,I,3,7482019,Purple plays Tactics#I / Medieval Army #
+754,Purple,plays,III,Modern Army ,2020-10-03 01:00:45,III,17,7482338,Purple plays Tactics#III / Modern Army #
+755,Purple,plays,II,Tercios ,2020-10-02 15:11:22,III,15,7482338,Purple plays Tactics#II / Tercios #
+756,Orange,plays,II,Hussars ,2020-09-30 15:47:10,II,13,7482338,Orange plays Tactics#II / Hussars #
+757,Green,plays,II,Classic Army ,2020-09-29 23:21:47,II,12,7482338,Green plays Tactics#II / Classic Army #
+758,Green,plays,I,Medieval Army ,2020-09-29 10:30:20,II,9,7482338,Green plays Tactics#I / Medieval Army #
+759,Purple,plays,I,Medieval Army ,2020-09-28 07:18:13,I,8,7482338,Purple plays Tactics#I / Medieval Army #
+760,Grey,plays,I,Medieval Army ,2020-09-26 14:23:54,I,7,7482338,Grey plays Tactics#I / Medieval Army #
+761,Green,plays,I,Fighting Band ,2020-09-22 15:14:03,I,4,7482338,Green plays Tactics#I / Fighting Band #
+762,Grey,plays,I,Fighting Band ,2020-09-22 14:58:30,I,3,7482338,Grey plays Tactics#I / Fighting Band #
+763,Orange,plays,III,Entrenchments ,2020-10-14 14:54:08,III,16,7482908,Orange plays Tactics#III / Entrenchments #
+764,Purple,plays,II,Classic Army ,2020-10-14 10:55:44,III,14,7482908,Purple plays Tactics#II / Classic Army #
+765,Orange,plays,II,Tercios ,2020-10-12 13:49:01,II,11,7482908,Orange plays Tactics#II / Tercios #
+766,Grey,plays,I,Phalanx ,2020-10-11 09:38:16,II,8,7482908,Grey plays Tactics#I / Phalanx #
+767,Green,plays,I,Legion ,2020-10-08 10:26:56,I,5,7482908,Green plays Tactics#I / Legion #
+768,Orange,plays,I,Fighting Band ,2020-10-07 17:15:35,I,5,7482908,Orange plays Tactics#I / Fighting Band #
+769,Purple,plays,I,Medieval Army ,2020-10-07 16:40:22,I,4,7482908,Purple plays Tactics#I / Medieval Army #
+770,Green,plays,II,Napoleonic Army ,2020-10-30 06:37:13,III,16,7483387,Green plays Tactics#II / Napoleonic Army #
+771,Purple,plays,II,Conquistadors ,2020-10-28 20:00:36,II,14,7483387,Purple plays Tactics#II / Conquistadors #
+772,Orange,plays,II,Mobile Artillery ,2020-10-28 13:39:17,II,12,7483387,Orange plays Tactics#II / Mobile Artillery #
+773,Purple,plays,I,Light Cavalry ,2020-10-20 18:02:35,II,8,7483387,Purple plays Tactics#I / Light Cavalry #
+774,Green,plays,I,Phalanx ,2020-10-19 20:40:59,I,6,7483387,Green plays Tactics#I / Phalanx #
+775,Grey,plays,I,Fighting Band ,2020-10-19 12:26:15,I,5,7483387,Grey plays Tactics#I / Fighting Band #
+776,Orange,plays,I,Medieval Army ,2020-10-19 08:28:51,I,5,7483387,Orange plays Tactics#I / Medieval Army #
+777,Orange,plays,III,Modern Army ,2020-11-16 16:43:52,III,18,7484166,Orange plays Tactics#III / Modern Army #
+778,Purple,plays,II,Tercios ,2020-11-16 08:05:58,III,15,7484166,Purple plays Tactics#II / Tercios #
+779,Grey,plays,II,Defensive Army ,2020-11-13 15:46:05,II,13,7484166,Grey plays Tactics#II / Defensive Army #
+780,Green,plays,II,Mobile Artillery ,2020-11-13 15:11:12,II,13,7484166,Green plays Tactics#II / Mobile Artillery #
+781,Grey,plays,I,Medieval Army ,2020-11-08 00:58:46,I,4,7484166,Grey plays Tactics#I / Medieval Army #
+782,Green,plays,I,Legion ,2020-11-06 13:49:19,I,3,7484166,Green plays Tactics#I / Legion #
+783,Purple,plays,I,Fighting Band ,2020-11-06 13:38:47,I,3,7484166,Purple plays Tactics#I / Fighting Band #
+784,Orange,plays,I,Medieval Army ,2020-11-06 13:30:41,I,3,7484166,Orange plays Tactics#I / Medieval Army #
+785,Green,plays,III,Modern Army ,2020-12-01 09:35:17,IV,19,7484894,Green plays Tactics#III / Modern Army #
+786,Orange,plays,III,Shock Troops ,2020-11-30 12:00:47,III,17,7484894,Orange plays Tactics#III / Shock Troops #
+787,Grey,plays,II,Classic Army ,2020-11-28 00:03:24,III,14,7484894,Grey plays Tactics#II / Classic Army #
+788,Purple,plays,II,Conquistadors ,2020-11-26 08:35:56,II,14,7484894,Purple plays Tactics#II / Conquistadors #
+789,Orange,plays,II,Conquistadors ,2020-11-26 00:17:01,II,14,7484894,Orange plays Tactics#II / Conquistadors #
+790,Green,plays,I,Phalanx ,2020-11-21 09:14:04,II,9,7484894,Green plays Tactics#I / Phalanx #
+791,Orange,plays,I,Phalanx ,2020-11-19 23:09:12,I,8,7484894,Orange plays Tactics#I / Phalanx #
+792,Purple,plays,I,Medieval Army ,2020-11-19 13:29:11,I,7,7484894,Purple plays Tactics#I / Medieval Army #
+793,Grey,plays,I,Legion ,2020-11-19 09:56:46,I,6,7484894,Grey plays Tactics#I / Legion #
+794,Grey,plays,I,Fighting Band ,2020-11-19 07:40:28,I,5,7484894,Grey plays Tactics#I / Fighting Band #
+795,Purple,plays,I,Fighting Band ,2020-11-18 17:38:46,I,5,7484894,Purple plays Tactics#I / Fighting Band #
+796,Green,plays,I,Fighting Band ,2020-11-18 08:28:35,I,4,7484894,Green plays Tactics#I / Fighting Band #
+797,Grey,plays,III,Shock Troops ,2020-12-22 11:20:35,IV,19,7485891,Grey plays Tactics#III / Shock Troops #
+798,Green,plays,II,Classic Army ,2020-12-18 07:36:38,III,14,7485891,Green plays Tactics#II / Classic Army #
+799,Grey,plays,II,Tercios ,2020-12-17 21:29:22,II,13,7485891,Grey plays Tactics#II / Tercios #
+800,Purple,plays,II,Conquistadors ,2020-12-17 20:22:02,II,13,7485891,Purple plays Tactics#II / Conquistadors #
+801,Grey,plays,I,Medieval Army ,2020-12-17 10:16:25,II,10,7485891,Grey plays Tactics#I / Medieval Army #
+802,Purple,plays,I,Medieval Army ,2020-12-17 08:56:03,II,10,7485891,Purple plays Tactics#I / Medieval Army #
+803,Orange,plays,I,Phalanx ,2020-12-17 07:44:45,II,10,7485891,Orange plays Tactics#I / Phalanx #
+804,Orange,plays,I,Fighting Band ,2020-12-10 13:19:59,I,5,7485891,Orange plays Tactics#I / Fighting Band #
+805,Grey,plays,I,Legion ,2020-12-10 13:18:02,I,4,7485891,Grey plays Tactics#I / Legion #
+806,Green,plays,I,Fighting Band ,2020-12-10 12:44:51,I,4,7485891,Green plays Tactics#I / Fighting Band #
+807,Purple,plays,I,Legion ,2020-12-10 12:42:13,I,4,7485891,Purple plays Tactics#I / Legion #
+808,Grey,plays,I,Medieval Army ,2020-12-10 11:18:38,I,3,7485891,Grey plays Tactics#I / Medieval Army #
+809,Orange,plays,III,Modern Army ,2021-01-05 11:19:31,III,17,7486444,Orange plays Tactics#III / Modern Army #
+810,Green,plays,II,Fortifications ,2021-01-04 16:55:37,III,14,7486444,Green plays Tactics#II / Fortifications #
+811,Purple,plays,II,Classic Army ,2021-01-04 16:48:55,III,14,7486444,Purple plays Tactics#II / Classic Army #
+812,Purple,plays,II,Conquistadors ,2021-01-04 15:59:54,II,13,7486444,Purple plays Tactics#II / Conquistadors #
+813,Grey,plays,II,Napoleonic Army ,2021-01-04 09:56:43,II,10,7486444,Grey plays Tactics#II / Napoleonic Army #
+814,Green,plays,I,Fighting Band ,2020-12-29 16:15:01,I,7,7486444,Green plays Tactics#I / Fighting Band #
+815,Purple,plays,I,Phalanx ,2020-12-29 08:30:59,I,6,7486444,Purple plays Tactics#I / Phalanx #
+816,Orange,plays,I,Phalanx ,2020-12-24 13:49:02,I,5,7486444,Orange plays Tactics#I / Phalanx #
+817,Grey,plays,I,Medieval Army ,2020-12-23 09:12:51,I,3,7486444,Grey plays Tactics#I / Medieval Army #
+818,Purple,plays,III,Modern Army ,2021-01-30 20:07:53,IV,19,7487030,Purple plays Tactics#III / Modern Army #
+819,Grey,plays,II,Napoleonic Army ,2021-01-30 12:21:04,III,17,7487030,Grey plays Tactics#II / Napoleonic Army #
+820,Purple,plays,III,Shock Troops ,2021-01-29 16:13:15,III,15,7487030,Purple plays Tactics#III / Shock Troops #
+821,Orange,plays,II,Classic Army ,2021-01-27 20:38:22,II,14,7487030,Orange plays Tactics#II / Classic Army #
+822,Orange,plays,II,Conquistadors ,2021-01-26 07:27:14,II,11,7487030,Orange plays Tactics#II / Conquistadors #
+823,Green,plays,I,Phalanx ,2021-01-23 11:34:18,II,8,7487030,Green plays Tactics#I / Phalanx #
+824,Orange,plays,I,Medieval Army ,2021-01-13 14:02:59,I,6,7487030,Orange plays Tactics#I / Medieval Army #
+825,Purple,plays,I,Medieval Army ,2021-01-13 13:39:41,I,5,7487030,Purple plays Tactics#I / Medieval Army #
+826,Grey,plays,I,Medieval Army ,2021-01-13 10:01:15,I,4,7487030,Grey plays Tactics#I / Medieval Army #
+827,Green,plays,I,Fighting Band ,2021-01-11 22:20:33,I,3,7487030,Green plays Tactics#I / Fighting Band #
+828,Green,plays,III,Mechanized Army ,2021-02-16 10:40:19,III,16,7488202,Green plays Tactics#III / Mechanized Army #
+829,Grey,plays,II,Napoleonic Army ,2021-02-11 12:25:56,III,13,7488202,Grey plays Tactics#II / Napoleonic Army #
+830,Orange,plays,II,Classic Army ,2021-02-11 10:18:03,II,13,7488202,Orange plays Tactics#II / Classic Army #
+831,Green,plays,II,Mobile Artillery ,2021-02-07 10:40:34,II,10,7488202,Green plays Tactics#II / Mobile Artillery #
+832,Purple,plays,II,Tercios ,2021-02-06 02:04:28,II,10,7488202,Purple plays Tactics#II / Tercios #
+833,Purple,plays,I,Fighting Band ,2021-02-03 15:53:28,I,5,7488202,Purple plays Tactics#I / Fighting Band #
+834,Orange,plays,I,Legion ,2021-02-03 15:41:13,I,5,7488202,Orange plays Tactics#I / Legion #
+835,Grey,plays,I,Phalanx ,2021-02-03 14:16:10,I,4,7488202,Grey plays Tactics#I / Phalanx #
+836,Grey,plays,I,Light Cavalry ,2021-02-03 10:56:34,I,3,7488202,Grey plays Tactics#I / Light Cavalry #
+837,Green,plays,I,Medieval Army ,2021-02-02 17:42:58,I,3,7488202,Green plays Tactics#I / Medieval Army #
+838,Grey,adopts existing,II,Classic Army ,2021-03-02 15:19:13,III,15,7488850,Grey adopts existing tactics#II / Classic Army #
+839,Green,sets up new,II,Classic Army ,2021-03-01 16:35:56,III,13,7488850,Green sets up new tactics#II / Classic Army #
+840,Orange,sets up new,II,Napoleonic Army ,2021-03-01 15:07:48,III,13,7488850,Orange sets up new tactics#II / Napoleonic Army #
+841,Grey,adopts existing,I,Phalanx ,2021-02-26 07:36:36,II,9,7488850,Grey adopts existing tactics#I / Phalanx #
+842,Green,sets up new,I,Phalanx ,2021-02-22 15:35:34,II,8,7488850,Green sets up new tactics#I / Phalanx #
+843,Grey,adopts existing,I,Fighting Band ,2021-02-21 17:53:59,I,5,7488850,Grey adopts existing tactics#I / Fighting Band #
+844,Orange,sets up new,I,Heavy Cavalry ,2021-02-21 09:24:46,I,5,7488850,Orange sets up new tactics#I / Heavy Cavalry #
+845,Green,sets up new,I,Fighting Band ,2021-02-19 10:42:00,I,3,7488850,Green sets up new tactics#I / Fighting Band #
+846,Purple,sets up new,I,Fighting Band ,2021-02-19 09:16:38,I,3,7488850,Purple sets up new tactics#I / Fighting Band #
+847,Grey,adopts existing,II,Mobile Artillery ,2021-03-11 15:48:00,III,17,7489429,Grey adopts existing tactics#II / Mobile Artillery #
+848,Grey,sets up new,III,Mechanized Army ,2021-03-11 15:06:39,III,16,7489429,Grey sets up new tactics#III / Mechanized Army #
+849,Green,sets up new,II,Mobile Artillery ,2021-03-10 22:13:18,III,14,7489429,Green sets up new tactics#II / Mobile Artillery #
+850,Green,sets up new,I,Medieval Army ,2021-03-10 09:21:27,II,10,7489429,Green sets up new tactics#I / Medieval Army #
+851,Orange,sets up new,I,Heavy Cavalry ,2021-03-08 09:21:20,I,8,7489429,Orange sets up new tactics#I / Heavy Cavalry #
+852,Grey,sets up new,I,Phalanx ,2021-03-08 07:55:23,I,6,7489429,Grey sets up new tactics#I / Phalanx #
+853,Grey,sets up new,II,Classic Army ,2021-03-16 09:39:24,III,15,7489723,Grey sets up new tactics#II / Classic Army #
+854,Green,sets up new,III,Shock Troops ,2021-03-15 22:30:14,III,14,7489723,Green sets up new tactics#III / Shock Troops #
+855,Purple,sets up new,III,Entrenchments ,2021-03-15 14:52:35,III,13,7489723,Purple sets up new tactics#III / Entrenchments #
+856,Orange,sets up new,II,Mobile Artillery ,2021-03-15 14:40:10,III,13,7489723,Orange sets up new tactics#II / Mobile Artillery #
+857,Grey,adopts existing,I,Legion ,2021-03-15 12:41:07,II,11,7489723,Grey adopts existing tactics#I / Legion #
+858,Orange,adopts existing,I,Medieval Army ,2021-03-15 09:47:04,II,10,7489723,Orange adopts existing tactics#I / Medieval Army #
+859,Purple,sets up new,I,Legion ,2021-03-14 09:40:34,I,6,7489723,Purple sets up new tactics#I / Legion #
+860,Orange,sets up new,I,Phalanx ,2021-03-14 08:24:45,I,6,7489723,Orange sets up new tactics#I / Phalanx #
+861,Grey,sets up new,I,Fighting Band ,2021-03-13 01:38:14,I,4,7489723,Grey sets up new tactics#I / Fighting Band #
+862,Green,sets up new,I,Medieval Army ,2021-03-12 23:08:50,I,4,7489723,Green sets up new tactics#I / Medieval Army #
+863,Purple,sets up new,I,Fighting Band ,2021-03-12 17:30:17,I,4,7489723,Purple sets up new tactics#I / Fighting Band #
+864,Orange,adopts existing,II,Napoleonic Army ,2021-03-28 09:31:51,III,17,7489957,Orange adopts existing tactics#II / Napoleonic Army #
+865,Purple,adopts existing,II,Napoleonic Army ,2021-03-27 19:05:18,III,16,7489957,Purple adopts existing tactics#II / Napoleonic Army #
+866,Orange,sets up new,II,Mobile Artillery ,2021-03-27 09:33:29,III,15,7489957,Orange sets up new tactics#II / Mobile Artillery #
+867,Grey,adopts existing,I,Phalanx ,2021-03-25 20:19:52,II,11,7489957,Grey adopts existing tactics#I / Phalanx #
+868,Green,sets up new,II,Napoleonic Army ,2021-03-25 20:09:09,II,11,7489957,Green sets up new tactics#II / Napoleonic Army #
+869,Green,sets up new,I,Phalanx ,2021-03-25 09:31:03,II,7,7489957,Green sets up new tactics#I / Phalanx #
+870,Green,adopts existing,I,Medieval Army ,2021-03-25 08:32:05,I,6,7489957,Green adopts existing tactics#I / Medieval Army #
+871,Purple,sets up new,I,Medieval Army ,2021-03-24 14:12:11,I,5,7489957,Purple sets up new tactics#I / Medieval Army #
+872,Orange,sets up new,I,Medieval Army ,2021-03-24 12:48:29,I,5,7489957,Orange sets up new tactics#I / Medieval Army #
+873,Grey,sets up new,I,Fighting Band ,2021-03-24 12:32:18,I,4,7489957,Grey sets up new tactics#I / Fighting Band #
+874,Green,adopts existing,I,Fighting Band ,2021-03-28 19:38:17,II,8,7490325,Green adopts existing tactics#I / Fighting Band #
+875,Orange,sets up new,I,Fighting Band ,2021-03-28 19:22:00,I,7,7490325,Orange sets up new tactics#I / Fighting Band #
+876,Grey,sets up new,I,Fighting Band ,2021-03-28 19:07:44,I,5,7490325,Grey sets up new tactics#I / Fighting Band #
+877,Purple,sets up new,I,Medieval Army ,2021-03-28 18:51:39,I,4,7490325,Purple sets up new tactics#I / Medieval Army #
+878,Orange,adopts existing,II,Napoleonic Army ,2021-04-06 08:59:53,III,17,7490386,Orange adopts existing tactics#II / Napoleonic Army #
+879,Green,adopts existing,II,Napoleonic Army ,2021-04-05 11:33:19,III,13,7490386,Green adopts existing tactics#II / Napoleonic Army #
+880,Orange,sets up new,I,Medieval Army ,2021-04-02 08:31:11,II,11,7490386,Orange sets up new tactics#I / Medieval Army #
+881,Purple,sets up new,II,Napoleonic Army ,2021-03-31 23:34:21,II,10,7490386,Purple sets up new tactics#II / Napoleonic Army #
+882,Orange,adopts existing,I,Legion ,2021-03-31 16:05:02,I,7,7490386,Orange adopts existing tactics#I / Legion #
+883,Purple,sets up new,I,Medieval Army ,2021-03-31 13:41:42,I,6,7490386,Purple sets up new tactics#I / Medieval Army #
+884,Grey,sets up new,I,Legion ,2021-03-31 07:01:08,I,4,7490386,Grey sets up new tactics#I / Legion #
+885,Green,sets up new,I,Phalanx ,2021-03-31 00:42:44,I,4,7490386,Green sets up new tactics#I / Phalanx #
+886,Purple,sets up new,I,Fighting Band ,2021-03-30 22:24:26,I,4,7490386,Purple sets up new tactics#I / Fighting Band #
+887,Orange,adopts existing,II,Defensive Army ,2021-04-17 00:38:18,III,15,7490649,Orange adopts existing tactics#II / Defensive Army #
+888,Orange,adopts existing,II,Mobile Artillery ,2021-04-16 13:07:07,III,14,7490649,Orange adopts existing tactics#II / Mobile Artillery #
+889,Purple,sets up new,II,Defensive Army ,2021-04-15 15:36:49,III,13,7490649,Purple sets up new tactics#II / Defensive Army #
+890,Grey,sets up new,II,Mobile Artillery ,2021-04-15 11:44:29,III,12,7490649,Grey sets up new tactics#II / Mobile Artillery #
+891,Purple,adopts existing,I,Heavy Cavalry ,2021-04-14 21:45:17,II,11,7490649,Purple adopts existing tactics#I / Heavy Cavalry #
+892,Grey,adopts existing,I,Medieval Army ,2021-04-12 12:01:54,II,9,7490649,Grey adopts existing tactics#I / Medieval Army #
+893,Purple,sets up new,I,Medieval Army ,2021-04-09 23:49:23,II,7,7490649,Purple sets up new tactics#I / Medieval Army #
+894,Orange,sets up new,I,Phalanx ,2021-04-09 17:00:20,I,6,7490649,Orange sets up new tactics#I / Phalanx #
+895,Grey,sets up new,I,Fighting Band ,2021-04-09 10:51:20,I,4,7490649,Grey sets up new tactics#I / Fighting Band #
+896,Green,sets up new,I,Heavy Cavalry ,2021-04-09 10:44:21,I,4,7490649,Green sets up new tactics#I / Heavy Cavalry #
+897,Purple,sets up new,I,Fighting Band ,2021-04-09 10:29:12,I,4,7490649,Purple sets up new tactics#I / Fighting Band #
+898,Orange,sets up new,II,Defensive Army ,2021-04-27 11:35:58,III,16,7491046,Orange sets up new tactics#II / Defensive Army #
+899,Purple,sets up new,II,Napoleonic Army ,2021-04-27 04:16:19,III,15,7491046,Purple sets up new tactics#II / Napoleonic Army #
+900,Green,sets up new,II,Conquistadors ,2021-04-26 12:30:41,III,14,7491046,Green sets up new tactics#II / Conquistadors #
+901,Grey,adopts existing,I,Legion ,2021-04-25 22:29:35,III,12,7491046,Grey adopts existing tactics#I / Legion #
+902,Orange,adopts existing,I,Legion ,2021-04-20 22:51:48,II,8,7491046,Orange adopts existing tactics#I / Legion #
+903,Purple,adopts existing,I,Legion ,2021-04-20 18:51:24,I,7,7491046,Purple adopts existing tactics#I / Legion #
+904,Orange,sets up new,I,Fighting Band ,2021-04-20 16:41:23,I,6,7491046,Orange sets up new tactics#I / Fighting Band #
+905,Grey,sets up new,I,Heavy Cavalry ,2021-04-20 14:30:43,I,5,7491046,Grey sets up new tactics#I / Heavy Cavalry #
+906,Green,sets up new,I,Legion ,2021-04-20 14:21:36,I,5,7491046,Green sets up new tactics#I / Legion #
+907,Grey,sets up new,I,Fighting Band ,2021-04-20 07:35:41,I,4,7491046,Grey sets up new tactics#I / Fighting Band #
+908,Purple,adopts existing,III,Entrenchments ,2021-05-21 09:51:01,III,15,7491505,Purple adopts existing tactics#III / Entrenchments #
+909,Orange,sets up new,II,Classic Army ,2021-05-21 09:16:46,III,15,7491505,Orange sets up new tactics#II / Classic Army #
+910,Green,sets up new,III,Entrenchments ,2021-05-20 23:53:31,III,14,7491505,Green sets up new tactics#III / Entrenchments #
+911,Purple,sets up new,II,Defensive Army ,2021-05-12 12:29:31,II,10,7491505,Purple sets up new tactics#II / Defensive Army #
+912,Orange,adopts existing,I,Heavy Cavalry ,2021-05-11 10:39:21,II,9,7491505,Orange adopts existing tactics#I / Heavy Cavalry #
+913,Green,adopts existing,I,Legion ,2021-05-05 11:49:36,II,7,7491505,Green adopts existing tactics#I / Legion #
+914,Grey,adopts existing,I,Legion ,2021-05-04 16:27:26,I,6,7491505,Grey adopts existing tactics#I / Legion #
+915,Purple,sets up new,I,Legion ,2021-05-04 11:21:56,I,5,7491505,Purple sets up new tactics#I / Legion #
+916,Orange,sets up new,I,Phalanx ,2021-05-04 10:06:04,I,5,7491505,Orange sets up new tactics#I / Phalanx #
+917,Grey,sets up new,I,Heavy Cavalry ,2021-05-04 09:33:42,I,4,7491505,Grey sets up new tactics#I / Heavy Cavalry #
+918,Green,sets up new,I,Fighting Band ,2021-05-03 17:20:26,I,4,7491505,Green sets up new tactics#I / Fighting Band #
+919,Purple,sets up new,II,Napoleonic Army ,2021-06-01 11:18:01,II,12,7492262,Purple sets up new tactics#II / Napoleonic Army #
+920,Orange,sets up new,II,Mobile Artillery ,2021-05-31 09:57:45,II,12,7492262,Orange sets up new tactics#II / Mobile Artillery #
+921,Orange,adopts existing,I,Medieval Army ,2021-05-25 23:50:08,II,10,7492262,Orange adopts existing tactics#I / Medieval Army #
+922,Purple,sets up new,I,Medieval Army ,2021-05-25 14:56:57,I,7,7492262,Purple sets up new tactics#I / Medieval Army #
+923,Green,sets up new,I,Legion ,2021-05-25 14:29:36,I,6,7492262,Green sets up new tactics#I / Legion #
+924,Orange,adopts existing,I,Fighting Band ,2021-05-25 13:39:43,I,6,7492262,Orange adopts existing tactics#I / Fighting Band #
+925,Grey,sets up new,I,Medieval Army ,2021-05-24 22:53:36,I,4,7492262,Grey sets up new tactics#I / Medieval Army #
+926,Green,sets up new,I,Fighting Band ,2021-05-24 22:46:19,I,4,7492262,Green sets up new tactics#I / Fighting Band #
+927,Green,sets up new,III,Entrenchments ,2021-06-15 11:28:01,IV,17,7492705,Green sets up new tactics#III / Entrenchments #
+928,Orange,adopts existing,II,Defensive Army ,2021-06-14 16:39:00,III,13,7492705,Orange adopts existing tactics#II / Defensive Army #
+929,Grey,adopts existing,II,Classic Army ,2021-06-14 13:44:58,III,12,7492705,Grey adopts existing tactics#II / Classic Army #
+930,Green,sets up new,II,Defensive Army ,2021-06-11 09:30:21,II,11,7492705,Green sets up new tactics#II / Defensive Army #
+931,Purple,sets up new,II,Classic Army ,2021-06-11 09:03:25,II,11,7492705,Purple sets up new tactics#II / Classic Army #
+932,Orange,adopts existing,I,Legion ,2021-06-09 17:04:06,II,9,7492705,Orange adopts existing tactics#I / Legion #
+933,Green,sets up new,I,Legion ,2021-06-09 11:08:14,II,7,7492705,Green sets up new tactics#I / Legion #
+934,Grey,sets up new,I,Heavy Cavalry ,2021-06-08 06:53:44,I,5,7492705,Grey sets up new tactics#I / Heavy Cavalry #
+935,Purple,sets up new,I,Medieval Army ,2021-06-07 12:41:37,I,3,7492705,Purple sets up new tactics#I / Medieval Army #
+936,Purple,adopts existing,II,Defensive Army ,2021-06-25 15:21:25,III,15,7493040,Purple adopts existing tactics#II / Defensive Army #
+937,Grey,sets up new,II,Defensive Army ,2021-06-25 14:12:18,III,13,7493040,Grey sets up new tactics#II / Defensive Army #
+938,Orange,sets up new,II,Napoleonic Army ,2021-06-25 08:14:55,III,13,7493040,Orange sets up new tactics#II / Napoleonic Army #
+939,Orange,sets up new,I,Phalanx ,2021-06-22 11:58:58,II,8,7493040,Orange sets up new tactics#I / Phalanx #
+940,Grey,adopts existing,I,Legion ,2021-06-22 09:17:50,II,7,7493040,Grey adopts existing tactics#I / Legion #
+941,Purple,sets up new,I,Legion ,2021-06-21 12:55:12,I,5,7493040,Purple sets up new tactics#I / Legion #
+942,Orange,sets up new,I,Fighting Band ,2021-06-21 11:40:13,I,5,7493040,Orange sets up new tactics#I / Fighting Band #
+943,Purple,sets up new,I,Fighting Band ,2021-06-20 20:38:36,I,4,7493040,Purple sets up new tactics#I / Fighting Band #
+944,Green,sets up new,I,Legion ,2021-06-18 18:44:09,I,3,7493040,Green sets up new tactics#I / Legion #
+945,Grey,adopts existing,II,Napoleonic Army ,2021-07-01 14:23:19,IV,17,7493350,Grey adopts existing tactics#II / Napoleonic Army #
+946,Orange,sets up new,III,Mechanized Army ,2021-07-01 13:58:03,III,17,7493350,Orange sets up new tactics#III / Mechanized Army #
+947,Grey,adopts existing,II,Classic Army ,2021-07-01 13:42:11,III,16,7493350,Grey adopts existing tactics#II / Classic Army #
+948,Purple,sets up new,II,Classic Army ,2021-07-01 11:13:40,III,15,7493350,Purple sets up new tactics#II / Classic Army #
+949,Orange,sets up new,II,Fortifications ,2021-07-01 09:45:37,III,14,7493350,Orange sets up new tactics#II / Fortifications #
+950,Grey,sets up new,II,Napoleonic Army ,2021-07-01 08:55:52,III,13,7493350,Grey sets up new tactics#II / Napoleonic Army #
+951,Purple,sets up new,I,Medieval Army ,2021-07-01 08:05:20,II,12,7493350,Purple sets up new tactics#I / Medieval Army #
+952,Green,adopts existing,I,Medieval Army ,2021-06-30 23:05:35,II,11,7493350,Green adopts existing tactics#I / Medieval Army #
+953,Green,adopts existing,I,Fighting Band ,2021-06-29 23:04:52,I,7,7493350,Green adopts existing tactics#I / Fighting Band #
+954,Orange,adopts existing,I,Fighting Band ,2021-06-29 07:57:40,I,6,7493350,Orange adopts existing tactics#I / Fighting Band #
+955,Grey,sets up new,I,Medieval Army ,2021-06-29 07:46:47,I,5,7493350,Grey sets up new tactics#I / Medieval Army #
+956,Purple,sets up new,I,Phalanx ,2021-06-29 00:33:25,I,5,7493350,Purple sets up new tactics#I / Phalanx #
+957,Grey,sets up new,I,Fighting Band ,2021-06-28 18:43:46,I,4,7493350,Grey sets up new tactics#I / Fighting Band #
