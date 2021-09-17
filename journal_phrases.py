@@ -32,20 +32,20 @@ journal_phrases = {
     'production_science': fr'end turn[{SPACING_CHAR}]+?.*?(?P<player>\w+?) scores:'\
         r'.*?(?P<science_gen>\d+?) science \(now (?P<science>\d+?)\)'\
         fr'.*?[{SPACING_CHAR}]+?',
-    'aggression': r'(?P<attacker>\w+?) plays (?P<aggression>.*?) against (?P<target>\w+?)',
+    'aggression': r'(?P<attacker>\w+) plays (?P<aggression>.*?) against (?P<target>\w+)',
     'aggression_success': 'concedes defeat',
     'aggression_fail' : r'(?P<target>.*?) defends',
-    'war': r'(?P<attacker>\w+?) declares war over (?P<war>.*?) on (?P<target>\w+?)',
+    'war': r'(?P<attacker>\w+) declares war over (?P<war>.*?) on (?P<target>\w+)',
     'war_resolution': fr'(?P<player>\w+?) wins (?P<war>.*?)[{SPACING_CHAR}]'\
         r'attacker.s strength: (?P<attack>\d+) defender.s strength: (?P<defense>\d+)',
-    'territory': fr'(?P<player>\w+?) wins (?P<territory>.*?)[{SPACING_CHAR}]'\
+    'territory': fr'(?P<player>\w+) wins (?P<territory>.*?)[{SPACING_CHAR}]'\
         r'winning bid is (?P<bid>\d+)',
-    'card_takes': r'(?P<player>\w+?) takes (?P<card>.*?) in hand',
-    'discovers_technology': fr'(?P<player>\w+?) discovers (?P<technology>\w+?)[{SPACING_CHAR}]+?'\
-        r'.+? loses (?P<science>\d+?) science',
-    'builds': r'(?P<player>\w+?) builds (?P<worker>\w+?)'\
-        r'.+? spends (?P<resources>\d+?) resource',
-    'upgrades': r'(?P<player>\w+?) upgrades (?P<worker>\w+?)',
+    'card_takes': r'(?P<player>\w+) takes (?P<card>.*?) in hand',
+    'discovers_technology': fr'(?P<player>\w+) discovers (?P<technology>\w+?)[{SPACING_CHAR}]+?'\
+        r'.+? loses (?P<science>\d+) science',
+    'builds': r'(?P<player>\w+) builds (?P<worker>\w+?)'\
+        r'.+? spends (?P<resources>\d+) resource',
+    'upgrades': fr'(?P<player>\w+) upgrades (?P<worker>\w+?)[{SPACING_CHAR}]',
     'event': r'(?P<player>\w+?) plays event.*?scores (?P<event_age>\d+?) culture',
     'tactics': fr'(?P<player>\w+?) (?P<action>.+?) tactics[{SPACING_CHAR}]+?'\
         fr'(?P<tactic_age>\w+?) / (?P<tactic>.*?)[{SPACING_CHAR}]+?',
