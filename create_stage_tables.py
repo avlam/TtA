@@ -1,62 +1,15 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Context
-
-# Read game journals found in directory 'gamejournals'
-# Create the following tables:
-# - games
-# - scores
-# - players
-# - wonders
-# - leaders
-# - tactics
-
-# ### Columns
-
-# - game_id (pk)
-# - game_name
-# - ~~winner (player name)~~
-# - num_turns 
-# - start_date 
-# - end date
-
-# ### Scores
-
-# - game_id (pk)
-# - orange (1st player)
-# - purple (2nd player)
-# - green (3rd player)
-# - grey (4th player)
-
-# ### Players
-
-# - game_id (pk)
-# - orange (1st player)
-# - purple (2nd player)
-# - green (3rd player)
-# - grey (4th player)
-
-# # Setup
-
-# In[1]:
-
-
+# Setup
 import pandas as pd
 from pathlib import Path
 import re
+from parameters import locations, SPACING_CHAR
+from journal_phrases import journal_phrases
 
-
-# In[2]:
-
-
-staging_dir = Path(Path.cwd(),'staging')
-journal_dir = Path(Path.cwd(),'gamejournals')
-game_list = list(journal_dir.glob('*.csv'))
-
-
-# In[3]:
-
+output_dir = locations['staging']
+game_list = list(locations['raw'].glob('*.csv'))
 
 searches = {
     'outcome': re.compile(r'(\w+) is (.*?) as (\w+) \((.*?)\)', re.IGNORECASE),
@@ -64,12 +17,7 @@ searches = {
     'points': re.compile(r'(?P<points>\d+)', re.IGNORECASE)
 }
 
-
-# ## Functions
-
-# In[35]:
-
-
+## Functions
 def get_str_from_journal(target_file, *targets):
     """
     helper to extract specific key strings from game journal. (e.g. summary text, game title)
@@ -142,46 +90,106 @@ def parse_summary(game_file):
     return summary_df.transpose()
 
 
-# # Generate Tables
+def generate_tables(game, *tables):
+    """
+    handler for stage table creation. reads game data based on Path object game and passes common information to each table generator.
+    game: Path object to game journal file
+    *tables: tables to generate
+    """
+    
+#     need to add arguments to pass through mode and save options
+    game_data = pd.read_csv(game, index_col=0)
+    game_id = game.stem
 
-# In[36]:
 
-
-games = pd.DataFrame(columns=['game_name', 'num_turns', 'start_date', 'end_date'])
-players = pd.DataFrame(columns=['orange', 'purple', 'green', 'grey'])
-scores = pd.DataFrame(columns=['orange', 'purple', 'green', 'grey'])
+def table_games(game, mode='add', save=False):
+    """
+    creates stage table 'games' or adds game to existing stage table 'games'
+    returns dataframe of data
+    game: Path object to game journal
+    mode: ['add', 'create']
+    save: bool - determines if resulting dataframe is saved to file
+    overwrite: bool - if False, appends to existing file
+    """
+    GAMES_FILENAME = 'games.csv'
+    GAMES_PATH = locations['staging'].joinpath(GAMES_FILENAME)
+    if mode == 'create':
+        games = pd.DataFrame(columns=['game_name', 'num_turns', 'start_date', 'end_date'])
+    elif mode == 'add':
+        if GAMES_PATH.exists():
+            games = pd.read_csv(GAMES_PATH, index_col=0)
+        else:
+            raise(f'{GAMES_FILENAME} does not exist. Use mode=\'create\'')
+    else:
+        raise ValueError(f'mode {mode} not found. Must be either "add" or "create"')
+    
+    game_id = game.stem
+    game_data = pd.read_csv(game, index_col=0)
+    find_name = re.search(searches['game_name'], get_str_from_journal(game,'creation')['creation'])
+    if find_name:
+        game_name = find_name.group('name')
+    else: 
+        game_name = ''
+    
+    summary = {
+        'game_name': game_name,
+        'num_turns': game_data['round'].max()-1, # offset by one to account for post-game scoring listed as a turn in journal
+        'end_date': game_data['time'].max(),
+        'start_date':game_data['time'].min()
+    }
+    
+    games = games.append(pd.DataFrame(summary,index=[game_id]))
+    
+    if save:
+        games.to_csv(GAMES_PATH)
+    return games
+    
+    
+def parse_journal(game, save=False):
+    """
+    Create set of stage tables parsing each journal entry phrase defined in dict journal_phrases
+    Input is path to individual game file
+    returns a dict of dfs representing each generated table.
+    """
+    journal = pd.read_csv(game, index_col=0)
+    journal['game_id'] = game.stem
+    output = {}
+    for phrase, template in journal_phrases.items():
+#         print(f'parsing {phrase}')
+        file = f'{phrase}.csv'
+        filepath = locations['staging'].joinpath(file)
+        search = re.compile(template, re.IGNORECASE)
+        matches = journal['text'].apply(lambda logentry: re.match(search, logentry))
+        matches.dropna(inplace=True)
+        parsed_df = pd.DataFrame(matches.apply(lambda x: x.groupdict()).to_list(), index=matches.index)
+        parsed_df = parsed_df.join(journal[['time','age','round','game_id','text']])
+        if filepath.exists():
+            existing_data = pd.read_csv(filepath, index_col=0)
+            parsed_df = existing_data.append(parsed_df)
+        parsed_df.reset_index(drop=True, inplace=True)
+        output[phrase] = parsed_df
+        if save:
+            parsed_df.to_csv(filepath)
+    return output
+    
+    
+# Generate Tables
+players = pd.DataFrame()
+scores = pd.DataFrame()
 
 for game in game_list:
     game_data = pd.read_csv(game, index_col=0)
     game_id = game.stem
-    try:
-        game_name = re.search(searches['game_name'], get_str_from_journal(game,'creation')['creation']).group('name')
-    except:
-        game_name = ''
-    num_turns = game_data['round'].max()-1 # offset by one to account for post-game scoring listed as a turn in journal
-    end_time = game_data['time'].max()
-    start_time = game_data['time'].min()
-
-    this_summary = {
-        'game_name': game_name,
-        'num_turns': num_turns,
-        'start_date': start_time,
-        'end_date': end_time
-    }
-
+    parse_journal(game, save=True)
     summary_df = parse_summary(game)
-
-    games = games.append(pd.DataFrame(this_summary,index=[game_id]))
-    players = players.append(pd.DataFrame(summary_df.loc['name',:].to_dict(),index=[game_id]))
-    scores = scores.append(pd.DataFrame(summary_df.loc['score',:].to_dict(),index=[game_id]))
-
-
-# # Store Tables
-
-# In[40]:
+    summary_df = summary_df.transpose().reset_index()
+    summary_df['game_id'] = game_id
+    players = players.append(summary_df.loc[:,['game_id','player','name']])
+    scores = players.append(summary_df)
 
 
-players.to_csv(staging_dir.joinpath('players.csv'))
-scores.to_csv(staging_dir.joinpath('scores.csv'))
-games.to_csv(staging_dir.joinpath('games.csv'))
+# Store Tables
+
+players.reset_index().to_csv(output_dir.joinpath('players.csv'))
+scores.reset_index().to_csv(output_dir.joinpath('scores.csv'))
 
