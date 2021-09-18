@@ -102,11 +102,13 @@ def get_logs(session, game_id, save=False):
     
     return logs
 
-
-# # Data Collection
-if __name__ == "__main__":
+def collect_logs():
     # As written log collection will cycle through all ids in game_id_list and recreate .csv files. add arguments to use this same script for single game log collection
     session = create_BGO_session()
     for game in game_id_list:
         get_logs(session, game, save=True)
+
+# # Data Collection
+if __name__ == "__main__":
+    collect_logs()
 
