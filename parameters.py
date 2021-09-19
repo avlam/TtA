@@ -8,4 +8,12 @@ locations = {
     'raw': root.joinpath('gamejournals')
     }
 
+manual_files = [
+    root.joinpath('game_id_list.csv')
+]
+
+generated_files = [
+    
+]
+
 SPACING_CHAR = '#'
